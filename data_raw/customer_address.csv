@@ -1,0 +1,8 @@
+customer_address_id,customer_street,customer_city,customer_zipcode,zone
+1,3rd cross,banglore,123444,red
+2,gali no 30,gurugram,123124,orange
+3,2nd main,delhi,123124,green
+4,vasant,gurugram,123126,red
+5,5th main,banglore,123444,red
+6,sector-28,ahmedabad,238974,orange
+7,model town,surat,973949,green

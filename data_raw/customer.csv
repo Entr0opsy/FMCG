@@ -1,0 +1,7 @@
+customer_id,customer_firstName,customer_lastName,customer_gender,customer_age,customer_phone,customer_email,customer_address_id
+1,vijay,gupta,male,18,1290838,anskjnkjd@gamil.com,1
+2,renu,mourya,female,32,1008098,renumourya@gmail.com,4
+3,jay,verma,male,32,98929379,verma.jay@gmail.com,6
+10,sneha,gulati,female,55,29730300,gul.snha@gmail.com,7
+14,neetu,rajput,female,20,9838972,rajputneetu@yahoo.com,5
+16,mayank,aggarwal,male,40,9098997,aggmayank@gmail.com,2

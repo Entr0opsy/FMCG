@@ -1,0 +1,3001 @@
+date,visitStartTime,trafficSource,city,state,userID
+2020-04-11,17:31:32,Ravelry.com,Boise,Idaho,dknobell0
+2020-04-11,22:28:24,twitter.com,Memphis,Tennessee,lcopeman1
+2020-04-11,4:41:08,facebook.com,Irvine,California,rfairfoul2
+2020-04-11,5:06:18,twitter.com,Bloomington,Illinois,ddoggett3
+2020-04-11,17:47:13,MocoSpace.com,Richmond,Virginia,mchatband4
+2020-04-11,10:50:28,twitter.com,Muncie,Indiana,kolijve5
+2020-04-11,19:59:03,google.com,Dallas,Texas,ctalks6
+2020-04-11,15:20:51,youtube.com,Topeka,Kansas,hsherry7
+2020-04-11,5:33:02,facebook.com,Shreveport,Louisiana,ssurmanwells8
+2020-04-11,20:54:12,MocoSpace.com,Philadelphia,Pennsylvania,dchang9
+2020-04-11,5:41:25,youtube.com,Sunnyvale,California,ckirklanda
+2020-04-11,1:35:34,twitter.com,Denver,Colorado,larrighinib
+2020-04-11,8:08:27,facebook.com,Wichita,Kansas,fvandenhoffc
+2020-04-11,17:17:30,youtube.com,Minneapolis,Minnesota,rpinckstoned
+2020-04-11,6:54:06,Ravelry.com,Brooklyn,New York,msedgefielde
+2020-04-11,20:09:27,twitter.com,Lakewood,Washington,wharewoodf
+2020-04-11,19:14:06,google.com,Peoria,Illinois,sbasekeg
+2020-04-11,7:26:24,Ravelry.com,Kansas City,Missouri,imckeemanh
+2020-04-11,12:28:22,MocoSpace.com,Helena,Montana,vfarrari
+2020-04-11,2:16:38,youtube.com,Sioux Falls,South Dakota,gdigglesj
+2020-04-11,1:06:39,facebook.com,Mountain View,California,mballancek
+2020-04-11,18:04:40,twitter.com,Dallas,Texas,oslowlyl
+2020-04-11,21:10:13,youtube.com,Springfield,Illinois,btomickim
+2020-04-11,11:26:29,facebook.com,Oklahoma City,Oklahoma,bbeeseyn
+2020-04-11,15:30:52,google.com,Washington,District of Columbia,bbooyo
+2020-04-11,4:36:38,Ravelry.com,San Jose,California,tpelcheurp
+2020-04-11,1:25:09,MocoSpace.com,Tampa,Florida,ekiljanq
+2020-04-11,15:40:15,Ravelry.com,Edmond,Oklahoma,ldumsdayr
+2020-04-11,19:17:41,facebook.com,Baton Rouge,Louisiana,dbedbroughs
+2020-04-11,12:54:05,twitter.com,Brea,California,fducarelt
+2020-04-11,5:05:39,Ravelry.com,Louisville,Kentucky,mashallu
+2020-04-11,13:36:30,facebook.com,Anchorage,Alaska,mpaicev
+2020-04-11,4:45:32,facebook.com,Jackson,Mississippi,acranidgew
+2020-04-11,18:06:04,google.com,Tampa,Florida,lrokex
+2020-04-11,12:47:20,twitter.com,Aurora,Colorado,tmcgeadyy
+2020-04-11,4:46:56,facebook.com,Oklahoma City,Oklahoma,abraidenz
+2020-04-11,8:02:58,facebook.com,Newark,New Jersey,mtabert10
+2020-04-11,19:43:58,google.com,Kent,Washington,hsimpkin11
+2020-04-11,20:53:59,MocoSpace.com,Tulsa,Oklahoma,praecroft12
+2020-04-11,2:27:53,Ravelry.com,Austin,Texas,rmcdarmid13
+2020-04-11,19:02:29,MocoSpace.com,Santa Fe,New Mexico,cschwartz14
+2020-04-11,2:29:49,MocoSpace.com,Brooklyn,New York,sbrokenshaw15
+2020-04-11,21:05:41,google.com,Schenectady,New York,astannislawski16
+2020-04-11,17:23:13,Ravelry.com,Minneapolis,Minnesota,jbowell17
+2020-04-11,12:14:44,twitter.com,Roanoke,Virginia,glazenby18
+2020-04-11,20:00:24,youtube.com,Indianapolis,Indiana,asimonutti19
+2020-04-11,8:53:13,MocoSpace.com,Davenport,Iowa,sseyler1a
+2020-04-11,22:12:36,MocoSpace.com,New York City,New York,aboyall1b
+2020-04-11,9:58:52,youtube.com,Minneapolis,Minnesota,kmulvin1c
+2020-04-11,7:55:06,google.com,Orlando,Florida,dofeeny1d
+2020-04-11,10:26:03,facebook.com,Houston,Texas,csail1e
+2020-04-11,11:16:19,facebook.com,New York City,New York,dferraron1f
+2020-04-11,21:36:04,facebook.com,Jacksonville,Florida,aberriman1g
+2020-04-11,7:54:59,MocoSpace.com,Northridge,California,yalesio1h
+2020-04-11,0:18:29,youtube.com,Madison,Wisconsin,hhammerstone1i
+2020-04-11,16:07:19,youtube.com,Des Moines,Iowa,ecrummey1j
+2020-04-11,18:17:11,twitter.com,Baltimore,Maryland,mweeke1k
+2020-04-11,11:44:36,MocoSpace.com,Lake Charles,Louisiana,llovat1l
+2020-04-11,0:18:23,Ravelry.com,Terre Haute,Indiana,apeakman1m
+2020-04-11,20:33:27,Ravelry.com,Pensacola,Florida,cwolvey1n
+2020-04-11,14:45:35,youtube.com,Philadelphia,Pennsylvania,mspadotto1o
+2020-04-11,14:22:55,Ravelry.com,Seattle,Washington,ilarvor1p
+2020-04-11,15:13:59,MocoSpace.com,Stamford,Connecticut,ctuffield1q
+2020-04-11,4:09:40,google.com,Lubbock,Texas,adeblasi1r
+2020-04-11,3:05:45,Ravelry.com,Denver,Colorado,emulcock1s
+2020-04-11,14:38:22,google.com,Bakersfield,California,istear1t
+2020-04-11,3:28:35,Ravelry.com,Silver Spring,Maryland,tchilcotte1u
+2020-04-11,18:20:28,facebook.com,Peoria,Illinois,sfleischmann1v
+2020-04-11,0:34:19,Ravelry.com,El Paso,Texas,wpadberry1w
+2020-04-11,18:12:57,google.com,New York City,New York,hquoit1x
+2020-04-11,9:16:57,facebook.com,Knoxville,Tennessee,krockell1y
+2020-04-11,15:07:56,MocoSpace.com,Fresno,California,adionisetto1z
+2020-04-11,6:44:54,Ravelry.com,Aurora,Colorado,kgainsbury20
+2020-04-11,3:16:18,google.com,Virginia Beach,Virginia,wide21
+2020-04-11,0:22:39,Ravelry.com,Boise,Idaho,btoten22
+2020-04-11,18:11:54,facebook.com,Maple Plain,Minnesota,lhowgill23
+2020-04-11,22:13:04,youtube.com,Omaha,Nebraska,cfewlass24
+2020-04-11,17:18:20,Ravelry.com,Hicksville,New York,lales25
+2020-04-11,11:06:27,twitter.com,Orange,California,acruickshanks26
+2020-04-11,3:55:08,youtube.com,Salt Lake City,Utah,caberkirdo27
+2020-04-11,16:17:20,twitter.com,Dayton,Ohio,ehiddsley28
+2020-04-11,11:33:20,google.com,Champaign,Illinois,ssteade29
+2020-04-11,22:47:39,MocoSpace.com,Anchorage,Alaska,mhammer2a
+2020-04-11,13:00:59,Ravelry.com,Akron,Ohio,spallister2b
+2020-04-11,8:57:38,facebook.com,Kansas City,Missouri,kbrownscombe2c
+2020-04-11,19:38:43,twitter.com,Detroit,Michigan,bmcdavitt2d
+2020-04-11,15:26:00,youtube.com,Spokane,Washington,sabramino2e
+2020-04-11,1:49:53,google.com,Denton,Texas,mthaller2f
+2020-04-11,10:32:16,twitter.com,Jacksonville,Florida,rimlaw2g
+2020-04-11,12:18:31,MocoSpace.com,Louisville,Kentucky,mdelabarre2h
+2020-04-11,7:59:06,MocoSpace.com,El Paso,Texas,rgoldsberry2i
+2020-04-11,0:30:10,youtube.com,Fort Wayne,Indiana,etourot2j
+2020-04-11,10:20:37,Ravelry.com,Tulsa,Oklahoma,egerrens2k
+2020-04-11,5:02:14,facebook.com,North Little Rock,Arkansas,kcoggins2l
+2020-04-11,4:36:09,youtube.com,Atlanta,Georgia,lwhitters2m
+2020-04-11,22:39:02,youtube.com,Topeka,Kansas,vorgel2n
+2020-04-11,6:42:43,MocoSpace.com,El Paso,Texas,ckondratenya2o
+2020-04-11,0:34:21,MocoSpace.com,Springfield,Illinois,dfilewood2p
+2020-04-11,4:36:31,MocoSpace.com,Ventura,California,lcaruth2q
+2020-04-11,12:36:36,facebook.com,Houston,Texas,epluvier2r
+2020-04-11,22:40:23,youtube.com,Austin,Texas,lbiles2s
+2020-04-11,6:24:55,youtube.com,Frederick,Maryland,bfulton2t
+2020-04-11,1:30:52,MocoSpace.com,Washington,District of Columbia,yelden2u
+2020-04-11,21:34:55,Ravelry.com,Vero Beach,Florida,rcaines2v
+2020-04-11,13:17:37,twitter.com,Redwood City,California,cmannion2w
+2020-04-11,11:00:15,MocoSpace.com,Cincinnati,Ohio,emaginn2x
+2020-04-11,8:24:06,twitter.com,Mansfield,Ohio,bthormann2y
+2020-04-11,15:10:07,facebook.com,Iowa City,Iowa,edearle2z
+2020-04-11,13:23:58,MocoSpace.com,Amarillo,Texas,vrobion30
+2020-04-11,8:11:14,Ravelry.com,Nashville,Tennessee,lmarjoribanks31
+2020-04-11,21:29:51,MocoSpace.com,San Antonio,Texas,stheakston32
+2020-04-11,21:10:55,youtube.com,Madison,Wisconsin,aellsworthe33
+2020-04-11,16:43:00,google.com,Las Cruces,New Mexico,wlowmass34
+2020-04-11,16:44:04,youtube.com,Fort Lauderdale,Florida,bbraganca35
+2020-04-11,16:25:05,Ravelry.com,Huntington,West Virginia,nmccreery36
+2020-04-11,6:55:09,facebook.com,Washington,District of Columbia,asoane37
+2020-04-11,10:09:36,facebook.com,San Francisco,California,shayselden38
+2020-04-11,1:09:28,google.com,Pittsburgh,Pennsylvania,gilymanov39
+2020-04-11,14:39:57,google.com,Bakersfield,California,cblowers3a
+2020-04-11,10:45:40,youtube.com,Lexington,Kentucky,epetrasch3b
+2020-04-11,1:01:00,facebook.com,Indianapolis,Indiana,rjagg3c
+2020-04-11,23:02:39,MocoSpace.com,El Paso,Texas,poverington3d
+2020-04-11,0:16:12,MocoSpace.com,New York City,New York,bboog3e
+2020-04-11,10:20:14,twitter.com,Washington,District of Columbia,uwaterworth3f
+2020-04-11,16:51:17,youtube.com,New Hyde Park,New York,meckart3g
+2020-04-11,22:26:49,MocoSpace.com,Chico,California,amoralee3h
+2020-04-11,4:25:15,youtube.com,Washington,District of Columbia,chaibel3i
+2020-04-11,21:47:01,facebook.com,Panama City,Florida,abellhanger3j
+2020-04-11,14:28:36,facebook.com,Tulsa,Oklahoma,afaire3k
+2020-04-11,11:38:11,twitter.com,Flushing,New York,mpritchitt3l
+2020-04-11,14:52:17,Ravelry.com,Spokane,Washington,lswin3m
+2020-04-11,15:29:04,twitter.com,Arlington,Virginia,sbullerwell3n
+2020-04-11,20:02:37,Ravelry.com,Sandy,Utah,ckewish3o
+2020-04-11,19:14:34,Ravelry.com,Milwaukee,Wisconsin,bferrario3p
+2020-04-11,6:50:49,facebook.com,Charlotte,North Carolina,rbrixham3q
+2020-04-11,11:59:06,facebook.com,Boulder,Colorado,sludwikiewicz3r
+2020-04-11,21:09:54,MocoSpace.com,San Diego,California,tcode3s
+2020-04-11,17:51:01,twitter.com,Homestead,Florida,qroylance3t
+2020-04-11,4:09:46,MocoSpace.com,Kansas City,Missouri,ereach3u
+2020-04-11,19:38:47,twitter.com,Salt Lake City,Utah,abortolotti3v
+2020-04-11,8:09:54,youtube.com,Salt Lake City,Utah,bshelmardine3w
+2020-04-11,22:23:45,MocoSpace.com,New Orleans,Louisiana,snoddings3x
+2020-04-11,23:11:07,facebook.com,Montpelier,Vermont,cgianinotti3y
+2020-04-11,6:51:08,google.com,San Francisco,California,rsodo3z
+2020-04-11,9:43:19,facebook.com,Philadelphia,Pennsylvania,dseagrove40
+2020-04-11,11:49:55,youtube.com,Kansas City,Missouri,ldargie41
+2020-04-11,1:43:52,Ravelry.com,Philadelphia,Pennsylvania,ljan42
+2020-04-11,10:51:41,youtube.com,Baltimore,Maryland,rmoughtin43
+2020-04-11,0:55:01,youtube.com,Washington,District of Columbia,flocksley44
+2020-04-11,18:42:09,facebook.com,Virginia Beach,Virginia,cgleeson45
+2020-04-11,14:54:09,google.com,Atlanta,Georgia,lsyfax46
+2020-04-11,13:19:18,MocoSpace.com,Philadelphia,Pennsylvania,jbarnicott47
+2020-04-11,7:51:01,Ravelry.com,Jamaica,New York,mdymott48
+2020-04-11,21:16:43,Ravelry.com,Washington,District of Columbia,lwein49
+2020-04-11,7:43:02,youtube.com,Tampa,Florida,bbalmer4a
+2020-04-11,17:48:34,facebook.com,Metairie,Louisiana,dwoolston4b
+2020-04-11,16:50:32,MocoSpace.com,Wilkes Barre,Pennsylvania,mhalloran4c
+2020-04-11,15:01:06,MocoSpace.com,Savannah,Georgia,wumpleby4d
+2020-04-11,12:11:23,youtube.com,Saint Louis,Missouri,lrock4e
+2020-04-11,23:52:09,Ravelry.com,Norwalk,Connecticut,dgadesby4f
+2020-04-11,5:00:14,youtube.com,Orlando,Florida,dlynas4g
+2020-04-11,5:22:25,google.com,Naples,Florida,rfawke4h
+2020-04-11,7:25:22,youtube.com,Hicksville,New York,mslocum4i
+2020-04-11,0:54:06,google.com,Charleston,West Virginia,lpask4j
+2020-04-11,20:16:20,facebook.com,Tyler,Texas,msaintpierre4k
+2020-04-11,0:11:45,youtube.com,Pensacola,Florida,gblance4l
+2020-04-11,10:18:34,google.com,High Point,North Carolina,eudy4m
+2020-04-11,5:37:43,Ravelry.com,Charleston,West Virginia,lreisen4n
+2020-04-11,6:34:16,google.com,Irving,Texas,vhoffman4o
+2020-04-11,11:39:41,youtube.com,Palm Bay,Florida,cputterill4p
+2020-04-11,9:49:40,MocoSpace.com,Akron,Ohio,egorelli4q
+2020-04-11,23:18:37,twitter.com,Charlotte,North Carolina,ddoyley4r
+2020-04-11,12:45:47,twitter.com,Scottsdale,Arizona,lduckett4s
+2020-04-11,4:57:42,Ravelry.com,Los Angeles,California,pcuxson4t
+2020-04-11,21:22:58,google.com,Shawnee Mission,Kansas,nbrenneke4u
+2020-04-11,5:56:31,Ravelry.com,Las Vegas,Nevada,cantoniewicz4v
+2020-04-11,17:11:01,MocoSpace.com,Mount Vernon,New York,vtrenbey4w
+2020-04-11,4:06:46,facebook.com,Indianapolis,Indiana,cvotier4x
+2020-04-11,5:03:23,youtube.com,Vienna,Virginia,acarnegie4y
+2020-04-11,19:17:52,google.com,Pensacola,Florida,thalsey4z
+2020-04-11,20:03:03,Ravelry.com,Albany,New York,umeasham50
+2020-04-11,19:30:28,google.com,Columbia,South Carolina,cboulton51
+2020-04-11,11:35:29,google.com,Stockton,California,sbrabon52
+2020-04-11,22:09:49,Ravelry.com,Sunnyvale,California,vsacker53
+2020-04-11,23:20:42,MocoSpace.com,Springfield,Massachusetts,awykes54
+2020-04-11,0:18:26,MocoSpace.com,Springfield,Illinois,bstaziker55
+2020-04-11,6:42:48,facebook.com,Los Angeles,California,mrush56
+2020-04-11,11:50:22,facebook.com,Saint Paul,Minnesota,sboggers57
+2020-04-11,16:44:22,facebook.com,London,Kentucky,pliveley58
+2020-04-11,6:33:21,youtube.com,Glendale,California,mhardwich59
+2020-04-11,0:15:49,MocoSpace.com,Ventura,California,pambrogelli5a
+2020-04-11,16:09:57,google.com,Saint Louis,Missouri,gllewelly5b
+2020-04-11,6:26:38,MocoSpace.com,Arlington,Texas,cneilson5c
+2020-04-11,6:24:43,youtube.com,Alhambra,California,lmaccolgan5d
+2020-04-11,8:09:50,facebook.com,Philadelphia,Pennsylvania,nburk5e
+2020-04-11,7:11:20,google.com,Evansville,Indiana,bchessun5f
+2020-04-11,21:46:28,Ravelry.com,Salt Lake City,Utah,dbrookshaw5g
+2020-04-11,4:43:21,facebook.com,Wichita,Kansas,jjedrysik5h
+2020-04-11,20:19:32,twitter.com,Simi Valley,California,alutty5i
+2020-04-11,5:03:07,facebook.com,Spokane,Washington,dormonde5j
+2020-04-11,22:24:10,youtube.com,Lake Worth,Florida,sbanat5k
+2020-04-11,14:09:54,youtube.com,Los Angeles,California,pbrinklow5l
+2020-04-11,1:03:32,facebook.com,Nashville,Tennessee,mebbing5m
+2020-04-11,0:27:16,facebook.com,Salt Lake City,Utah,aheart5n
+2020-04-11,8:10:15,google.com,Dallas,Texas,mkeady5o
+2020-04-11,20:06:13,MocoSpace.com,Washington,District of Columbia,stricker5p
+2020-04-11,4:50:03,google.com,Madison,Wisconsin,sroseveare5q
+2020-04-11,17:27:33,Ravelry.com,Chicago,Illinois,cjouanet5r
+2020-04-11,19:06:14,facebook.com,Syracuse,New York,abonifazio5s
+2020-04-11,4:09:23,Ravelry.com,Dayton,Ohio,smiddle5t
+2020-04-11,6:27:44,MocoSpace.com,Sparks,Nevada,ieatttok5u
+2020-04-11,8:55:57,MocoSpace.com,Louisville,Kentucky,srosbottom5v
+2020-04-11,18:38:52,MocoSpace.com,Boise,Idaho,mgwynne5w
+2020-04-11,10:50:10,youtube.com,Indianapolis,Indiana,skoeppe5x
+2020-04-11,10:10:01,twitter.com,Nashville,Tennessee,dcaldecot5y
+2020-04-11,14:23:23,twitter.com,Corpus Christi,Texas,rsmallcomb5z
+2020-04-11,20:14:41,MocoSpace.com,Raleigh,North Carolina,csandercock60
+2020-04-11,10:56:38,twitter.com,Port Charlotte,Florida,klye61
+2020-04-11,8:08:21,google.com,Spokane,Washington,bbaudain62
+2020-04-11,3:45:00,MocoSpace.com,Washington,District of Columbia,mfarlambe63
+2020-04-11,9:32:37,MocoSpace.com,Norfolk,Virginia,ccokly64
+2020-04-11,7:26:00,youtube.com,Houston,Texas,bbrandoni65
+2020-04-11,3:03:44,twitter.com,Staten Island,New York,klucian66
+2020-04-11,7:07:21,Ravelry.com,Elmira,New York,rpickaver67
+2020-04-11,7:20:41,google.com,Los Angeles,California,fvandijk68
+2020-04-11,13:49:51,youtube.com,Boston,Massachusetts,hciobotaru69
+2020-04-11,12:48:53,youtube.com,Miami,Florida,mdundendale6a
+2020-04-11,0:27:13,youtube.com,San Antonio,Texas,gbaskerville6b
+2020-04-11,11:52:23,twitter.com,Atlanta,Georgia,hburgyn6c
+2020-04-11,23:32:23,youtube.com,Champaign,Illinois,ekilby6d
+2020-04-11,11:02:40,google.com,Hampton,Virginia,bjestico6e
+2020-04-11,14:03:17,youtube.com,Louisville,Kentucky,ldebill6f
+2020-04-11,10:27:04,twitter.com,Miami,Florida,lgonnin6g
+2020-04-11,15:02:09,Ravelry.com,San Antonio,Texas,otoquet6h
+2020-04-11,6:32:12,google.com,Miami,Florida,lbrownill6i
+2020-04-11,9:22:51,MocoSpace.com,Boise,Idaho,aaronstein6j
+2020-04-11,12:44:10,twitter.com,Birmingham,Alabama,ssuddick6k
+2020-04-11,8:06:13,Ravelry.com,Knoxville,Tennessee,bnormanville6l
+2020-04-11,2:58:02,google.com,Monticello,Minnesota,cgore6m
+2020-04-11,18:09:20,facebook.com,Mesa,Arizona,acuffley6n
+2020-04-11,19:54:16,facebook.com,San Jose,California,afranciskiewicz6o
+2020-04-11,21:34:22,Ravelry.com,Helena,Montana,rwarin6p
+2020-04-11,6:14:34,google.com,Birmingham,Alabama,tbrearty6q
+2020-04-11,11:08:08,Ravelry.com,Milwaukee,Wisconsin,laiskrigg6r
+2020-04-11,11:41:10,Ravelry.com,Chesapeake,Virginia,zfinkle6s
+2020-04-11,12:54:36,google.com,Greenville,South Carolina,eastin6t
+2020-04-11,15:02:22,MocoSpace.com,Lincoln,Nebraska,nleyshon6u
+2020-04-11,12:47:18,twitter.com,Fort Worth,Texas,bbadrock6v
+2020-04-11,10:57:43,google.com,Macon,Georgia,rstaterfield6w
+2020-04-11,2:05:34,youtube.com,Philadelphia,Pennsylvania,gandrzejewski6x
+2020-04-11,7:44:56,youtube.com,Paterson,New Jersey,broscrigg6y
+2020-04-11,0:21:19,MocoSpace.com,Washington,District of Columbia,lesch6z
+2020-04-11,4:31:48,twitter.com,Pensacola,Florida,fwoloschin70
+2020-04-11,23:32:45,Ravelry.com,Rockville,Maryland,ccrisell71
+2020-04-11,20:02:26,facebook.com,Fairfax,Virginia,lkoubu72
+2020-04-11,7:08:52,MocoSpace.com,Buffalo,New York,nquirk73
+2020-04-11,3:00:17,Ravelry.com,Ogden,Utah,bastman74
+2020-04-11,19:33:05,facebook.com,Hartford,Connecticut,oriseam75
+2020-04-11,22:12:19,youtube.com,Anchorage,Alaska,mmuro76
+2020-04-11,4:39:46,twitter.com,Sacramento,California,zborland77
+2020-04-11,8:29:19,Ravelry.com,Columbus,Ohio,ahazeldean78
+2020-04-11,14:59:29,MocoSpace.com,Round Rock,Texas,zkeele79
+2020-04-11,7:30:41,youtube.com,Austin,Texas,sfahy7a
+2020-04-11,17:04:09,google.com,Chicago,Illinois,frudloff7b
+2020-04-11,22:27:23,Ravelry.com,Mesquite,Texas,agriffey7c
+2020-04-11,2:48:14,twitter.com,Nashville,Tennessee,dsparling7d
+2020-04-11,2:05:59,facebook.com,Seattle,Washington,yjesson7e
+2020-04-11,19:27:49,facebook.com,Atlanta,Georgia,gbesant7f
+2020-04-11,16:42:19,youtube.com,Wilkes Barre,Pennsylvania,rdurkin7g
+2020-04-11,21:37:23,Ravelry.com,Colorado Springs,Colorado,mcromblehome7h
+2020-04-11,7:25:14,MocoSpace.com,Fresno,California,tpossel7i
+2020-04-11,7:32:50,google.com,Lincoln,Nebraska,chadcock7j
+2020-04-11,14:45:06,MocoSpace.com,Mobile,Alabama,amann7k
+2020-04-11,16:53:29,youtube.com,Milwaukee,Wisconsin,jpeekevout7l
+2020-04-11,3:35:34,twitter.com,Saint Paul,Minnesota,gfayerbrother7m
+2020-04-11,15:54:29,twitter.com,Charlotte,North Carolina,mvarlow7n
+2020-04-11,18:39:35,MocoSpace.com,Orange,California,nlerego7o
+2020-04-11,1:51:53,Ravelry.com,Vero Beach,Florida,ngehrels7p
+2020-04-11,4:56:58,youtube.com,Hagerstown,Maryland,estoneley7q
+2020-04-11,20:12:24,twitter.com,Youngstown,Ohio,bgadson7r
+2020-04-11,23:21:52,twitter.com,Monroe,Louisiana,jfreke7s
+2020-04-11,22:27:08,facebook.com,San Francisco,California,trenzo7t
+2020-04-11,6:16:17,twitter.com,Abilene,Texas,gguiu7u
+2020-04-11,0:32:36,twitter.com,Orlando,Florida,eswanborrow7v
+2020-04-11,14:11:58,facebook.com,Roanoke,Virginia,bmundee7w
+2020-04-11,22:05:47,facebook.com,Saint Paul,Minnesota,cmatzaitis7x
+2020-04-11,14:46:11,facebook.com,Boise,Idaho,cbeardsell7y
+2020-04-11,13:55:03,facebook.com,Houston,Texas,mgate7z
+2020-04-11,19:37:32,youtube.com,Winston Salem,North Carolina,mzecchinii80
+2020-04-11,23:50:21,Ravelry.com,Saint Petersburg,Florida,frodenhurst81
+2020-04-11,11:03:07,MocoSpace.com,San Francisco,California,kvarlow82
+2020-04-11,3:16:50,youtube.com,Honolulu,Hawaii,aiozefovich83
+2020-04-11,13:18:23,Ravelry.com,Saint Louis,Missouri,ngrattage84
+2020-04-11,19:53:58,twitter.com,Honolulu,Hawaii,croggeman85
+2020-04-11,20:14:13,Ravelry.com,South Bend,Indiana,ccabrera86
+2020-04-11,14:14:33,youtube.com,Austin,Texas,eratley87
+2020-04-11,7:38:08,MocoSpace.com,Bethesda,Maryland,mmccall88
+2020-04-11,19:35:32,MocoSpace.com,Dallas,Texas,ydrance89
+2020-04-11,10:24:59,google.com,Shreveport,Louisiana,ntallboy8a
+2020-04-11,1:04:37,MocoSpace.com,Lubbock,Texas,ekiss8b
+2020-04-11,5:36:59,facebook.com,New York City,New York,ecupitt8c
+2020-04-11,6:38:54,twitter.com,Vero Beach,Florida,aheilds8d
+2020-04-11,14:52:31,twitter.com,Shawnee Mission,Kansas,srendall8e
+2020-04-11,16:37:16,twitter.com,Flint,Michigan,gkeighley8f
+2020-04-11,9:06:22,google.com,Fort Worth,Texas,ckrabbe8g
+2020-04-11,13:11:07,google.com,Cumming,Georgia,efilochov8h
+2020-04-11,18:20:32,MocoSpace.com,Los Angeles,California,krival8i
+2020-04-11,21:36:56,google.com,Rockford,Illinois,cpruvost8j
+2020-04-11,20:11:03,facebook.com,Tacoma,Washington,jashbolt8k
+2020-04-11,15:57:55,youtube.com,New York City,New York,hcornew8l
+2020-04-11,22:29:05,Ravelry.com,Spartanburg,South Carolina,egarrique8m
+2020-04-11,6:09:44,MocoSpace.com,Monticello,Minnesota,ttezure8n
+2020-04-11,2:28:21,youtube.com,San Francisco,California,nharrington8o
+2020-04-11,3:41:02,facebook.com,Tulsa,Oklahoma,lchasier8p
+2020-04-11,21:16:24,youtube.com,Miami,Florida,cdericot8q
+2020-04-11,10:26:00,google.com,Evansville,Indiana,hengley8r
+2020-04-11,20:37:59,facebook.com,Los Angeles,California,aglading8s
+2020-04-11,2:52:36,twitter.com,Tucson,Arizona,mrillett8t
+2020-04-11,11:26:59,youtube.com,Hartford,Connecticut,bwhittle8u
+2020-04-11,12:54:09,twitter.com,Phoenix,Arizona,cthorndale8v
+2020-04-11,21:46:58,MocoSpace.com,Zephyrhills,Florida,kdrewet8w
+2020-04-11,13:38:44,youtube.com,El Paso,Texas,dknight8x
+2020-04-11,5:05:41,youtube.com,Trenton,New Jersey,sziehm8y
+2020-04-11,15:46:55,MocoSpace.com,San Antonio,Texas,dhanrott8z
+2020-04-11,4:52:47,Ravelry.com,Lake Charles,Louisiana,hperkis90
+2020-04-11,22:43:29,MocoSpace.com,Saint Louis,Missouri,mlegalle91
+2020-04-11,5:19:02,Ravelry.com,Hagerstown,Maryland,ldengel92
+2020-04-11,3:30:51,Ravelry.com,Orlando,Florida,qrowe93
+2020-04-11,21:41:52,Ravelry.com,Nashville,Tennessee,tvaneeden94
+2020-04-11,12:49:10,google.com,Dearborn,Michigan,elassey95
+2020-04-11,12:57:12,Ravelry.com,Staten Island,New York,thardway96
+2020-04-11,4:04:55,google.com,Indianapolis,Indiana,jraddin97
+2020-04-11,17:40:38,Ravelry.com,Pinellas Park,Florida,pwolverson98
+2020-04-11,1:22:56,twitter.com,Greenville,South Carolina,lmuccino99
+2020-04-11,0:26:23,google.com,Escondido,California,phartill9a
+2020-04-11,21:49:44,youtube.com,Saint Louis,Missouri,rchildren9b
+2020-04-11,2:20:35,facebook.com,Saint Louis,Missouri,pderuel9c
+2020-04-11,0:44:29,Ravelry.com,Wichita,Kansas,ealabaster9d
+2020-04-11,10:24:56,MocoSpace.com,Minneapolis,Minnesota,ekristof9e
+2020-04-11,21:22:45,twitter.com,Odessa,Texas,ccordeiro9f
+2020-04-11,17:35:47,google.com,Phoenix,Arizona,mpiff9g
+2020-04-11,10:49:08,youtube.com,Fort Worth,Texas,fbacks9h
+2020-04-11,17:24:25,MocoSpace.com,Seattle,Washington,bfierro9i
+2020-04-11,11:53:09,twitter.com,Washington,District of Columbia,cmatiashvili9j
+2020-04-11,20:54:32,youtube.com,Jacksonville,Florida,kfolling9k
+2020-04-11,5:44:02,google.com,Tacoma,Washington,gyankishin9l
+2020-04-11,17:47:09,google.com,Memphis,Tennessee,tlehrmann9m
+2020-04-11,10:44:09,twitter.com,Houston,Texas,vkuna9n
+2020-04-11,14:53:14,MocoSpace.com,Fairfield,Connecticut,nsallnow9o
+2020-04-11,23:14:09,MocoSpace.com,Melbourne,Florida,teustes9p
+2020-04-11,18:18:06,Ravelry.com,Monroe,Louisiana,gdeighton9q
+2020-04-11,5:50:15,facebook.com,Lehigh Acres,Florida,lomailey9r
+2020-04-11,14:24:33,google.com,Oklahoma City,Oklahoma,twrathall9s
+2020-04-11,21:21:58,google.com,Columbus,Georgia,fissard9t
+2020-04-11,14:38:43,MocoSpace.com,Bronx,New York,dforsyth9u
+2020-04-11,12:58:46,facebook.com,Nashville,Tennessee,gberic9v
+2020-04-11,20:08:37,google.com,Camden,New Jersey,adulinty9w
+2020-04-11,0:15:09,google.com,Saint Petersburg,Florida,jgrist9x
+2020-04-11,17:43:36,twitter.com,San Diego,California,gstegel9y
+2020-04-11,18:50:12,facebook.com,Sacramento,California,kwoolfall9z
+2020-04-11,23:58:59,Ravelry.com,Kansas City,Missouri,rstuda0
+2020-04-11,4:06:09,Ravelry.com,Evansville,Indiana,rmaccaghana1
+2020-04-11,16:42:02,facebook.com,Baton Rouge,Louisiana,mpuddephatta2
+2020-04-11,16:02:47,facebook.com,Saginaw,Michigan,tmarritta3
+2020-04-11,16:52:08,youtube.com,Naples,Florida,gstollmana4
+2020-04-11,18:13:11,facebook.com,Stamford,Connecticut,lruffa5
+2020-04-11,11:39:56,Ravelry.com,Jackson,Mississippi,nrowcastlea6
+2020-04-11,22:41:46,twitter.com,Lincoln,Nebraska,cperoa7
+2020-04-11,6:17:49,youtube.com,Bronx,New York,aculkina8
+2020-04-11,22:45:48,MocoSpace.com,Sacramento,California,ahodgesa9
+2020-04-11,8:59:47,google.com,Washington,District of Columbia,abachmannaa
+2020-04-11,2:13:22,MocoSpace.com,Springfield,Illinois,femmersonab
+2020-04-11,23:50:43,google.com,Chicago,Illinois,lmanbyac
+2020-04-11,14:57:26,Ravelry.com,Kansas City,Missouri,dkobpaad
+2020-04-11,15:43:29,Ravelry.com,Stamford,Connecticut,sfeasterae
+2020-04-11,5:52:58,Ravelry.com,Oklahoma City,Oklahoma,emckibbenaf
+2020-04-11,23:44:49,MocoSpace.com,Hartford,Connecticut,wfellibrandag
+2020-04-11,10:07:15,MocoSpace.com,El Paso,Texas,hbinnionah
+2020-04-11,20:24:28,facebook.com,Anchorage,Alaska,phutchensai
+2020-04-11,17:35:17,MocoSpace.com,Colorado Springs,Colorado,jsearstonaj
+2020-04-11,13:40:03,youtube.com,Hicksville,New York,nstefanovicak
+2020-04-11,17:48:23,facebook.com,Pensacola,Florida,rloachal
+2020-04-11,16:40:36,facebook.com,Fresno,California,abittenam
+2020-04-11,7:32:17,facebook.com,Silver Spring,Maryland,holyfatan
+2020-04-11,0:09:49,google.com,Salt Lake City,Utah,lsheridanao
+2020-04-11,11:10:01,twitter.com,Garden Grove,California,mswornap
+2020-04-11,14:11:08,twitter.com,Bridgeport,Connecticut,acolleeraq
+2020-04-11,18:41:50,MocoSpace.com,Washington,District of Columbia,ddreherar
+2020-04-11,8:37:24,MocoSpace.com,Atlanta,Georgia,wquinceeas
+2020-04-11,22:58:18,youtube.com,Houston,Texas,vmarneyat
+2020-04-11,1:04:38,MocoSpace.com,Tucson,Arizona,mspoureau
+2020-04-11,22:57:55,Ravelry.com,Torrance,California,vbraunfeldav
+2020-04-11,7:57:35,MocoSpace.com,Erie,Pennsylvania,yflaubertaw
+2020-04-11,0:00:30,MocoSpace.com,Mansfield,Ohio,tschiellax
+2020-04-11,2:44:41,Ravelry.com,San Jose,California,aoglassaneay
+2020-04-11,20:15:54,youtube.com,Santa Fe,New Mexico,mchaikovskiaz
+2020-04-11,15:19:22,twitter.com,Inglewood,California,kweedsb0
+2020-04-11,23:24:01,google.com,Dallas,Texas,slamanbyb1
+2020-04-11,16:12:03,twitter.com,New York City,New York,hdouganb2
+2020-04-11,20:34:15,google.com,Cincinnati,Ohio,ssprakeb3
+2020-04-11,13:54:55,Ravelry.com,Syracuse,New York,glorenceb4
+2020-04-11,9:30:32,twitter.com,Saint Louis,Missouri,mmetheringhamb5
+2020-04-11,7:58:23,facebook.com,Erie,Pennsylvania,dmadenb6
+2020-04-11,13:02:56,facebook.com,Salt Lake City,Utah,cbaldersonb7
+2020-04-11,4:23:07,facebook.com,Kansas City,Missouri,vduncombeb8
+2020-04-11,7:24:13,MocoSpace.com,Philadelphia,Pennsylvania,mdevennyb9
+2020-04-11,18:03:45,twitter.com,Arlington,Virginia,msalkeldba
+2020-04-11,0:08:14,MocoSpace.com,Athens,Georgia,mgillmorbb
+2020-04-11,17:23:53,youtube.com,Savannah,Georgia,frayebc
+2020-04-11,0:16:22,Ravelry.com,Las Vegas,Nevada,gdevinebd
+2020-04-11,8:00:28,facebook.com,Maple Plain,Minnesota,awollacottbe
+2020-04-11,12:00:17,google.com,Cleveland,Ohio,kagiolfingerbf
+2020-04-11,10:50:20,MocoSpace.com,Kansas City,Missouri,acranstonebg
+2020-04-11,9:08:53,Ravelry.com,Saint Augustine,Florida,fmayhoubh
+2020-04-11,20:29:45,google.com,Santa Ana,California,rrandalsbi
+2020-04-11,17:19:39,google.com,Utica,New York,gfaltinbj
+2020-04-11,16:25:52,facebook.com,Little Rock,Arkansas,lfebenbk
+2020-04-11,5:12:05,Ravelry.com,Sioux Falls,South Dakota,loldfieldcherrybl
+2020-04-11,23:47:36,facebook.com,Sioux Falls,South Dakota,lblumbm
+2020-04-11,6:08:00,youtube.com,Morgantown,West Virginia,mlabronebn
+2020-04-11,5:47:57,Ravelry.com,Louisville,Kentucky,fdoldenbo
+2020-04-11,3:53:03,Ravelry.com,Washington,District of Columbia,rcoathambp
+2020-04-11,12:55:33,facebook.com,Cheyenne,Wyoming,sjaegarbq
+2020-04-11,10:55:38,facebook.com,Atlanta,Georgia,vforresterbr
+2020-04-11,19:26:34,facebook.com,Springfield,Massachusetts,rnoyesbs
+2020-04-11,13:20:33,MocoSpace.com,Washington,District of Columbia,ddrainsbt
+2020-04-11,16:00:20,Ravelry.com,Gadsden,Alabama,arayntonbu
+2020-04-11,18:27:43,facebook.com,Reno,Nevada,chartrightbv
+2020-04-11,21:19:09,Ravelry.com,Buffalo,New York,vjoirebw
+2020-04-11,19:45:28,facebook.com,New Orleans,Louisiana,dbailesbx
+2020-04-11,4:27:31,facebook.com,Hampton,Virginia,sgorringeby
+2020-04-11,3:18:04,google.com,Chicago,Illinois,cgreenobz
+2020-04-11,10:50:13,youtube.com,Escondido,California,rbiggenc0
+2020-04-11,22:41:59,google.com,Youngstown,Ohio,vsheklec1
+2020-04-11,15:25:27,Ravelry.com,Los Angeles,California,malnerc2
+2020-04-11,16:15:26,facebook.com,Frederick,Maryland,cshaulc3
+2020-04-11,16:45:27,google.com,Fort Lauderdale,Florida,cpiperleyc4
+2020-04-11,15:03:44,twitter.com,Dayton,Ohio,pevertc5
+2020-04-11,11:17:54,MocoSpace.com,Des Moines,Iowa,meastupc6
+2020-04-11,9:26:10,twitter.com,Houston,Texas,fkehoec7
+2020-04-11,9:10:23,MocoSpace.com,Denver,Colorado,ghaycroftc8
+2020-04-11,0:34:30,twitter.com,Lawrenceville,Georgia,tcobbaldc9
+2020-04-11,22:48:28,facebook.com,Miami,Florida,tcornewallca
+2020-04-11,8:24:19,Ravelry.com,El Paso,Texas,severlycb
+2020-04-11,2:41:53,google.com,Atlanta,Georgia,ceisigcc
+2020-04-11,6:47:55,google.com,Minneapolis,Minnesota,eschumachercd
+2020-04-11,4:01:55,twitter.com,Long Beach,California,gdullinghamce
+2020-04-11,20:20:38,Ravelry.com,Henderson,Nevada,dalbistoncf
+2020-04-11,11:31:00,MocoSpace.com,Las Vegas,Nevada,ruriancg
+2020-04-11,11:15:04,facebook.com,Lima,Ohio,scrushch
+2020-04-11,9:13:42,Ravelry.com,Elizabeth,New Jersey,tgabbotci
+2020-04-11,19:58:21,twitter.com,Santa Barbara,California,sbaldingcj
+2020-04-11,21:06:17,MocoSpace.com,Lubbock,Texas,jkenninghamck
+2020-04-11,7:34:53,twitter.com,Las Vegas,Nevada,egouldthorpcl
+2020-04-11,13:15:20,MocoSpace.com,Metairie,Louisiana,ccornfootcm
+2020-04-11,11:46:19,Ravelry.com,Saint Petersburg,Florida,icarnamancn
+2020-04-11,2:26:46,Ravelry.com,North Port,Florida,abolstridgeco
+2020-04-11,15:32:36,youtube.com,Birmingham,Alabama,kcoggincp
+2020-04-11,2:42:51,Ravelry.com,Montgomery,Alabama,dknevitcq
+2020-04-11,15:57:10,facebook.com,Birmingham,Alabama,mmundencr
+2020-04-11,19:12:51,facebook.com,Lubbock,Texas,jcroslandcs
+2020-04-11,0:17:40,Ravelry.com,Orlando,Florida,adehooghct
+2020-04-11,16:18:02,twitter.com,Tuscaloosa,Alabama,bsevercu
+2020-04-11,21:48:25,MocoSpace.com,Pomona,California,emaclleesecv
+2020-04-11,12:18:17,twitter.com,Minneapolis,Minnesota,jtweedellcw
+2020-04-11,12:59:52,youtube.com,Albuquerque,New Mexico,hheinemanncx
+2020-04-11,8:25:12,youtube.com,Omaha,Nebraska,nzecchicy
+2020-04-11,3:15:15,google.com,Santa Monica,California,nkhilkovcz
+2020-04-11,1:52:55,twitter.com,Schenectady,New York,pfretterd0
+2020-04-11,20:55:12,Ravelry.com,Berkeley,California,adallasd1
+2020-04-11,0:28:17,youtube.com,Lincoln,Nebraska,tmardelld2
+2020-04-11,13:12:33,google.com,Atlanta,Georgia,astreetingd3
+2020-04-11,1:08:04,MocoSpace.com,Jacksonville,Florida,nbickled4
+2020-04-11,18:07:21,Ravelry.com,Corpus Christi,Texas,spimblotted5
+2020-04-11,21:55:35,google.com,Charlotte,North Carolina,gloved6
+2020-04-11,9:21:26,MocoSpace.com,Corona,California,skasperskid7
+2020-04-11,16:06:20,twitter.com,Fort Worth,Texas,sgrollmannd8
+2020-04-11,0:20:50,google.com,Inglewood,California,mpaffordd9
+2020-04-11,5:25:54,google.com,Columbus,Ohio,rgarrityda
+2020-04-11,6:35:10,Ravelry.com,Cleveland,Ohio,kdockwradb
+2020-04-11,16:02:01,google.com,Montgomery,Alabama,lwyldishdc
+2020-04-11,0:21:16,facebook.com,Pocatello,Idaho,skingsnoaddd
+2020-04-11,4:00:04,MocoSpace.com,Charlotte,North Carolina,akopecde
+2020-04-11,6:23:57,MocoSpace.com,Miami,Florida,elermitdf
+2020-04-11,23:57:26,twitter.com,Aurora,Colorado,apurledg
+2020-04-11,9:40:06,twitter.com,Washington,District of Columbia,cwilkindh
+2020-04-11,22:14:59,twitter.com,Crawfordsville,Indiana,atomasinidi
+2020-04-11,9:00:57,facebook.com,Anaheim,California,elifseydj
+2020-04-11,7:22:15,facebook.com,Jersey City,New Jersey,ckubatschdk
+2020-04-11,1:07:19,Ravelry.com,Miami,Florida,ghiggonetdl
+2020-04-11,12:08:24,google.com,Knoxville,Tennessee,bofferdm
+2020-04-11,4:39:03,Ravelry.com,Corpus Christi,Texas,hrabbagedn
+2020-04-11,1:56:07,MocoSpace.com,Richmond,California,nridgwaydo
+2020-04-11,23:42:27,MocoSpace.com,Boise,Idaho,hhaslamdp
+2020-04-11,1:45:55,facebook.com,San Francisco,California,rbelshamdq
+2020-04-11,14:37:26,twitter.com,El Paso,Texas,cdranfielddr
+2020-04-11,16:34:56,Ravelry.com,Knoxville,Tennessee,btillingds
+2020-04-11,18:44:10,Ravelry.com,Charleston,West Virginia,ccadamydt
+2020-04-11,15:54:09,Ravelry.com,Birmingham,Alabama,rgreenhamdu
+2020-04-11,8:28:16,youtube.com,Schenectady,New York,ghelliwelldv
+2020-04-11,9:19:42,youtube.com,Las Vegas,Nevada,lbelsherdw
+2020-04-11,21:36:41,facebook.com,Bowie,Maryland,cgoadbiedx
+2020-04-11,19:09:24,twitter.com,Vero Beach,Florida,mjoutapaviciusdy
+2020-04-11,4:06:53,youtube.com,San Jose,California,asteggalsdz
+2020-04-11,8:15:19,facebook.com,Gastonia,North Carolina,kbergete0
+2020-04-11,18:17:38,facebook.com,Spokane,Washington,ogohiere1
+2020-04-11,6:33:10,google.com,Burbank,California,ktumeltye2
+2020-04-11,22:23:42,google.com,Lima,Ohio,fwellingtone3
+2020-04-11,23:27:26,Ravelry.com,Toledo,Ohio,streadgolde4
+2020-04-11,15:09:43,Ravelry.com,Tampa,Florida,edowlinge5
+2020-04-11,19:55:41,facebook.com,Mobile,Alabama,scampline6
+2020-04-11,8:23:40,youtube.com,Pittsburgh,Pennsylvania,rmcdavide7
+2020-04-11,19:52:52,MocoSpace.com,New York City,New York,smeyshame8
+2020-04-11,7:13:16,google.com,Paterson,New Jersey,kmatthewse9
+2020-04-11,4:15:48,google.com,Mobile,Alabama,cquereeea
+2020-04-11,23:08:40,twitter.com,Hampton,Virginia,agrixeb
+2020-04-11,19:54:52,MocoSpace.com,Washington,District of Columbia,ekingsnoadec
+2020-04-11,0:51:27,youtube.com,Miami,Florida,srattered
+2020-04-11,14:12:12,Ravelry.com,Trenton,New Jersey,gwickmanee
+2020-04-11,6:02:12,MocoSpace.com,Wilkes Barre,Pennsylvania,lazemaref
+2020-04-11,21:46:13,Ravelry.com,Youngstown,Ohio,agittenseg
+2020-04-11,7:33:15,MocoSpace.com,Gatesville,Texas,jwhittameh
+2020-04-11,10:59:03,Ravelry.com,Tucson,Arizona,covanesianei
+2020-04-11,9:43:28,MocoSpace.com,Wichita,Kansas,nwyburnej
+2020-04-11,20:25:19,youtube.com,Spokane,Washington,lsilleek
+2020-04-11,10:50:37,MocoSpace.com,Tucson,Arizona,ssherynel
+2020-04-11,9:27:44,MocoSpace.com,El Paso,Texas,aconringem
+2020-04-11,17:29:03,youtube.com,Garland,Texas,tofallowneen
+2020-04-11,8:03:16,youtube.com,San Francisco,California,asemoneo
+2020-04-11,20:07:26,twitter.com,New Castle,Pennsylvania,mcleeep
+2020-04-11,19:59:43,facebook.com,Allentown,Pennsylvania,alappingeq
+2020-04-11,3:20:54,MocoSpace.com,Miami,Florida,mgosforther
+2020-04-11,14:58:08,facebook.com,Erie,Pennsylvania,ptargees
+2020-04-11,3:47:52,MocoSpace.com,Melbourne,Florida,sboscheet
+2020-04-11,2:27:18,google.com,Colorado Springs,Colorado,gmasdeneu
+2020-04-11,10:43:04,google.com,El Paso,Texas,mcadeev
+2020-04-11,15:45:55,facebook.com,Hialeah,Florida,kkimbleyew
+2020-04-11,12:17:03,youtube.com,Sacramento,California,jtizardex
+2020-04-11,4:27:18,facebook.com,Chico,California,atamsettey
+2020-04-11,6:13:36,MocoSpace.com,Chicago,Illinois,jlayheez
+2020-04-11,5:56:38,twitter.com,Las Vegas,Nevada,gkearneyf0
+2020-04-11,16:55:03,facebook.com,Duluth,Minnesota,hmanifoldf1
+2020-04-11,11:16:45,twitter.com,Port Saint Lucie,Florida,mholdallf2
+2020-04-11,17:36:15,youtube.com,Lexington,Kentucky,mrawlingsonf3
+2020-04-11,1:35:17,youtube.com,Pensacola,Florida,salldenf4
+2020-04-11,2:05:01,twitter.com,Sioux Falls,South Dakota,cmabbef5
+2020-04-11,14:01:23,google.com,Chicago,Illinois,gcoughtreyf6
+2020-04-11,17:04:26,twitter.com,Santa Monica,California,gtouseyf7
+2020-04-11,2:52:32,Ravelry.com,Oklahoma City,Oklahoma,mgreenerf8
+2020-04-11,3:15:58,Ravelry.com,Oklahoma City,Oklahoma,fshirlawf9
+2020-04-11,22:13:22,Ravelry.com,Washington,District of Columbia,dkhidrfa
+2020-04-11,10:23:02,google.com,Houston,Texas,madcockfb
+2020-04-11,5:45:02,facebook.com,Denver,Colorado,kullyottfc
+2020-04-11,18:01:26,facebook.com,Boston,Massachusetts,lrenfieldfd
+2020-04-11,18:25:21,twitter.com,Springfield,Virginia,jtuttonfe
+2020-04-11,23:32:11,youtube.com,Nashville,Tennessee,sbinesteadff
+2020-04-11,7:39:15,twitter.com,Clearwater,Florida,mlarwellfg
+2020-04-11,14:56:32,MocoSpace.com,Champaign,Illinois,rmachenfh
+2020-04-11,16:58:45,MocoSpace.com,Sacramento,California,hharryfi
+2020-04-11,20:03:59,youtube.com,San Francisco,California,ctippingsfj
+2020-04-11,6:30:42,google.com,Nashville,Tennessee,rnarrawayfk
+2020-04-11,3:06:16,facebook.com,Lake Worth,Florida,foholleganfl
+2020-04-11,1:56:02,facebook.com,Mountain View,California,fbettlesfm
+2020-04-11,1:33:17,youtube.com,Silver Spring,Maryland,tkamienfn
+2020-04-11,23:18:44,Ravelry.com,Portland,Oregon,ggeorgievfo
+2020-04-11,4:15:20,youtube.com,Oklahoma City,Oklahoma,mhockellfp
+2020-04-11,19:35:12,MocoSpace.com,Cleveland,Ohio,cclissettfq
+2020-04-11,16:30:31,youtube.com,Prescott,Arizona,rruitfr
+2020-04-11,9:10:41,twitter.com,Oakland,California,slavarackfs
+2020-04-11,21:29:12,google.com,Roanoke,Virginia,fbaccusft
+2020-04-11,23:29:58,Ravelry.com,Los Angeles,California,vaddiefu
+2020-04-11,3:13:37,youtube.com,Tucson,Arizona,ddrummerfv
+2020-04-11,11:46:20,twitter.com,Portland,Maine,ltsarovicfw
+2020-04-11,7:01:20,google.com,New Orleans,Louisiana,spelefx
+2020-04-11,9:14:22,google.com,Charlotte,North Carolina,prideoutfy
+2020-04-11,8:09:58,Ravelry.com,Farmington,Michigan,fpiddingtonfz
+2020-04-11,11:19:47,google.com,Fayetteville,North Carolina,vemling0
+2020-04-11,17:13:04,Ravelry.com,San Antonio,Texas,eclarkewilliamsg1
+2020-04-11,23:52:29,youtube.com,Buffalo,New York,pdogertyg2
+2020-04-11,0:06:04,facebook.com,Cheyenne,Wyoming,sshaldersg3
+2020-04-11,1:50:49,facebook.com,Miami,Florida,cpierceg4
+2020-04-11,10:59:09,google.com,Tucson,Arizona,drenhardg5
+2020-04-11,1:00:58,MocoSpace.com,Marietta,Georgia,gbattg6
+2020-04-11,0:40:16,MocoSpace.com,Boulder,Colorado,aelenerg7
+2020-04-11,3:12:22,MocoSpace.com,Jackson,Mississippi,gpalffreyg8
+2020-04-11,14:53:05,youtube.com,Chandler,Arizona,atarbattg9
+2020-04-11,20:04:59,twitter.com,Boulder,Colorado,jfenichga
+2020-04-11,2:48:28,youtube.com,Saint Augustine,Florida,rhadrillgb
+2020-04-11,8:39:18,facebook.com,New York City,New York,mredferngc
+2020-04-11,16:31:23,Ravelry.com,Jackson,Mississippi,elinkegd
+2020-04-11,12:04:36,youtube.com,Sacramento,California,gjainge
+2020-04-11,9:26:16,google.com,Pensacola,Florida,jauchinleckgf
+2020-04-11,0:25:27,youtube.com,New Orleans,Louisiana,wproppersgg
+2020-04-11,2:52:11,twitter.com,Lubbock,Texas,cchippgh
+2020-04-11,23:08:51,youtube.com,Wichita,Kansas,mquantgi
+2020-04-11,15:25:17,Ravelry.com,Springfield,Missouri,bdurninggj
+2020-04-11,17:47:07,MocoSpace.com,New York City,New York,mdelacroixgk
+2020-04-11,14:16:16,MocoSpace.com,Monticello,Minnesota,eaingegl
+2020-04-11,1:35:08,youtube.com,Louisville,Kentucky,aportingalegm
+2020-04-11,8:51:44,youtube.com,Irvine,California,jrushtongn
+2020-04-11,6:18:19,youtube.com,Albany,New York,ddeliasgo
+2020-04-11,8:44:14,youtube.com,Largo,Florida,jfransesgp
+2020-04-11,21:33:19,Ravelry.com,Syracuse,New York,byanukgq
+2020-04-11,15:33:47,facebook.com,Brooklyn,New York,rpickerillgr
+2020-04-11,12:28:15,twitter.com,Minneapolis,Minnesota,hcowlardgs
+2020-04-11,4:40:15,Ravelry.com,Saint Joseph,Missouri,afeldsteingt
+2020-04-11,19:27:05,MocoSpace.com,Tucson,Arizona,khanegu
+2020-04-11,21:50:07,Ravelry.com,Charlotte,North Carolina,fpinckgv
+2020-04-11,22:07:54,facebook.com,Huntsville,Alabama,nfillangw
+2020-04-11,12:53:13,facebook.com,Durham,North Carolina,ehallumsgx
+2020-04-11,20:32:12,facebook.com,Houston,Texas,kitzkowiczgy
+2020-04-11,4:56:21,twitter.com,Burbank,California,jpackgz
+2020-04-11,1:26:24,MocoSpace.com,Tucson,Arizona,csallansh0
+2020-04-11,7:33:30,facebook.com,Washington,District of Columbia,ablancheh1
+2020-04-11,16:48:14,MocoSpace.com,Harrisburg,Pennsylvania,awadlowh2
+2020-04-11,9:46:36,Ravelry.com,Winston Salem,North Carolina,pyakunikovh3
+2020-04-11,10:18:42,Ravelry.com,Kansas City,Missouri,ophilippeh4
+2020-04-11,13:04:41,facebook.com,Washington,District of Columbia,mdonnanh5
+2020-04-11,21:54:53,twitter.com,Nashville,Tennessee,morrowh6
+2020-04-11,14:45:40,facebook.com,Lansing,Michigan,dcaganh7
+2020-04-11,11:34:09,facebook.com,Minneapolis,Minnesota,clinforthh8
+2020-04-11,16:18:31,facebook.com,West Palm Beach,Florida,gdruitth9
+2020-04-11,10:01:57,youtube.com,Washington,District of Columbia,lrootsha
+2020-04-11,23:19:59,facebook.com,Atlanta,Georgia,trustichhb
+2020-04-11,17:23:22,google.com,Sacramento,California,trobelhc
+2020-04-11,11:35:37,MocoSpace.com,Jefferson City,Missouri,mduchesnehd
+2020-04-11,12:53:27,Ravelry.com,Billings,Montana,bstoggellhe
+2020-04-11,20:43:58,facebook.com,Harrisburg,Pennsylvania,aweatherburnhf
+2020-04-11,9:58:51,facebook.com,Kansas City,Missouri,lhailyhg
+2020-04-11,15:09:18,youtube.com,Austin,Texas,amohanhh
+2020-04-11,19:45:25,youtube.com,Naples,Florida,mzecchiniihi
+2020-04-11,13:57:28,MocoSpace.com,Oklahoma City,Oklahoma,wbielefeldhj
+2020-04-11,0:08:33,google.com,Littleton,Colorado,givashinnikovhk
+2020-04-11,15:41:48,twitter.com,Miami,Florida,bsentenhl
+2020-04-11,22:48:58,MocoSpace.com,El Paso,Texas,gphiliphm
+2020-04-11,12:03:53,twitter.com,Anaheim,California,kdelmontehn
+2020-04-11,15:36:27,facebook.com,Nashville,Tennessee,preinmarho
+2020-04-11,11:04:47,google.com,Houston,Texas,kruprechterhp
+2020-04-11,9:45:45,google.com,Ashburn,Virginia,hmcnivenhq
+2020-04-11,4:29:18,youtube.com,Amarillo,Texas,bcorneliussenhr
+2020-04-11,11:27:48,google.com,Buffalo,New York,vprivetths
+2020-04-11,13:30:51,Ravelry.com,Lincoln,Nebraska,hhackfordht
+2020-04-11,18:09:10,MocoSpace.com,Houston,Texas,dhandrickhu
+2020-04-11,12:34:02,MocoSpace.com,Norwalk,Connecticut,ddedhamhv
+2020-04-11,9:02:32,MocoSpace.com,El Paso,Texas,gwoolandhw
+2020-04-11,15:34:04,Ravelry.com,Dallas,Texas,rocorhanehx
+2020-04-11,19:16:21,youtube.com,Saint Paul,Minnesota,jdrohunhy
+2020-04-11,21:02:02,twitter.com,North Hollywood,California,oposselwhitehz
+2020-04-11,0:57:05,youtube.com,New York City,New York,mgrinnikovi0
+2020-04-11,3:16:02,MocoSpace.com,Albuquerque,New Mexico,bsidawayi1
+2020-04-11,5:05:13,MocoSpace.com,Canton,Ohio,afishbourni2
+2020-04-11,21:20:09,google.com,New York City,New York,vhindhaughi3
+2020-04-11,10:38:17,youtube.com,Mount Vernon,New York,kpulbrooki4
+2020-04-11,19:14:11,google.com,Louisville,Kentucky,coakeri5
+2020-04-11,20:59:38,MocoSpace.com,Houston,Texas,kmantoni6
+2020-04-11,23:09:20,google.com,Corpus Christi,Texas,wmartinettoi7
+2020-04-11,6:01:20,youtube.com,Phoenix,Arizona,wyakobowitchi8
+2020-04-11,2:16:45,twitter.com,Lexington,Kentucky,ccandeyi9
+2020-04-11,13:57:42,facebook.com,Akron,Ohio,ekarpinskiia
+2020-04-11,10:04:23,google.com,Oklahoma City,Oklahoma,csearjeantib
+2020-04-11,0:48:31,youtube.com,El Paso,Texas,vlemoucheuxic
+2020-04-11,9:11:28,Ravelry.com,New York City,New York,cdenisovoid
+2020-04-11,12:16:39,facebook.com,West Palm Beach,Florida,ycasoniie
+2020-04-11,20:28:59,twitter.com,Lincoln,Nebraska,gsmythinif
+2020-04-11,22:05:26,MocoSpace.com,Sacramento,California,uriccardelliig
+2020-04-11,2:22:31,facebook.com,Pittsburgh,Pennsylvania,ywillowsih
+2020-04-11,23:09:33,facebook.com,Olympia,Washington,akubacekii
+2020-04-11,23:29:23,google.com,Silver Spring,Maryland,nmanfordij
+2020-04-11,5:33:17,youtube.com,Kansas City,Missouri,apercyik
+2020-04-11,0:15:29,youtube.com,Yakima,Washington,ldunphieil
+2020-04-11,9:11:30,twitter.com,New Orleans,Louisiana,earmitageim
+2020-04-11,16:15:33,Ravelry.com,Petaluma,California,ecavaneyin
+2020-04-11,13:18:59,twitter.com,New York City,New York,bguyeio
+2020-04-11,7:22:35,MocoSpace.com,Colorado Springs,Colorado,ohuggardip
+2020-04-11,23:02:40,MocoSpace.com,Flint,Michigan,cboundeyiq
+2020-04-11,0:50:32,Ravelry.com,Naples,Florida,jthiolierir
+2020-04-11,21:49:22,twitter.com,Birmingham,Alabama,kdrageis
+2020-04-11,12:20:52,twitter.com,Maple Plain,Minnesota,fsambrokit
+2020-04-11,2:13:24,youtube.com,Huntsville,Alabama,cogilvyiu
+2020-04-11,0:03:14,MocoSpace.com,Valdosta,Georgia,ksandryiv
+2020-04-11,19:02:52,youtube.com,Visalia,California,bmuzzilloiw
+2020-04-11,11:22:14,MocoSpace.com,Cumming,Georgia,vvanderkruijsix
+2020-04-11,7:27:12,MocoSpace.com,Sacramento,California,msansoniy
+2020-04-11,3:30:23,Ravelry.com,Asheville,North Carolina,vocrevyiz
+2020-04-11,10:52:55,MocoSpace.com,Springfield,Illinois,ccrosherj0
+2020-04-11,9:04:44,google.com,Raleigh,North Carolina,fhendrikj1
+2020-04-11,18:56:04,google.com,Washington,District of Columbia,dsandlandj2
+2020-04-11,12:26:22,Ravelry.com,Durham,North Carolina,pvittej3
+2020-04-11,5:13:58,twitter.com,Houston,Texas,jenriquesj4
+2020-04-11,12:04:29,facebook.com,Houston,Texas,jnorthenj5
+2020-04-11,16:01:52,google.com,Savannah,Georgia,acasselsj6
+2020-04-11,7:43:49,facebook.com,Portland,Oregon,dsheaj7
+2020-04-11,13:20:15,MocoSpace.com,Littleton,Colorado,nstanworthj8
+2020-04-11,2:28:46,MocoSpace.com,Amarillo,Texas,lkinchinj9
+2020-04-11,18:36:06,MocoSpace.com,Austin,Texas,jpearcehouseja
+2020-04-11,16:28:27,MocoSpace.com,Newark,New Jersey,mbautistejb
+2020-04-11,2:20:37,Ravelry.com,Hartford,Connecticut,hwinchjc
+2020-04-11,1:15:36,twitter.com,Montgomery,Alabama,deverwinjd
+2020-04-11,18:07:20,Ravelry.com,San Diego,California,cmogenotje
+2020-04-11,1:45:51,facebook.com,San Antonio,Texas,ijimesjf
+2020-04-11,17:42:55,youtube.com,Fayetteville,North Carolina,tkalinskyjg
+2020-04-11,1:04:55,facebook.com,Brooklyn,New York,nlyonjh
+2020-04-11,13:44:23,google.com,Sioux City,Iowa,jleftlyji
+2020-04-11,10:34:48,facebook.com,Pittsburgh,Pennsylvania,fcampbelljj
+2020-04-11,18:19:41,Ravelry.com,Racine,Wisconsin,jbutcherjk
+2020-04-11,8:07:16,twitter.com,Richmond,Virginia,amachinjl
+2020-04-11,5:17:50,youtube.com,Tulsa,Oklahoma,dpattenjm
+2020-04-11,17:48:31,facebook.com,Lakeland,Florida,wgregorejn
+2020-04-11,4:49:48,google.com,Miami,Florida,dplevinjo
+2020-04-11,23:01:42,Ravelry.com,Saint Louis,Missouri,tdonnjp
+2020-04-11,0:21:13,Ravelry.com,Macon,Georgia,lolfertjq
+2020-04-11,7:05:33,Ravelry.com,Oakland,California,scharlesworthjr
+2020-04-11,3:36:10,Ravelry.com,Des Moines,Iowa,cfargherjs
+2020-04-11,12:59:00,MocoSpace.com,Delray Beach,Florida,ktockjt
+2020-04-11,14:00:14,Ravelry.com,Reno,Nevada,asanpereju
+2020-04-11,18:26:53,facebook.com,San Francisco,California,zreimerjv
+2020-04-11,15:30:41,Ravelry.com,Macon,Georgia,gcolliarjw
+2020-04-11,12:17:12,Ravelry.com,Los Angeles,California,gmingardjx
+2020-04-11,4:06:17,twitter.com,Saint Louis,Missouri,pgostickjy
+2020-04-11,9:14:23,youtube.com,Austin,Texas,llethabridgejz
+2020-04-11,11:21:23,facebook.com,Sacramento,California,candrink0
+2020-04-11,1:54:16,google.com,Minneapolis,Minnesota,tmewhak1
+2020-04-11,16:42:43,MocoSpace.com,Milwaukee,Wisconsin,acysonk2
+2020-04-11,6:22:22,MocoSpace.com,Washington,District of Columbia,falfonsinik3
+2020-04-11,4:43:29,twitter.com,Biloxi,Mississippi,omcgraghk4
+2020-04-11,1:29:24,youtube.com,Daytona Beach,Florida,jscotchmurk5
+2020-04-11,1:29:36,facebook.com,Richmond,Virginia,bharderk6
+2020-04-11,6:01:11,twitter.com,Spartanburg,South Carolina,mgethink7
+2020-04-11,7:42:05,youtube.com,Miami,Florida,ibrissendenk8
+2020-04-11,14:03:54,facebook.com,El Paso,Texas,jtankardk9
+2020-04-11,3:06:28,google.com,Berkeley,California,egilfoyleka
+2020-04-11,6:11:01,MocoSpace.com,Youngstown,Ohio,cbrawleykb
+2020-04-11,16:06:31,facebook.com,Atlanta,Georgia,ccantrillkc
+2020-04-11,19:34:23,MocoSpace.com,Washington,District of Columbia,blaingkd
+2020-04-11,0:13:03,twitter.com,Portsmouth,New Hampshire,bdyshartke
+2020-04-11,15:39:20,Ravelry.com,Tulsa,Oklahoma,hjoyntkf
+2020-04-11,10:42:01,google.com,Dallas,Texas,fbarekg
+2020-04-11,20:10:19,Ravelry.com,Aurora,Colorado,pcoopekh
+2020-04-11,2:35:59,youtube.com,Saint Louis,Missouri,slundonki
+2020-04-11,15:51:22,youtube.com,Des Moines,Iowa,efarranskj
+2020-04-11,5:17:15,youtube.com,Fresno,California,iplayfairkk
+2020-04-11,15:09:27,twitter.com,Sioux Falls,South Dakota,psiburnkl
+2020-04-11,1:54:17,MocoSpace.com,Corpus Christi,Texas,ereddingtonkm
+2020-04-11,0:03:25,google.com,El Paso,Texas,hseamonkn
+2020-04-11,21:27:45,Ravelry.com,Kalamazoo,Michigan,ssolomonko
+2020-04-11,15:04:28,google.com,Columbus,Ohio,lbrettellekp
+2020-04-11,5:11:44,facebook.com,Modesto,California,mchallenorkq
+2020-04-11,8:00:36,google.com,Memphis,Tennessee,lbilbrookekr
+2020-04-11,23:43:01,twitter.com,Las Vegas,Nevada,rcowdroyks
+2020-04-11,8:50:14,MocoSpace.com,Chattanooga,Tennessee,ystonhamkt
+2020-04-11,18:01:13,twitter.com,Memphis,Tennessee,nyouingsku
+2020-04-11,20:51:38,Ravelry.com,Birmingham,Alabama,bmangamkv
+2020-04-11,3:02:36,google.com,Dallas,Texas,astrattonkw
+2020-04-11,2:54:55,Ravelry.com,Reno,Nevada,cgreserkx
+2020-04-11,1:31:17,youtube.com,Cleveland,Ohio,sogborneky
+2020-04-11,6:44:55,Ravelry.com,Tyler,Texas,sfranciekz
+2020-04-11,15:43:25,Ravelry.com,Palm Bay,Florida,evequaudl0
+2020-04-11,11:34:43,MocoSpace.com,Saint Louis,Missouri,acuerdal1
+2020-04-11,1:25:40,google.com,Saint Louis,Missouri,mbrumbyl2
+2020-04-11,21:53:25,youtube.com,Philadelphia,Pennsylvania,mvaulsl3
+2020-04-11,8:13:40,google.com,Boston,Massachusetts,aangeaul4
+2020-04-11,17:15:32,youtube.com,Los Angeles,California,khuel5
+2020-04-11,20:00:36,youtube.com,Hartford,Connecticut,jkratesl6
+2020-04-11,18:57:44,youtube.com,Springfield,Virginia,aolivellal7
+2020-04-11,22:31:34,youtube.com,Alexandria,Virginia,mshillitol8
+2020-04-11,7:40:15,google.com,Lansing,Michigan,hlefeverl9
+2020-04-11,17:36:11,MocoSpace.com,Corpus Christi,Texas,rgaukrodgela
+2020-04-11,6:59:42,twitter.com,Washington,District of Columbia,tterbruglb
+2020-04-11,13:06:27,youtube.com,Athens,Georgia,jhacquellc
+2020-04-11,10:14:25,Ravelry.com,Cheyenne,Wyoming,mkinghamld
+2020-04-11,0:25:10,twitter.com,Baltimore,Maryland,mturbardle
+2020-04-11,10:27:20,youtube.com,Washington,District of Columbia,noneallf
+2020-04-11,1:57:42,Ravelry.com,Sacramento,California,abrissendenlg
+2020-04-11,15:22:45,twitter.com,Saint Paul,Minnesota,nofallonlh
+2020-04-11,10:06:40,MocoSpace.com,Woburn,Massachusetts,gcrankeli
+2020-04-11,15:57:52,facebook.com,Houston,Texas,npenleylj
+2020-04-11,19:05:42,youtube.com,San Antonio,Texas,brositalk
+2020-04-11,0:59:16,google.com,Albuquerque,New Mexico,gspofforthll
+2020-04-11,13:55:52,MocoSpace.com,Fort Myers,Florida,njorissenlm
+2020-04-11,7:23:59,Ravelry.com,Jamaica,New York,nromaniniln
+2020-04-11,1:03:17,youtube.com,Pasadena,Texas,ynettinglo
+2020-04-11,14:12:01,twitter.com,Atlanta,Georgia,lmaciocialp
+2020-04-11,15:50:14,MocoSpace.com,West Palm Beach,Florida,pvannaccilq
+2020-04-11,5:16:52,facebook.com,Saint Louis,Missouri,bboluslr
+2020-04-11,3:50:30,youtube.com,Orlando,Florida,rbroadberriels
+2020-04-11,18:13:17,MocoSpace.com,Indianapolis,Indiana,sfairhurstlt
+2020-04-11,13:23:18,Ravelry.com,Paterson,New Jersey,ushingfieldlu
+2020-04-11,14:59:24,google.com,Fort Lauderdale,Florida,lclemmeylv
+2020-04-11,5:44:22,twitter.com,Boise,Idaho,cchaucerlw
+2020-04-11,11:38:29,Ravelry.com,Arlington,Texas,gellerbecklx
+2020-04-11,3:56:05,MocoSpace.com,Virginia Beach,Virginia,llowinly
+2020-04-11,7:43:10,twitter.com,Fort Worth,Texas,rhaillz
+2020-04-11,20:52:51,youtube.com,Atlanta,Georgia,bmacnishm0
+2020-04-11,23:08:39,twitter.com,Dallas,Texas,smarikhinm1
+2020-04-11,1:02:40,facebook.com,Lynn,Massachusetts,kkidnerm2
+2020-04-11,3:24:27,MocoSpace.com,Lubbock,Texas,fmcivorm3
+2020-04-11,22:31:03,google.com,Dallas,Texas,laronowitzm4
+2020-04-11,12:50:42,facebook.com,Kansas City,Missouri,bbamlingm5
+2020-04-11,6:58:03,MocoSpace.com,Washington,District of Columbia,agummowm6
+2020-04-11,7:14:45,twitter.com,Bismarck,North Dakota,sivanenkovm7
+2020-04-11,14:08:37,MocoSpace.com,Atlanta,Georgia,saloshechkinm8
+2020-04-11,20:50:01,twitter.com,Melbourne,Florida,hstillym9
+2020-04-11,5:05:40,youtube.com,Topeka,Kansas,hfeldererma
+2020-04-11,14:50:27,MocoSpace.com,Merrifield,Virginia,rgrigolettimb
+2020-04-11,6:19:52,Ravelry.com,Des Moines,Iowa,mwollermc
+2020-04-11,12:22:19,MocoSpace.com,Amarillo,Texas,melcummd
+2020-04-11,4:58:12,youtube.com,Wilmington,Delaware,gshillakerme
+2020-04-11,1:29:54,youtube.com,Los Angeles,California,tgeerdtsmf
+2020-04-11,16:27:54,Ravelry.com,Des Moines,Iowa,ahambrickmg
+2020-04-11,9:29:40,MocoSpace.com,Las Vegas,Nevada,bbookermh
+2020-04-11,16:13:35,facebook.com,Whittier,California,apetrovicmi
+2020-04-11,2:03:22,google.com,Peoria,Illinois,bwixeymj
+2020-04-11,12:55:55,youtube.com,Pensacola,Florida,dmoinemk
+2020-04-11,4:22:06,MocoSpace.com,Greenville,South Carolina,kdowtryml
+2020-04-11,7:09:01,Ravelry.com,Sioux Falls,South Dakota,egaymermm
+2020-04-11,6:41:51,facebook.com,New York City,New York,spavlovmn
+2020-04-11,5:11:07,facebook.com,Hartford,Connecticut,kkleebornmo
+2020-04-11,1:51:39,twitter.com,Troy,Michigan,lblackallermp
+2020-04-11,17:15:37,Ravelry.com,Fort Worth,Texas,obukowskimq
+2020-04-11,20:02:56,MocoSpace.com,Tulsa,Oklahoma,mfirksmr
+2020-04-11,7:45:04,Ravelry.com,Boston,Massachusetts,ahegertyms
+2020-04-11,3:11:54,twitter.com,Washington,District of Columbia,bskittrellmt
+2020-04-11,19:54:49,MocoSpace.com,Dallas,Texas,nwitheropmu
+2020-04-11,7:34:20,youtube.com,Olympia,Washington,mtysackmv
+2020-04-11,14:21:40,MocoSpace.com,Fairbanks,Alaska,lgallimoremw
+2020-04-11,12:57:09,MocoSpace.com,Herndon,Virginia,cdumphreymx
+2020-04-11,19:31:52,MocoSpace.com,Monroe,Louisiana,abuxeymy
+2020-04-11,7:16:27,twitter.com,Norfolk,Virginia,mtackmz
+2020-04-11,7:07:44,youtube.com,Daytona Beach,Florida,gleggsn0
+2020-04-11,2:52:33,Ravelry.com,Birmingham,Alabama,kbicknelln1
+2020-04-11,1:19:46,facebook.com,Seattle,Washington,gtidswelln2
+2020-04-11,7:59:47,MocoSpace.com,Detroit,Michigan,chandrockn3
+2020-04-11,13:09:52,youtube.com,Kissimmee,Florida,ydezamoran4
+2020-04-11,4:20:58,Ravelry.com,Largo,Florida,vandovern5
+2020-04-11,13:55:56,google.com,Southfield,Michigan,jgrindlayn6
+2020-04-11,19:03:57,youtube.com,El Paso,Texas,aevesn7
+2020-04-11,10:16:30,google.com,Louisville,Kentucky,eeasthamn8
+2020-04-11,2:50:18,facebook.com,Honolulu,Hawaii,zbarusn9
+2020-04-11,23:55:56,MocoSpace.com,Glendale,Arizona,jowersna
+2020-04-11,2:06:10,MocoSpace.com,Oakland,California,cpretsellnb
+2020-04-11,22:34:10,facebook.com,Torrance,California,agravenornc
+2020-04-11,23:15:42,facebook.com,Boston,Massachusetts,klansdalend
+2020-04-11,7:38:12,twitter.com,Idaho Falls,Idaho,hhelwigne
+2020-04-11,22:05:14,Ravelry.com,Philadelphia,Pennsylvania,chussynf
+2020-04-11,18:40:26,youtube.com,Manchester,New Hampshire,pbarstowkng
+2020-04-11,14:32:34,google.com,Bronx,New York,sluetkemeyersnh
+2020-04-11,16:01:31,twitter.com,Seattle,Washington,dkubasiewiczni
+2020-04-11,1:27:59,twitter.com,Des Moines,Iowa,apinckneynj
+2020-04-11,1:36:50,MocoSpace.com,Olympia,Washington,ehaselnk
+2020-04-11,16:25:10,Ravelry.com,Cincinnati,Ohio,iazemarnl
+2020-04-11,13:32:38,twitter.com,Louisville,Kentucky,awiddowsnm
+2020-04-11,2:18:22,twitter.com,Washington,District of Columbia,sbeazleynn
+2020-04-11,13:50:09,twitter.com,Jacksonville,Florida,khaydnno
+2020-04-11,3:10:28,Ravelry.com,Anaheim,California,mmacdermandnp
+2020-04-11,13:35:01,twitter.com,Boise,Idaho,fpeevornq
+2020-04-11,23:49:44,Ravelry.com,Roanoke,Virginia,agerbelnr
+2020-04-11,8:56:44,youtube.com,Metairie,Louisiana,sdmitrichenkons
+2020-04-11,5:06:51,MocoSpace.com,Huntington,West Virginia,shandfordnt
+2020-04-11,15:51:52,twitter.com,San Francisco,California,vmaccaullnu
+2020-04-11,21:15:04,google.com,Dayton,Ohio,icohalannv
+2020-04-11,21:59:25,MocoSpace.com,Albuquerque,New Mexico,hfetherstonenw
+2020-04-11,13:20:43,facebook.com,Hot Springs National Park,Arkansas,kcurstonnx
+2020-04-11,0:56:12,twitter.com,Saint Paul,Minnesota,bstovellny
+2020-04-11,10:30:32,youtube.com,Albuquerque,New Mexico,ljanuarynz
+2020-04-11,21:25:48,Ravelry.com,Washington,District of Columbia,dpenhalewicko0
+2020-04-11,2:59:25,MocoSpace.com,Arlington,Virginia,lwissbeyo1
+2020-04-11,17:21:00,youtube.com,Tucson,Arizona,atiplingo2
+2020-04-11,5:46:08,Ravelry.com,Kalamazoo,Michigan,fmarcqo3
+2020-04-11,13:35:13,youtube.com,Akron,Ohio,lgreenroado4
+2020-04-11,8:56:57,youtube.com,Gilbert,Arizona,nmateso5
+2020-04-11,22:08:51,google.com,El Paso,Texas,jupfoldo6
+2020-04-11,3:15:38,youtube.com,Durham,North Carolina,wjesteo7
+2020-04-11,21:02:16,google.com,Yakima,Washington,acurnoko8
+2020-04-11,18:52:37,twitter.com,Arlington,Texas,mteuliero9
+2020-04-11,22:57:03,google.com,Cape Coral,Florida,drumpoa
+2020-04-11,22:53:29,twitter.com,Newark,Delaware,acorroyerob
+2020-04-11,16:24:38,facebook.com,Migrate,Kentucky,drippingaleoc
+2020-04-11,19:40:19,google.com,Helena,Montana,ssheeod
+2020-04-11,18:19:24,facebook.com,Dallas,Texas,dgerrilloe
+2020-04-11,15:45:30,Ravelry.com,Mesquite,Texas,pliepinaof
+2020-04-11,15:11:44,youtube.com,Saint Louis,Missouri,dpavekog
+2020-04-11,14:19:08,Ravelry.com,Fayetteville,North Carolina,sholdalloh
+2020-04-11,21:51:33,facebook.com,Fort Lauderdale,Florida,edelbouxoi
+2020-04-11,20:04:04,facebook.com,Durham,North Carolina,aclarkoj
+2020-04-11,4:34:12,twitter.com,Fort Worth,Texas,vrennok
+2020-04-11,20:03:52,twitter.com,Shreveport,Louisiana,ddooreol
+2020-04-11,11:10:23,twitter.com,Saint Louis,Missouri,bputtom
+2020-04-11,12:39:47,google.com,Albany,New York,ktannon
+2020-04-11,14:29:50,MocoSpace.com,Spartanburg,South Carolina,ndulakeoo
+2020-04-11,6:16:06,MocoSpace.com,Macon,Georgia,abloodwortheop
+2020-04-11,4:53:32,twitter.com,Baton Rouge,Louisiana,askupinskioq
+2020-04-11,17:23:43,youtube.com,Waterloo,Iowa,vvenartor
+2020-04-11,15:20:08,MocoSpace.com,Cincinnati,Ohio,rpedicanos
+2020-04-11,21:49:10,google.com,Bethesda,Maryland,crycroftot
+2020-04-11,19:18:04,google.com,Atlanta,Georgia,cparresou
+2020-04-11,3:35:57,google.com,Albuquerque,New Mexico,gtolleov
+2020-04-11,18:22:44,youtube.com,San Antonio,Texas,kruslingow
+2020-04-11,0:50:07,google.com,Dayton,Ohio,tlouderox
+2020-04-11,8:52:16,google.com,Albuquerque,New Mexico,khawksleeoy
+2020-04-11,3:44:14,MocoSpace.com,Springfield,Illinois,lstanyanoz
+2020-04-11,15:31:40,google.com,Los Angeles,California,wjickellsp0
+2020-04-11,8:22:39,youtube.com,Oklahoma City,Oklahoma,tbentsenp1
+2020-04-11,9:35:24,Ravelry.com,Topeka,Kansas,spienp2
+2020-04-11,9:23:01,google.com,Sioux Falls,South Dakota,rstuttp3
+2020-04-11,1:23:19,facebook.com,Duluth,Georgia,naikettp4
+2020-04-11,2:46:46,MocoSpace.com,Dallas,Texas,bbonifantp5
+2020-04-11,2:14:06,Ravelry.com,Spokane,Washington,ecorrettp6
+2020-04-11,7:57:35,youtube.com,Metairie,Louisiana,aibesonp7
+2020-04-11,5:57:41,Ravelry.com,Las Vegas,Nevada,awassellp8
+2020-04-11,10:49:08,google.com,Pensacola,Florida,djentgesp9
+2020-04-11,1:22:28,twitter.com,Philadelphia,Pennsylvania,dpyrtonpa
+2020-04-11,20:12:26,MocoSpace.com,El Paso,Texas,dknibleypb
+2020-04-11,16:11:20,MocoSpace.com,Miami,Florida,mdrillingcourtpc
+2020-04-11,17:09:16,youtube.com,Bridgeport,Connecticut,vcrownepd
+2020-04-11,20:55:15,MocoSpace.com,Raleigh,North Carolina,mbinghampe
+2020-04-11,22:06:51,twitter.com,Oklahoma City,Oklahoma,mkittemanpf
+2020-04-11,21:06:41,MocoSpace.com,El Paso,Texas,mfeedomepg
+2020-04-11,20:13:30,MocoSpace.com,Mobile,Alabama,mhurrellph
+2020-04-11,0:00:20,facebook.com,Salt Lake City,Utah,cadamipi
+2020-04-11,7:20:21,MocoSpace.com,Orlando,Florida,hyukhnevichpj
+2020-04-11,8:24:25,google.com,Alexandria,Virginia,emolineuxpk
+2020-04-11,14:34:05,facebook.com,Saint Petersburg,Florida,bkobierrapl
+2020-04-11,9:49:09,youtube.com,Colorado Springs,Colorado,ssevinpm
+2020-04-11,10:04:30,twitter.com,Austin,Texas,cfeatherbypn
+2020-04-11,16:01:48,youtube.com,Newark,New Jersey,mcamoyspo
+2020-04-11,8:40:16,Ravelry.com,Jefferson City,Missouri,ibarrickpp
+2020-04-11,1:44:20,google.com,New York City,New York,hpietrowskipq
+2020-04-11,8:49:38,twitter.com,Houston,Texas,nlowrespr
+2020-04-11,2:15:50,google.com,Fort Worth,Texas,kadamops
+2020-04-11,18:59:18,facebook.com,Tempe,Arizona,akhoterpt
+2020-04-11,3:45:44,MocoSpace.com,Saint Louis,Missouri,icopperwaitepu
+2020-04-11,5:06:49,google.com,Evansville,Indiana,kcharvillepv
+2020-04-11,23:57:04,google.com,Amarillo,Texas,vbaresspw
+2020-04-11,5:34:05,google.com,Albuquerque,New Mexico,falmakpx
+2020-04-11,23:01:18,youtube.com,Wichita,Kansas,mklementzpy
+2020-04-11,16:37:37,google.com,Washington,District of Columbia,vleaverpz
+2020-04-11,23:28:56,twitter.com,Hagerstown,Maryland,ndumingosq0
+2020-04-11,21:30:34,MocoSpace.com,Elmira,New York,adantonq1
+2020-04-11,6:57:26,twitter.com,Washington,District of Columbia,cblackettq2
+2020-04-11,17:54:45,youtube.com,Salt Lake City,Utah,mdandreaq3
+2020-04-11,10:14:55,MocoSpace.com,Little Rock,Arkansas,bsymcockq4
+2020-04-11,11:47:24,MocoSpace.com,Arvada,Colorado,ckarpmannq5
+2020-04-11,23:44:09,Ravelry.com,Lakeland,Florida,dcelezq6
+2020-04-11,11:49:18,MocoSpace.com,Worcester,Massachusetts,lmckeonq7
+2020-04-11,19:27:04,Ravelry.com,Kansas City,Missouri,tgregorinq8
+2020-04-11,8:20:35,twitter.com,Roanoke,Virginia,ldietmarq9
+2020-04-11,22:52:24,Ravelry.com,Mobile,Alabama,sbattershallqa
+2020-04-11,1:45:54,Ravelry.com,Erie,Pennsylvania,chuntallqb
+2020-04-11,23:22:56,Ravelry.com,Boston,Massachusetts,jstringerqc
+2020-04-11,1:06:23,twitter.com,Bethlehem,Pennsylvania,demmertqd
+2020-04-11,17:24:10,twitter.com,Albuquerque,New Mexico,hcarlettqe
+2020-04-11,17:43:50,MocoSpace.com,Rockford,Illinois,cheseyqf
+2020-04-11,14:33:48,Ravelry.com,Yonkers,New York,dandrockqg
+2020-04-11,14:27:50,youtube.com,Washington,District of Columbia,lwondraschekqh
+2020-04-11,10:51:38,google.com,Daytona Beach,Florida,wbigmoreqi
+2020-04-11,20:57:17,facebook.com,Staten Island,New York,cgrigorioqj
+2020-04-11,0:10:42,Ravelry.com,El Paso,Texas,jdonalsonqk
+2020-04-11,6:51:46,Ravelry.com,Olympia,Washington,btorelql
+2020-04-11,20:44:28,youtube.com,Tampa,Florida,wantoniottiiqm
+2020-04-11,23:29:36,google.com,Savannah,Georgia,btrimeqn
+2020-04-11,20:12:40,MocoSpace.com,Great Neck,New York,emclugaishqo
+2020-04-11,1:11:29,MocoSpace.com,Philadelphia,Pennsylvania,jdavidovskyqp
+2020-04-11,4:59:23,MocoSpace.com,Fort Worth,Texas,twycherleyqq
+2020-04-11,0:52:09,youtube.com,Charlotte,North Carolina,ccroyqr
+2020-04-11,17:28:49,google.com,Tampa,Florida,nbranfordqs
+2020-04-11,6:02:47,Ravelry.com,Monticello,Minnesota,jtimmensqt
+2020-04-11,6:48:18,google.com,Wichita,Kansas,ewaltonqu
+2020-04-11,20:56:14,google.com,Washington,District of Columbia,mkunathqv
+2020-04-11,5:31:29,Ravelry.com,Madison,Wisconsin,fcorradeschiqw
+2020-04-11,5:31:19,facebook.com,New York City,New York,rriddeqx
+2020-04-11,7:43:23,facebook.com,Durham,North Carolina,ppriddingqy
+2020-04-11,8:40:45,facebook.com,Garden Grove,California,gbarkawayqz
+2020-04-11,22:51:07,google.com,Modesto,California,trogeronr0
+2020-04-11,2:50:51,youtube.com,Columbus,Ohio,spadefieldr1
+2020-04-11,23:49:04,MocoSpace.com,Buffalo,New York,bgirathsr2
+2020-04-11,8:30:11,twitter.com,Green Bay,Wisconsin,hcallamr3
+2020-04-11,12:49:28,facebook.com,Great Neck,New York,whattiffr4
+2020-04-11,6:48:48,facebook.com,Tulsa,Oklahoma,jigguldenr5
+2020-04-11,21:53:47,google.com,Houston,Texas,dlightbourner6
+2020-04-11,6:46:33,facebook.com,Brooklyn,New York,tclemenzar7
+2020-04-11,12:58:28,twitter.com,Lubbock,Texas,tisacr8
+2020-04-11,3:40:20,twitter.com,Cedar Rapids,Iowa,apasticznykr9
+2020-04-11,21:10:02,youtube.com,Pensacola,Florida,mresidera
+2020-04-11,8:09:33,MocoSpace.com,Winston Salem,North Carolina,mfoottitrb
+2020-04-11,8:21:10,youtube.com,Fresno,California,bwindressrc
+2020-04-11,5:37:27,twitter.com,Lexington,Kentucky,tgettingsrd
+2020-04-11,13:16:23,MocoSpace.com,Washington,District of Columbia,sdupoyre
+2020-04-11,15:37:08,youtube.com,Lafayette,Louisiana,mcoarserrf
+2020-04-11,12:39:26,Ravelry.com,Olympia,Washington,ehammillrg
+2020-04-11,7:33:26,Ravelry.com,Atlanta,Georgia,pbacksalrh
+2020-04-11,22:41:39,youtube.com,Fort Worth,Texas,jpaullinri
+2020-04-11,7:45:04,youtube.com,Tyler,Texas,ljobernrj
+2020-04-11,9:39:15,MocoSpace.com,Richmond,California,ahanniganrk
+2020-04-11,21:44:41,youtube.com,Tulsa,Oklahoma,hjurischrl
+2020-04-11,0:48:10,google.com,Baltimore,Maryland,pjalesrm
+2020-04-11,23:45:13,youtube.com,Austin,Texas,lmamwellrn
+2020-04-11,10:30:07,google.com,Rochester,New York,owahnckero
+2020-04-11,21:11:13,MocoSpace.com,Norwalk,Connecticut,ecordayrp
+2020-04-11,11:12:47,google.com,Sacramento,California,harmittrq
+2020-04-11,19:44:43,Ravelry.com,Newport Beach,California,dfliegrr
+2020-04-11,10:21:23,MocoSpace.com,Montpelier,Vermont,swhiteland0
+2020-04-11,22:04:37,google.com,Olympia,Washington,jglason1
+2020-04-11,20:41:25,google.com,Erie,Pennsylvania,dkubelka2
+2020-04-11,11:07:37,Ravelry.com,Sacramento,California,bmeni3
+2020-04-11,21:34:12,MocoSpace.com,Columbia,South Carolina,awarlawe4
+2020-04-11,8:21:14,Ravelry.com,Duluth,Georgia,emouncher5
+2020-04-11,0:05:10,google.com,San Bernardino,California,mcotherill6
+2020-04-11,7:16:44,youtube.com,Philadelphia,Pennsylvania,ckilfether7
+2020-04-11,8:21:07,Ravelry.com,Greensboro,North Carolina,bbellew8
+2020-04-11,21:39:02,MocoSpace.com,Rochester,New York,csidary9
+2020-04-11,0:30:00,MocoSpace.com,New York City,New York,nspondleya
+2020-04-11,19:47:38,google.com,Evansville,Indiana,svanoortb
+2020-04-11,20:53:19,facebook.com,Huntington,West Virginia,jdearanc
+2020-04-11,10:06:16,facebook.com,Houston,Texas,fgoszd
+2020-04-11,19:10:40,facebook.com,Las Vegas,Nevada,gwhelpdalee
+2020-04-11,6:10:54,youtube.com,Riverside,California,habeauf
+2020-04-11,13:51:11,twitter.com,San Diego,California,gcornellg
+2020-04-11,7:45:23,google.com,Fairbanks,Alaska,srubenfeldh
+2020-04-11,13:43:04,MocoSpace.com,Oklahoma City,Oklahoma,aextilli
+2020-04-11,0:12:07,Ravelry.com,Tulsa,Oklahoma,hkeiltyj
+2020-04-11,2:24:41,Ravelry.com,Phoenix,Arizona,vwhyberdk
+2020-04-11,14:55:42,youtube.com,New York City,New York,bellamsl
+2020-04-11,23:29:25,MocoSpace.com,Chattanooga,Tennessee,rkaminskim
+2020-04-11,16:24:53,Ravelry.com,Suffolk,Virginia,thellewelln
+2020-04-11,7:35:59,Ravelry.com,Trenton,New Jersey,lgusneyo
+2020-04-11,16:59:38,youtube.com,Saint Augustine,Florida,raleksandrikinp
+2020-04-11,2:07:03,Ravelry.com,Edmond,Oklahoma,jgiannasiq
+2020-04-11,9:11:54,facebook.com,Daytona Beach,Florida,awinfindaler
+2020-04-11,16:26:23,MocoSpace.com,Chicago,Illinois,ebriggs
+2020-04-11,11:41:48,facebook.com,New York City,New York,proddent
+2020-04-11,16:24:39,facebook.com,New York City,New York,lmacphersonu
+2020-04-11,19:03:16,Ravelry.com,Pensacola,Florida,mabellav
+2020-04-11,6:47:33,Ravelry.com,Spokane,Washington,smcnamaraw
+2020-04-11,14:19:32,MocoSpace.com,Louisville,Kentucky,jmattiassix
+2020-04-11,1:46:04,MocoSpace.com,Boston,Massachusetts,gwalshamy
+2020-04-11,22:06:31,google.com,Oklahoma City,Oklahoma,cabrashkovz
+2020-04-11,1:30:16,MocoSpace.com,Philadelphia,Pennsylvania,mstollmeier10
+2020-04-11,3:55:44,Ravelry.com,Dayton,Ohio,jveck11
+2020-04-11,9:06:30,youtube.com,Lexington,Kentucky,bgreve12
+2020-04-11,21:05:21,MocoSpace.com,Las Vegas,Nevada,doiller13
+2020-04-11,19:03:01,google.com,Kent,Washington,ireaditt14
+2020-04-11,22:47:39,MocoSpace.com,Saint Louis,Missouri,rdissman15
+2020-04-11,11:08:05,google.com,Atlanta,Georgia,nspelling16
+2020-04-11,14:35:47,facebook.com,Dallas,Texas,hpegden17
+2020-04-11,15:34:37,google.com,Johnstown,Pennsylvania,mdosdell18
+2020-04-11,8:35:35,youtube.com,Evansville,Indiana,dsullly19
+2020-04-11,7:07:47,google.com,Tampa,Florida,rvanniekerk1a
+2020-04-11,2:50:06,twitter.com,Independence,Missouri,mscholer1b
+2020-04-11,4:09:54,facebook.com,Dallas,Texas,jjeannard1c
+2020-04-11,8:43:01,MocoSpace.com,Salt Lake City,Utah,nlightowler1d
+2020-04-11,6:57:47,google.com,Saint Louis,Missouri,kgibbie1e
+2020-04-11,0:54:22,google.com,Atlanta,Georgia,rlorne1f
+2020-04-11,17:57:29,google.com,Rochester,New York,nmagarrell1g
+2020-04-11,12:23:21,twitter.com,Jacksonville,Florida,jeggar1h
+2020-04-11,5:38:17,twitter.com,Charlottesville,Virginia,acuxon1i
+2020-04-11,18:18:43,google.com,Kingsport,Tennessee,ryerrall1j
+2020-04-11,4:02:58,MocoSpace.com,Pittsburgh,Pennsylvania,dellor1k
+2020-04-11,8:53:21,Ravelry.com,Wilmington,Delaware,punderdown1l
+2020-04-11,21:06:27,youtube.com,Washington,District of Columbia,hocrigane1m
+2020-04-11,21:58:38,google.com,Charlotte,North Carolina,tmatschuk1n
+2020-04-11,21:24:43,youtube.com,Charlotte,North Carolina,tbritch1o
+2020-04-11,14:07:37,facebook.com,Los Angeles,California,efausch1p
+2020-04-11,6:47:22,google.com,Buffalo,New York,tcausier1q
+2020-04-11,21:35:51,MocoSpace.com,Saint Louis,Missouri,myoakley1r
+2020-04-11,23:46:01,twitter.com,Pasadena,California,lputman1s
+2020-04-11,14:40:58,Ravelry.com,Hicksville,New York,laldhouse1t
+2020-04-11,22:35:47,google.com,Salt Lake City,Utah,bgrinsdale1u
+2020-04-11,8:05:46,youtube.com,Austin,Texas,mdurber1v
+2020-04-11,13:58:47,MocoSpace.com,Atlanta,Georgia,dlincke1w
+2020-04-11,12:22:07,youtube.com,Saint Louis,Missouri,livermee1x
+2020-04-11,6:29:49,google.com,Tulsa,Oklahoma,lsturmey1y
+2020-04-11,1:40:35,Ravelry.com,Boca Raton,Florida,zmonini1z
+2020-04-11,8:04:45,Ravelry.com,Carson City,Nevada,eambridge20
+2020-04-11,16:17:30,youtube.com,Allentown,Pennsylvania,odiplock21
+2020-04-11,15:14:50,twitter.com,Philadelphia,Pennsylvania,gstrahan22
+2020-04-11,20:56:56,Ravelry.com,Huntsville,Alabama,cmacconchie23
+2020-04-11,7:15:30,facebook.com,Tulsa,Oklahoma,jleavesley24
+2020-04-11,8:00:25,google.com,Milwaukee,Wisconsin,lmcandie25
+2020-04-11,15:06:28,MocoSpace.com,Birmingham,Alabama,acallard26
+2020-04-11,9:46:48,Ravelry.com,San Francisco,California,dkilmary27
+2020-04-11,5:52:51,MocoSpace.com,Orlando,Florida,cbentley28
+2020-04-11,12:57:00,facebook.com,Kansas City,Missouri,vjancar29
+2020-04-11,1:08:15,twitter.com,Pittsburgh,Pennsylvania,rkettley2a
+2020-04-11,22:01:56,youtube.com,Houston,Texas,wbiskupek2b
+2020-04-11,6:31:28,twitter.com,Washington,District of Columbia,rspendlove2c
+2020-04-11,16:25:48,google.com,Dallas,Texas,kmacgillespie2d
+2020-04-11,7:09:47,Ravelry.com,Huntington,West Virginia,jscholler2e
+2020-04-11,16:08:08,Ravelry.com,Lancaster,Pennsylvania,fbeeres2f
+2020-04-11,3:15:15,youtube.com,Houston,Texas,dmaber2g
+2020-04-11,3:00:23,facebook.com,Asheville,North Carolina,dwennam2h
+2020-04-11,18:07:26,youtube.com,Norfolk,Virginia,ldorosario2i
+2020-04-11,1:56:15,Ravelry.com,Richmond,Virginia,marnaudi2j
+2020-04-11,10:44:21,google.com,Grand Rapids,Michigan,ckrimmer2k
+2020-04-11,4:00:44,facebook.com,Houston,Texas,msyvret2l
+2020-04-11,1:04:46,facebook.com,Dallas,Texas,mchittie2m
+2020-04-11,2:08:29,youtube.com,Schenectady,New York,akarlik2n
+2020-04-11,0:48:30,youtube.com,Tampa,Florida,clewsey2o
+2020-04-11,10:08:35,facebook.com,New York City,New York,chawksworth2p
+2020-04-11,4:08:40,Ravelry.com,Tucson,Arizona,mmattack2q
+2020-04-11,21:54:26,facebook.com,Moreno Valley,California,fkalisz2r
+2020-04-11,23:12:28,Ravelry.com,El Paso,Texas,dpawlaczyk2s
+2020-04-11,6:32:27,Ravelry.com,Alexandria,Louisiana,oharsnep2t
+2020-04-11,8:50:53,Ravelry.com,San Francisco,California,btuffield2u
+2020-04-11,17:09:16,youtube.com,Norfolk,Virginia,astebbings2v
+2020-04-11,10:22:22,google.com,Wilmington,Delaware,kgoford2w
+2020-04-11,8:57:16,youtube.com,Stockton,California,fpayton2x
+2020-04-11,19:23:06,google.com,Roanoke,Virginia,istruttman2y
+2020-04-11,4:19:27,twitter.com,Mesa,Arizona,kbarczewski2z
+2020-04-11,18:34:43,Ravelry.com,Shreveport,Louisiana,plampens30
+2020-04-11,0:37:09,facebook.com,New Orleans,Louisiana,ktremlett31
+2020-04-11,13:18:01,youtube.com,New Orleans,Louisiana,tskipper32
+2020-04-11,10:11:44,MocoSpace.com,Canton,Ohio,gcowtherd33
+2020-04-11,18:22:21,MocoSpace.com,Springfield,Illinois,cgolley34
+2020-04-11,21:38:04,google.com,Phoenix,Arizona,nrigler35
+2020-04-11,3:11:21,Ravelry.com,Waterbury,Connecticut,cmedcraft36
+2020-04-11,19:15:21,facebook.com,Cincinnati,Ohio,vfaudrie37
+2020-04-11,11:28:55,facebook.com,Anchorage,Alaska,gdobbyn38
+2020-04-11,11:54:50,facebook.com,Los Angeles,California,amaccauley39
+2020-04-11,0:58:05,twitter.com,Memphis,Tennessee,cblas3a
+2020-04-11,9:54:36,twitter.com,Worcester,Massachusetts,rwaghorn3b
+2020-04-11,7:21:56,twitter.com,Roanoke,Virginia,lhoulson3c
+2020-04-11,12:10:58,youtube.com,Charlottesville,Virginia,mpakeman3d
+2020-04-11,14:47:59,twitter.com,Omaha,Nebraska,bswindles3e
+2020-04-11,7:15:05,twitter.com,Richmond,Virginia,sbullocke3f
+2020-04-11,23:58:23,youtube.com,San Francisco,California,nbritee3g
+2020-04-11,0:46:51,Ravelry.com,Philadelphia,Pennsylvania,tarchard3h
+2020-04-11,6:24:50,google.com,Oakland,California,njojic3i
+2020-04-11,0:51:49,Ravelry.com,Honolulu,Hawaii,cfoale3j
+2020-04-11,1:35:58,Ravelry.com,Wichita,Kansas,dtiery3k
+2020-04-11,5:26:15,Ravelry.com,Sarasota,Florida,aschult3l
+2020-04-11,2:55:01,twitter.com,Milwaukee,Wisconsin,mvanoort3m
+2020-04-11,19:04:23,google.com,Knoxville,Tennessee,jcannicott3n
+2020-04-11,13:21:09,MocoSpace.com,Austin,Texas,mdomnick3o
+2020-04-11,23:26:59,twitter.com,Columbus,Ohio,jboik3p
+2020-04-11,7:19:35,facebook.com,El Paso,Texas,ckleinfeld3q
+2020-04-11,7:47:14,twitter.com,Saint Louis,Missouri,rjanosevic3r
+2020-04-11,3:12:11,youtube.com,Evansville,Indiana,nmabb3s
+2020-04-11,23:12:04,youtube.com,Tucson,Arizona,tgofton3t
+2020-04-11,20:54:03,youtube.com,Kansas City,Kansas,lmcelmurray3u
+2020-04-11,17:46:29,youtube.com,Newark,Delaware,dtansly3v
+2020-04-11,15:12:10,twitter.com,Arlington,Texas,vstelle3w
+2020-04-11,22:22:43,MocoSpace.com,Albuquerque,New Mexico,mtissington3x
+2020-04-11,1:15:18,twitter.com,Hampton,Virginia,scush3y
+2020-04-11,3:01:24,google.com,Washington,District of Columbia,krollett3z
+2020-04-11,16:36:56,Ravelry.com,Shreveport,Louisiana,dsponton40
+2020-04-11,23:10:07,MocoSpace.com,Cincinnati,Ohio,jsandes41
+2020-04-11,15:09:52,twitter.com,Fort Smith,Arkansas,faggott42
+2020-04-11,12:44:50,Ravelry.com,Chicago,Illinois,mgriffiths43
+2020-04-11,8:19:22,google.com,Hartford,Connecticut,byosselevitch44
+2020-04-11,9:42:41,twitter.com,Columbia,Missouri,drossi45
+2020-04-11,13:20:54,facebook.com,San Diego,California,jserck46
+2020-04-11,22:19:31,Ravelry.com,Boston,Massachusetts,htwiddell47
+2020-04-11,3:15:32,MocoSpace.com,Little Rock,Arkansas,rkarpets48
+2020-04-11,22:47:23,Ravelry.com,Whittier,California,jhellmer49
+2020-04-11,2:33:04,facebook.com,Washington,District of Columbia,bjakoubec4a
+2020-04-11,18:28:38,facebook.com,San Antonio,Texas,bhollebon4b
+2020-04-11,0:21:17,facebook.com,Honolulu,Hawaii,cmcqueen4c
+2020-04-11,16:28:52,youtube.com,Buffalo,New York,ldufray4d
+2020-04-11,16:28:02,youtube.com,Newark,Delaware,jletty4e
+2020-04-11,8:00:38,youtube.com,Tampa,Florida,ecollomosse4f
+2020-04-11,18:15:04,facebook.com,Asheville,North Carolina,carthy4g
+2020-04-11,8:48:06,Ravelry.com,Austin,Texas,ddarbishire4h
+2020-04-11,3:09:56,MocoSpace.com,Waterbury,Connecticut,aizacenko4i
+2020-04-11,6:42:41,MocoSpace.com,Oklahoma City,Oklahoma,aslarke4j
+2020-04-11,19:30:47,Ravelry.com,El Paso,Texas,vgemnett4k
+2020-04-11,1:09:47,twitter.com,Chicago,Illinois,jherculeson4l
+2020-04-11,10:53:54,MocoSpace.com,Frederick,Maryland,jfrankiss4m
+2020-04-11,15:59:25,twitter.com,Riverside,California,ffriberg4n
+2020-04-11,13:08:50,google.com,Albuquerque,New Mexico,lmccurdy4o
+2020-04-11,18:49:38,twitter.com,San Francisco,California,mperle4p
+2020-04-11,17:48:47,google.com,Lansing,Michigan,bshort4q
+2020-04-11,2:51:46,Ravelry.com,Buffalo,New York,gderuggiero4r
+2020-04-11,17:56:07,twitter.com,Amarillo,Texas,cgamett4s
+2020-04-11,20:45:51,google.com,Sarasota,Florida,tgutherson4t
+2020-04-11,11:34:13,twitter.com,Sacramento,California,cmiskin4u
+2020-04-11,3:11:58,Ravelry.com,Lincoln,Nebraska,acornillot4v
+2020-04-11,23:00:00,facebook.com,Portland,Oregon,woday4w
+2020-04-11,20:03:50,facebook.com,Salt Lake City,Utah,tgarmston4x
+2020-04-11,4:04:42,MocoSpace.com,Athens,Georgia,kcordeiro4y
+2020-04-11,0:34:31,MocoSpace.com,Waterbury,Connecticut,perangy4z
+2020-04-11,14:00:12,twitter.com,El Paso,Texas,hjannex50
+2020-04-11,15:39:56,google.com,Tulsa,Oklahoma,aocrowley51
+2020-04-11,3:19:19,google.com,Shawnee Mission,Kansas,hscarrott52
+2020-04-11,21:13:41,twitter.com,Charleston,West Virginia,etoke53
+2020-04-11,3:42:18,twitter.com,Lynchburg,Virginia,leyree54
+2020-04-11,10:51:25,MocoSpace.com,Columbus,Ohio,mingleton55
+2020-04-11,11:31:04,facebook.com,San Francisco,California,bbondy56
+2020-04-11,21:12:48,facebook.com,New Haven,Connecticut,ldelete57
+2020-04-11,23:45:55,google.com,Tyler,Texas,ntansey58
+2020-04-11,13:59:15,twitter.com,Fresno,California,jthredder59
+2020-04-11,7:27:14,google.com,Boise,Idaho,lchadwick5a
+2020-04-11,14:39:09,MocoSpace.com,Montgomery,Alabama,kgrocock5b
+2020-04-11,10:19:17,MocoSpace.com,Mobile,Alabama,cblock5c
+2020-04-11,19:34:03,MocoSpace.com,Peoria,Illinois,aleipold5d
+2020-04-11,17:21:31,twitter.com,Rochester,New York,dsommerville5e
+2020-04-11,10:15:09,Ravelry.com,Hialeah,Florida,lhargreave5f
+2020-04-11,14:08:47,MocoSpace.com,Waterbury,Connecticut,cdeme5g
+2020-04-11,3:33:02,twitter.com,Salt Lake City,Utah,mdolohunty5h
+2020-04-11,20:33:04,facebook.com,Monticello,Minnesota,kbavin5i
+2020-04-11,11:39:35,google.com,Chattanooga,Tennessee,eparamore5j
+2020-04-11,10:21:50,Ravelry.com,Stockton,California,cfache5k
+2020-04-11,13:52:11,facebook.com,White Plains,New York,jglaysher5l
+2020-04-11,11:59:45,google.com,Washington,District of Columbia,rdelacote5m
+2020-04-11,15:50:50,twitter.com,Saint Paul,Minnesota,trawsthorne5n
+2020-04-11,5:53:03,twitter.com,Nashville,Tennessee,tmatteau5o
+2020-04-11,0:48:21,facebook.com,Washington,District of Columbia,pdunphie5p
+2020-04-11,6:45:56,Ravelry.com,Chattanooga,Tennessee,tmorffew5q
+2020-04-11,8:20:42,twitter.com,Pasadena,California,nbassom5r
+2020-04-11,8:09:56,youtube.com,Levittown,Pennsylvania,btall5s
+2020-04-11,22:31:00,facebook.com,Brooksville,Florida,itheunissen5t
+2020-04-11,17:00:30,facebook.com,Memphis,Tennessee,astevenson5u
+2020-04-11,9:54:08,MocoSpace.com,Saint Petersburg,Florida,truddlesden5v
+2020-04-11,10:08:29,google.com,Phoenix,Arizona,rpickance5w
+2020-04-11,16:21:29,google.com,Philadelphia,Pennsylvania,lhinners5x
+2020-04-11,23:07:38,MocoSpace.com,Buffalo,New York,bshrubshall5y
+2020-04-11,10:35:21,facebook.com,New Castle,Pennsylvania,rcastagneto5z
+2020-04-11,4:40:52,facebook.com,Charlotte,North Carolina,lalltimes60
+2020-04-11,11:54:18,google.com,Gary,Indiana,amarnes61
+2020-04-11,16:13:16,facebook.com,Provo,Utah,iviggars62
+2020-04-11,20:37:57,twitter.com,Denver,Colorado,nhellens63
+2020-04-11,19:33:39,Ravelry.com,Hartford,Connecticut,gmcbrearty64
+2020-04-11,3:41:41,Ravelry.com,Washington,District of Columbia,mrielly65
+2020-04-11,19:50:10,twitter.com,Hyattsville,Maryland,lmushett66
+2020-04-11,21:05:40,facebook.com,Washington,District of Columbia,ckirkland67
+2020-04-11,15:26:23,facebook.com,Lansing,Michigan,wabrahmson68
+2020-04-11,15:10:15,MocoSpace.com,Van Nuys,California,lzeal69
+2020-04-11,10:46:12,Ravelry.com,San Francisco,California,mspoor6a
+2020-04-11,5:55:45,MocoSpace.com,Norfolk,Virginia,fmallia6b
+2020-04-11,12:53:03,google.com,Lake Worth,Florida,kvaune6c
+2020-04-11,16:33:42,youtube.com,Richmond,Virginia,agrgic6d
+2020-04-11,20:01:08,google.com,Young America,Minnesota,cscyone6e
+2020-04-11,7:30:41,twitter.com,Kansas City,Missouri,styrwhitt6f
+2020-04-11,2:48:21,MocoSpace.com,Salt Lake City,Utah,dcorwood6g
+2020-04-11,5:54:19,twitter.com,Springfield,Massachusetts,echaperling6h
+2020-04-11,3:54:29,MocoSpace.com,Jersey City,New Jersey,dkolakowski6i
+2020-04-11,2:54:18,youtube.com,Huntington,West Virginia,gjessop6j
+2020-04-11,4:02:53,twitter.com,Richmond,Virginia,mchampagne6k
+2020-04-11,1:30:22,facebook.com,Olympia,Washington,fodyvoy6l
+2020-04-11,11:04:44,Ravelry.com,Washington,District of Columbia,dpisco6m
+2020-04-11,16:58:02,youtube.com,Denver,Colorado,ceckh6n
+2020-04-11,21:35:41,google.com,Las Vegas,Nevada,mklambt6o
+2020-04-11,9:00:16,google.com,Warren,Ohio,gjasik6p
+2020-04-11,15:07:19,google.com,Norwalk,Connecticut,wconew6q
+2020-04-11,18:09:36,youtube.com,New York City,New York,sshillan6r
+2020-04-11,15:21:51,Ravelry.com,Canton,Ohio,kbelloch6s
+2020-04-11,20:57:44,youtube.com,Plano,Texas,lbeatty6t
+2020-04-11,12:30:52,google.com,Tyler,Texas,fbeert6u
+2020-04-11,14:36:03,facebook.com,New York City,New York,sbeadel6v
+2020-04-11,9:08:53,MocoSpace.com,Santa Clara,California,edurtnal6w
+2020-04-11,0:18:47,facebook.com,Alexandria,Virginia,hgoldman6x
+2020-04-11,17:16:37,MocoSpace.com,Columbus,Ohio,badiscot6y
+2020-04-11,22:23:41,facebook.com,Louisville,Kentucky,kcasillis6z
+2020-04-11,23:20:24,twitter.com,San Antonio,Texas,ktitford70
+2020-04-11,4:56:05,google.com,Columbia,South Carolina,groon71
+2020-04-11,12:51:57,google.com,Philadelphia,Pennsylvania,bmorsom72
+2020-04-11,14:57:24,MocoSpace.com,Huntsville,Texas,sstollard73
+2020-04-11,8:37:46,google.com,Amarillo,Texas,jlearmouth74
+2020-04-11,6:21:26,Ravelry.com,Lubbock,Texas,smceachern75
+2020-04-11,4:09:15,facebook.com,Tyler,Texas,gcone76
+2020-04-11,20:58:54,google.com,Largo,Florida,mproudley77
+2020-04-11,20:16:19,youtube.com,Portland,Oregon,kridgway78
+2020-04-11,20:34:06,MocoSpace.com,Hialeah,Florida,akochl79
+2020-04-11,23:26:14,youtube.com,Fort Lauderdale,Florida,kferneley7a
+2020-04-11,8:55:53,Ravelry.com,Loretto,Minnesota,arimell7b
+2020-04-11,5:03:00,Ravelry.com,Salem,Oregon,gbarkaway7c
+2020-04-11,20:30:27,facebook.com,Brockton,Massachusetts,gbown7d
+2020-04-11,23:22:57,youtube.com,Los Angeles,California,mricardin7e
+2020-04-11,15:34:51,MocoSpace.com,Oklahoma City,Oklahoma,cseakings7f
+2020-04-11,10:39:57,youtube.com,Sparks,Nevada,lgalvan7g
+2020-04-11,5:58:30,Ravelry.com,Hartford,Connecticut,jmoppett7h
+2020-04-11,23:17:48,youtube.com,Sterling,Virginia,swheowall7i
+2020-04-11,23:40:01,Ravelry.com,Pittsburgh,Pennsylvania,ljakeman7j
+2020-04-11,22:38:12,youtube.com,Seattle,Washington,skilday7k
+2020-04-11,8:19:19,youtube.com,Arlington,Virginia,hparsonson7l
+2020-04-11,12:00:01,Ravelry.com,Jeffersonville,Indiana,eeyam7m
+2020-04-11,14:36:15,facebook.com,Plano,Texas,sharbach7n
+2020-04-11,4:29:42,youtube.com,Honolulu,Hawaii,bskentelbury7o
+2020-04-11,13:47:40,google.com,Kansas City,Kansas,mbroadhurst7p
+2020-04-11,12:09:34,facebook.com,El Paso,Texas,hdoggrell7q
+2020-04-11,0:48:41,Ravelry.com,San Jose,California,rcoyle7r
+2020-04-11,4:23:35,Ravelry.com,New Bedford,Massachusetts,wysson7s
+2020-04-11,1:16:26,twitter.com,Corona,California,rbowditch7t
+2020-04-11,15:49:26,MocoSpace.com,Washington,District of Columbia,celias7u
+2020-04-11,2:34:47,Ravelry.com,Pittsburgh,Pennsylvania,mailward7v
+2020-04-11,0:59:55,MocoSpace.com,Houston,Texas,aleechman7w
+2020-04-11,18:02:51,youtube.com,Wilmington,North Carolina,jhensmans7x
+2020-04-11,22:42:07,Ravelry.com,Salt Lake City,Utah,teustice7y
+2020-04-11,12:02:05,youtube.com,New Hyde Park,New York,tahlin7z
+2020-04-11,22:18:04,youtube.com,Indianapolis,Indiana,shobson80
+2020-04-11,17:55:04,MocoSpace.com,Memphis,Tennessee,lphilippeaux81
+2020-04-11,8:16:35,twitter.com,Corpus Christi,Texas,pchamberlaine82
+2020-04-11,15:59:28,twitter.com,Pittsburgh,Pennsylvania,gharsnep83
+2020-04-11,1:08:40,MocoSpace.com,Wilmington,Delaware,arapin84
+2020-04-11,16:53:21,MocoSpace.com,Washington,District of Columbia,sisacsson85
+2020-04-11,15:21:09,Ravelry.com,Fredericksburg,Virginia,mdisley86
+2020-04-11,7:06:23,facebook.com,Cambridge,Massachusetts,jcapel87
+2020-04-11,16:10:33,twitter.com,Mobile,Alabama,aabthorpe88
+2020-04-11,1:44:16,Ravelry.com,Honolulu,Hawaii,jhopfner89
+2020-04-11,6:29:35,facebook.com,Bloomington,Illinois,cbroadberry8a
+2020-04-11,21:33:07,facebook.com,San Bernardino,California,lmea8b
+2020-04-11,22:15:26,Ravelry.com,Fort Worth,Texas,aetienne8c
+2020-04-11,9:29:35,facebook.com,Miami,Florida,awestcar8d
+2020-04-11,13:53:12,Ravelry.com,Portland,Oregon,kradin8e
+2020-04-11,19:48:11,Ravelry.com,Richmond,Virginia,lwhitehead8f
+2020-04-11,19:56:22,Ravelry.com,Portland,Oregon,rkemster8g
+2020-04-11,5:39:43,MocoSpace.com,Houston,Texas,credhills8h
+2020-04-11,8:21:16,google.com,San Bernardino,California,sverbeek8i
+2020-04-11,21:48:45,youtube.com,Washington,District of Columbia,egoodley8j
+2020-04-11,21:08:03,google.com,Frederick,Maryland,cfort8k
+2020-04-11,21:00:58,twitter.com,Salt Lake City,Utah,rchopping8l
+2020-04-11,1:03:39,twitter.com,Los Angeles,California,jlakeman8m
+2020-04-11,14:38:01,google.com,Kansas City,Missouri,aderrick8n
+2020-04-11,10:08:55,Ravelry.com,Oklahoma City,Oklahoma,jdroghan8o
+2020-04-11,9:04:28,google.com,Winston Salem,North Carolina,ebeasley8p
+2020-04-11,10:17:55,Ravelry.com,Waco,Texas,marnaudet8q
+2020-04-11,21:07:32,google.com,Miami,Florida,sbaelde8r
+2020-04-11,5:57:42,twitter.com,Tulsa,Oklahoma,medgehill8s
+2020-04-11,11:19:09,youtube.com,Tulsa,Oklahoma,kstaines8t
+2020-04-11,5:54:57,twitter.com,Apache Junction,Arizona,ssterte8u
+2020-04-11,1:08:23,Ravelry.com,Washington,District of Columbia,gmccollum8v
+2020-04-11,15:08:44,MocoSpace.com,Wichita,Kansas,pmoorey8w
+2020-04-11,0:47:44,Ravelry.com,Watertown,Massachusetts,hpaudin8x
+2020-04-11,22:33:13,twitter.com,Boston,Massachusetts,jfears8y
+2020-04-11,13:08:48,MocoSpace.com,Davenport,Iowa,sventuroli8z
+2020-04-11,15:26:47,youtube.com,Lubbock,Texas,mharlow90
+2020-04-11,14:23:15,youtube.com,Salem,Oregon,hjudson91
+2020-04-11,1:22:51,google.com,Apache Junction,Arizona,gkulvear92
+2020-04-11,3:22:52,twitter.com,Salt Lake City,Utah,lchallenger93
+2020-04-11,19:28:09,twitter.com,Indianapolis,Indiana,kposselow94
+2020-04-11,21:17:51,MocoSpace.com,Grand Forks,North Dakota,kgorries95
+2020-04-11,19:17:45,youtube.com,Pittsburgh,Pennsylvania,fhitzschke96
+2020-04-11,5:55:01,Ravelry.com,Decatur,Georgia,abrookes97
+2020-04-11,23:40:24,google.com,San Antonio,Texas,glaidel98
+2020-04-11,14:20:38,twitter.com,Albuquerque,New Mexico,ccrosseland99
+2020-04-11,23:11:26,Ravelry.com,San Antonio,Texas,rwhooley9a
+2020-04-11,6:27:37,twitter.com,New York City,New York,cmcquorkell9b
+2020-04-11,20:20:18,MocoSpace.com,Springfield,Illinois,bmeriott9c
+2020-04-11,3:04:54,Ravelry.com,Cincinnati,Ohio,gmcillrick9d
+2020-04-11,14:57:06,Ravelry.com,Kansas City,Missouri,lbrundle9e
+2020-04-11,0:28:20,MocoSpace.com,Laredo,Texas,aprimak9f
+2020-04-11,4:31:19,Ravelry.com,Portsmouth,New Hampshire,cgligori9g
+2020-04-11,23:24:09,MocoSpace.com,Phoenix,Arizona,bdawidowicz9h
+2020-04-11,5:33:47,twitter.com,El Paso,Texas,nciccottio9i
+2020-04-11,20:28:23,MocoSpace.com,Littleton,Colorado,baldrin9j
+2020-04-11,4:26:30,MocoSpace.com,Washington,District of Columbia,srissom9k
+2020-04-11,5:08:42,twitter.com,New York City,New York,ajorin9l
+2020-04-11,1:05:59,Ravelry.com,Memphis,Tennessee,vmeiklejohn9m
+2020-04-11,13:11:31,facebook.com,Oxnard,California,jzaniolini9n
+2020-04-11,10:16:54,google.com,New York City,New York,pyeomans9o
+2020-04-11,12:29:56,MocoSpace.com,El Paso,Texas,msedgefield9p
+2020-04-11,14:29:18,MocoSpace.com,Grand Rapids,Michigan,dliptrot9q
+2020-04-11,6:01:10,Ravelry.com,Naples,Florida,milive9r
+2020-04-11,16:11:05,twitter.com,Schenectady,New York,dladdle9s
+2020-04-11,10:05:10,Ravelry.com,Sioux Falls,South Dakota,rjentle9t
+2020-04-11,16:55:02,youtube.com,Charleston,South Carolina,dapplewhaite9u
+2020-04-11,7:06:48,MocoSpace.com,Richmond,California,aspeake9v
+2020-04-11,5:09:21,google.com,Fort Lauderdale,Florida,voconnell9w
+2020-04-11,13:44:19,twitter.com,Oakland,California,lpiell9x
+2020-04-11,16:21:47,facebook.com,Erie,Pennsylvania,hmullaney9y
+2020-04-11,5:30:33,twitter.com,Anaheim,California,naiskrigg9z
+2020-04-11,6:43:58,youtube.com,San Bernardino,California,bibela0
+2020-04-11,3:41:05,Ravelry.com,Houston,Texas,dkeea1
+2020-04-11,1:10:16,youtube.com,Scranton,Pennsylvania,elemara2
+2020-04-11,16:22:30,google.com,Cape Coral,Florida,mdrabblea3
+2020-04-11,3:38:50,youtube.com,Watertown,Massachusetts,shuffeya4
+2020-04-11,7:13:21,MocoSpace.com,Norfolk,Virginia,mklausewitza5
+2020-04-11,21:23:53,google.com,Santa Monica,California,lerrichellia6
+2020-04-11,3:10:19,MocoSpace.com,Philadelphia,Pennsylvania,srobothama7
+2020-04-11,7:44:44,MocoSpace.com,North Little Rock,Arkansas,eseeberta8
+2020-04-11,22:39:25,MocoSpace.com,Mobile,Alabama,bramosa9
+2020-04-11,4:20:47,Ravelry.com,Orlando,Florida,yalgyaa
+2020-04-11,6:21:25,twitter.com,Ventura,California,psearchwellab
+2020-04-11,13:06:28,google.com,Oklahoma City,Oklahoma,cillesac
+2020-04-11,22:59:49,Ravelry.com,Los Angeles,California,swestleyad
+2020-04-11,9:48:10,google.com,Richmond,Virginia,lgaenorae
+2020-04-11,20:59:58,youtube.com,Santa Ana,California,bkorlataf
+2020-04-11,17:31:34,Ravelry.com,Washington,District of Columbia,nscreechag
+2020-04-11,16:48:04,twitter.com,Minneapolis,Minnesota,csheppeyah
+2020-04-11,1:43:35,facebook.com,Wichita,Kansas,mlyptritai
+2020-04-11,0:41:41,MocoSpace.com,Fairbanks,Alaska,ltrainoraj
+2020-04-11,17:52:08,Ravelry.com,Springfield,Missouri,echristofolak
+2020-04-11,6:23:56,facebook.com,Tucson,Arizona,vcarlawal
+2020-04-11,2:38:07,facebook.com,Idaho Falls,Idaho,gponnsettam
+2020-04-11,21:06:17,MocoSpace.com,Rochester,New York,cbunnan
+2020-04-11,0:21:50,youtube.com,Washington,District of Columbia,ohallowayao
+2020-04-11,3:14:40,youtube.com,Newport News,Virginia,fbolanap
+2020-04-11,17:00:11,Ravelry.com,Murfreesboro,Tennessee,sboulstridgeaq
+2020-04-11,15:22:26,youtube.com,Washington,District of Columbia,dtuckettar
+2020-04-11,13:40:09,Ravelry.com,Jefferson City,Missouri,twoodburnas
+2020-04-11,5:03:31,youtube.com,Richmond,California,eharpinat
+2020-04-11,0:22:50,youtube.com,Evansville,Indiana,kchaikovskiau
+2020-04-11,4:31:53,facebook.com,Troy,Michigan,tstelleav
+2020-04-11,20:18:56,facebook.com,Bridgeport,Connecticut,abritneraw
+2020-04-11,6:29:56,facebook.com,Joliet,Illinois,tmaffiax
+2020-04-11,10:39:32,MocoSpace.com,Shreveport,Louisiana,eembersonay
+2020-04-11,4:45:35,Ravelry.com,Fairfax,Virginia,jdiemeraz
+2020-04-11,4:18:49,MocoSpace.com,Los Angeles,California,wloudwellb0
+2020-04-11,18:16:45,Ravelry.com,Washington,District of Columbia,agrafhomb1
+2020-04-11,9:46:11,twitter.com,Killeen,Texas,syuillb2
+2020-04-11,2:14:55,youtube.com,Houston,Texas,asandcraftb3
+2020-04-11,2:31:21,google.com,Laurel,Maryland,mfurbyb4
+2020-04-11,19:10:30,facebook.com,Oakland,California,imalthouseb5
+2020-04-11,10:10:58,MocoSpace.com,Cincinnati,Ohio,dsteensonb6
+2020-04-11,3:26:13,MocoSpace.com,Portland,Oregon,scleverb7
+2020-04-11,11:57:06,Ravelry.com,Lynn,Massachusetts,lwhistlecraftb8
+2020-04-11,10:47:38,google.com,Springfield,Illinois,vfrancescucciob9
+2020-04-11,6:22:44,Ravelry.com,Roanoke,Virginia,ypiddingtonba
+2020-04-11,22:26:54,youtube.com,Phoenix,Arizona,wgatwardbb
+2020-04-11,18:35:28,Ravelry.com,Tacoma,Washington,scordelettebc
+2020-04-11,7:39:22,MocoSpace.com,Glendale,Arizona,swhittockbd
+2020-04-11,7:59:18,youtube.com,Detroit,Michigan,mcalafatebe
+2020-04-11,15:23:22,twitter.com,Fort Worth,Texas,dmacevillybf
+2020-04-11,12:42:46,google.com,Fort Lauderdale,Florida,etremmilbg
+2020-04-11,10:17:33,facebook.com,Trenton,New Jersey,sspadollinibh
+2020-04-11,16:36:50,youtube.com,Omaha,Nebraska,hledingtonbi
+2020-04-11,3:22:56,youtube.com,Wilmington,Delaware,osirrellbj
+2020-04-11,21:32:05,twitter.com,Brooklyn,New York,larchbouldbk
+2020-04-11,19:25:39,Ravelry.com,Dallas,Texas,cdogetbl
+2020-04-11,9:09:01,google.com,Miami,Florida,ndomneybm
+2020-04-11,5:37:34,facebook.com,Redwood City,California,cscotfurthbn
+2020-04-11,6:34:20,Ravelry.com,Gulfport,Mississippi,cbuskebo
+2020-04-11,7:51:41,Ravelry.com,Muskegon,Michigan,kcondellbp
+2020-04-11,8:51:37,twitter.com,Los Angeles,California,edeavenellbq
+2020-04-11,10:55:14,facebook.com,Birmingham,Alabama,owillwoodbr
+2020-04-11,17:28:06,Ravelry.com,New Orleans,Louisiana,gbuyebs
+2020-04-11,3:35:36,google.com,Lansing,Michigan,benstonebt
+2020-04-11,17:51:41,twitter.com,Davenport,Iowa,gcaldayroubu
+2020-04-11,12:25:28,twitter.com,Clearwater,Florida,bruddickbv
+2020-04-11,12:11:48,google.com,Port Saint Lucie,Florida,krisdallbw
+2020-04-11,21:20:00,youtube.com,Detroit,Michigan,fmildenhallbx
+2020-04-11,20:24:02,twitter.com,Indianapolis,Indiana,pjohnkeby
+2020-04-11,1:08:13,Ravelry.com,Jacksonville,Florida,ctanswillbz
+2020-04-11,0:56:55,MocoSpace.com,Dallas,Texas,rboguec0
+2020-04-11,11:32:57,facebook.com,Miami,Florida,oweighellc1
+2020-04-11,2:23:33,twitter.com,Chicago,Illinois,kwildashc2
+2020-04-11,11:43:56,Ravelry.com,Humble,Texas,zskeermorc3
+2020-04-11,5:51:43,facebook.com,Albuquerque,New Mexico,mtrustyc4
+2020-04-11,12:24:03,MocoSpace.com,Houston,Texas,zhubc5
+2020-04-11,20:40:25,Ravelry.com,Lexington,Kentucky,hfendleyc6
+2020-04-11,6:10:17,facebook.com,Evansville,Indiana,nkiddec7
+2020-04-11,0:12:59,Ravelry.com,Lancaster,Pennsylvania,mfentonc8
+2020-04-11,7:31:16,Ravelry.com,Mobile,Alabama,cthomsc9
+2020-04-11,3:29:52,google.com,Baltimore,Maryland,bshervilca
+2020-04-11,16:07:25,twitter.com,Brooklyn,New York,lawcockcb
+2020-04-11,6:06:45,google.com,San Antonio,Texas,mmingaudcc
+2020-04-11,15:18:37,youtube.com,Tulsa,Oklahoma,bbaulchcd
+2020-04-11,8:43:16,MocoSpace.com,Cleveland,Ohio,epeagrimce
+2020-04-11,15:39:04,Ravelry.com,Hartford,Connecticut,ageraldcf
+2020-04-11,14:17:19,youtube.com,Oakland,California,hscaifecg
+2020-04-11,7:28:56,youtube.com,Birmingham,Alabama,jmalickich
+2020-04-11,18:11:57,twitter.com,Saint Louis,Missouri,eklulicekci
+2020-04-11,7:55:38,MocoSpace.com,Lincoln,Nebraska,ppiecj
+2020-04-11,23:12:55,Ravelry.com,Washington,District of Columbia,erotgeck
+2020-04-11,3:50:24,google.com,Durham,North Carolina,gsackeycl
+2020-04-11,8:50:16,google.com,Grand Rapids,Michigan,tdouchecm
+2020-04-11,22:16:52,google.com,Jacksonville,Florida,pdumbarecn
+2020-04-11,8:13:24,Ravelry.com,Dallas,Texas,lbellefantco
+2020-04-11,10:08:31,twitter.com,New York City,New York,lfremantlecp
+2020-04-11,15:53:14,Ravelry.com,Roanoke,Virginia,rfeldmuscq
+2020-04-11,0:48:29,MocoSpace.com,Salt Lake City,Utah,dbrittonercr
+2020-04-11,22:37:20,youtube.com,Raleigh,North Carolina,hsaylorcs
+2020-04-11,12:17:27,MocoSpace.com,Saginaw,Michigan,bhabershonct
+2020-04-11,22:46:28,youtube.com,New York City,New York,kairdscu
+2020-04-11,7:51:22,facebook.com,Harrisburg,Pennsylvania,fforescv
+2020-04-11,1:31:41,MocoSpace.com,Littleton,Colorado,cslymecw
+2020-04-11,18:16:18,google.com,Hayward,California,klivickcx
+2020-04-11,2:10:42,google.com,Migrate,Kentucky,hpinnickcy
+2020-04-11,2:36:38,Ravelry.com,Nashville,Tennessee,zpagittcz
+2020-04-11,17:23:50,twitter.com,Shreveport,Louisiana,lwarcopd0
+2020-04-11,14:43:08,youtube.com,Juneau,Alaska,gtrengroved1
+2020-04-11,15:59:35,google.com,Denver,Colorado,mcurlingd2
+2020-04-11,12:06:49,Ravelry.com,Charlotte,North Carolina,phazelgroved3
+2020-04-11,9:50:39,MocoSpace.com,Philadelphia,Pennsylvania,bpolled4
+2020-04-11,13:24:11,twitter.com,Youngstown,Ohio,tclued5
+2020-04-11,13:19:04,youtube.com,Norfolk,Virginia,rhapked6
+2020-04-11,5:31:52,google.com,Pittsburgh,Pennsylvania,hnowland7
+2020-04-11,3:23:13,MocoSpace.com,Santa Rosa,California,mrivald8
+2020-04-11,2:33:06,MocoSpace.com,Albany,New York,rshoobridged9
+2020-04-11,16:03:29,Ravelry.com,Baton Rouge,Louisiana,wnoseworthyda
+2020-04-11,20:50:06,facebook.com,Everett,Washington,scajklerdb
+2020-04-11,16:06:49,MocoSpace.com,Newport Beach,California,hdakindc
+2020-04-11,20:27:41,MocoSpace.com,Washington,District of Columbia,ashottindd
+2020-04-11,3:41:27,twitter.com,Los Angeles,California,oolenichevde
+2020-04-11,17:43:54,Ravelry.com,Baltimore,Maryland,hwaitedf
+2020-04-11,23:22:42,twitter.com,Miami,Florida,tcoulmandg
+2020-04-11,15:47:35,Ravelry.com,Arlington,Texas,dblaxlandedh
+2020-04-11,0:52:38,Ravelry.com,Portsmouth,New Hampshire,wathridgedi
+2020-04-11,20:23:30,Ravelry.com,Richmond,Virginia,dpluvierdj
+2020-04-11,13:57:27,google.com,Lubbock,Texas,tjacobdk
+2020-04-11,19:39:15,twitter.com,Denver,Colorado,clipmanndl
+2020-04-11,10:06:51,twitter.com,Everett,Washington,ajacquemotdm
+2020-04-11,12:36:21,Ravelry.com,New York City,New York,mmcilwraithdn
+2020-04-11,21:16:37,Ravelry.com,Stockton,California,gcockleydo
+2020-04-11,4:18:51,twitter.com,Arvada,Colorado,gnorthfielddp
+2020-04-11,11:18:57,youtube.com,Carol Stream,Illinois,chackettdq
+2020-04-11,5:25:16,Ravelry.com,Winston Salem,North Carolina,lovendr
+2020-04-11,12:31:07,google.com,Des Moines,Iowa,msamsworthds
+2020-04-11,16:03:00,MocoSpace.com,Sacramento,California,jpulhamdt
+2020-04-11,21:59:57,MocoSpace.com,Peoria,Illinois,sstillerdu
+2020-04-11,5:38:04,MocoSpace.com,Philadelphia,Pennsylvania,uwortdv
+2020-04-11,8:12:44,google.com,Irvine,California,gpoagdw
+2020-04-11,19:34:39,MocoSpace.com,Wilkes Barre,Pennsylvania,brumbelowdx
+2020-04-11,3:18:58,MocoSpace.com,Macon,Georgia,eodydy
+2020-04-11,16:16:19,Ravelry.com,Los Angeles,California,btoedz
+2020-04-11,16:57:22,Ravelry.com,Prescott,Arizona,mmatovice0
+2020-04-11,9:09:46,twitter.com,Los Angeles,California,pballsdone1
+2020-04-11,23:08:17,youtube.com,Worcester,Massachusetts,gcristofoloe2
+2020-04-11,1:20:20,google.com,Saint Louis,Missouri,phabershawe3
+2020-04-11,6:11:38,facebook.com,New Orleans,Louisiana,dboundeye4
+2020-04-11,5:42:03,facebook.com,Mobile,Alabama,mmoncke5
+2020-04-11,5:39:15,youtube.com,Naples,Florida,cblackalle6
+2020-04-11,1:16:57,twitter.com,Bakersfield,California,jheselwoode7
+2020-04-11,17:32:30,google.com,Houston,Texas,claytone8
+2020-04-11,9:59:06,MocoSpace.com,Houston,Texas,aclivee9
+2020-04-11,15:36:20,google.com,Columbia,South Carolina,ecogglesea
+2020-04-11,9:43:49,twitter.com,Washington,District of Columbia,broadnighteb
+2020-04-11,5:05:32,google.com,New York City,New York,nlampenec
+2020-04-11,5:20:23,facebook.com,Dallas,Texas,lplastered
+2020-04-11,10:01:27,youtube.com,Spokane,Washington,wdemeadee
+2020-04-11,5:27:29,MocoSpace.com,Columbia,South Carolina,mdominguezef
+2020-04-11,18:17:04,facebook.com,Saint Louis,Missouri,mstoboeg
+2020-04-11,14:28:32,twitter.com,Houston,Texas,rreubeneh
+2020-04-11,17:20:19,twitter.com,Peoria,Arizona,dsudworthei
+2020-04-11,21:56:33,MocoSpace.com,Boston,Massachusetts,nricciardelliej
+2020-04-11,21:16:59,google.com,Albuquerque,New Mexico,gbenoitonek
+2020-04-11,16:59:09,MocoSpace.com,San Jose,California,goswellel
+2020-04-11,22:15:52,google.com,Albuquerque,New Mexico,sstealeyem
+2020-04-11,11:46:24,Ravelry.com,Merrifield,Virginia,lbudgeonen
+2020-04-11,5:09:41,google.com,Fort Pierce,Florida,agipsoneo
+2020-04-11,16:24:10,youtube.com,Sacramento,California,akidnerep
+2020-04-11,23:07:01,facebook.com,Kent,Washington,mminghettieq
+2020-04-11,16:26:25,Ravelry.com,San Bernardino,California,oarnholder
+2020-04-11,21:52:59,facebook.com,Syracuse,New York,lrothames
+2020-04-11,0:32:01,twitter.com,Chula Vista,California,sfarresset
+2020-04-11,6:08:21,MocoSpace.com,North Las Vegas,Nevada,gsonscheineu
+2020-04-11,4:57:53,facebook.com,Orange,California,rperkinsev
+2020-04-11,0:07:56,twitter.com,Norwalk,Connecticut,lhumphriesew
+2020-04-11,11:11:32,google.com,Pittsburgh,Pennsylvania,sbritziusex
+2020-04-11,9:59:49,facebook.com,Fort Wayne,Indiana,vturvieey
+2020-04-11,19:07:54,twitter.com,Greensboro,North Carolina,hhughesez
+2020-04-11,16:44:24,facebook.com,Memphis,Tennessee,rloneyf0
+2020-04-11,9:25:36,MocoSpace.com,Gary,Indiana,rdehailesf1
+2020-04-11,18:17:34,youtube.com,Tallahassee,Florida,wbreaganf2
+2020-04-11,0:04:52,Ravelry.com,Merrifield,Virginia,ndavidssonf3
+2020-04-11,6:01:41,MocoSpace.com,Midland,Michigan,ecasarinof4
+2020-04-11,16:29:21,facebook.com,Corpus Christi,Texas,rmarkeyf5
+2020-04-11,0:54:21,Ravelry.com,Washington,District of Columbia,pritmeierf6
+2020-04-11,15:27:13,twitter.com,Tacoma,Washington,hlairdf7
+2020-04-11,18:52:03,Ravelry.com,Pittsburgh,Pennsylvania,bgennerichf8
+2020-04-11,1:21:28,Ravelry.com,Bellevue,Washington,psutworthf9
+2020-04-11,17:36:33,google.com,Washington,District of Columbia,ichillesfa
+2020-04-11,16:39:23,youtube.com,Los Angeles,California,cmcdavidfb
+2020-04-11,3:20:06,Ravelry.com,Tacoma,Washington,dlaxenfc
+2020-04-11,15:08:55,facebook.com,Nashville,Tennessee,dtrahairfd
+2020-04-11,15:19:31,MocoSpace.com,Flint,Michigan,cbelsherfe
+2020-04-11,5:42:17,Ravelry.com,Denver,Colorado,gtomichff
+2020-04-11,12:17:27,google.com,Baton Rouge,Louisiana,lshepherdfg
+2020-04-11,10:37:22,MocoSpace.com,Houston,Texas,whasnipfh
+2020-04-11,2:48:08,twitter.com,Charlotte,North Carolina,fsheahanfi
+2020-04-11,12:30:03,youtube.com,Madison,Wisconsin,uhearleyfj
+2020-04-11,9:26:50,twitter.com,Amarillo,Texas,mpechfk
+2020-04-11,7:14:13,twitter.com,Cleveland,Ohio,gmoorefl
+2020-04-11,10:53:29,MocoSpace.com,Washington,District of Columbia,spharrofm
+2020-04-11,5:55:38,MocoSpace.com,Young America,Minnesota,imelodyfn
+2020-04-11,7:53:52,youtube.com,Greensboro,North Carolina,aacockfo
+2020-04-11,22:58:40,google.com,Hyattsville,Maryland,ccatonnetfp
+2020-04-11,13:05:18,facebook.com,New York City,New York,aianillifq
+2020-04-11,13:50:49,youtube.com,Salt Lake City,Utah,mdanielsohnfr
+2020-04-11,9:06:24,google.com,Dallas,Texas,gmilmofs
+2020-04-11,19:51:49,facebook.com,Chicago,Illinois,bpountneyft
+2020-04-11,20:42:08,twitter.com,Trenton,New Jersey,fbibbfu
+2020-04-11,20:06:38,youtube.com,Peoria,Illinois,nphillputfv
+2020-04-11,7:23:17,twitter.com,El Paso,Texas,rferraracciofw
+2020-04-11,13:42:45,Ravelry.com,Newark,New Jersey,danderbruggefx
+2020-04-11,12:52:43,youtube.com,Akron,Ohio,ndolderfy
+2020-04-11,0:47:17,Ravelry.com,Dulles,Virginia,vpodsfz
+2020-04-11,18:08:37,youtube.com,Saint Louis,Missouri,rturneauxg0
+2020-04-11,4:28:11,MocoSpace.com,Lancaster,California,enelisseng1
+2020-04-11,7:28:53,google.com,Richmond,Virginia,cmossmang2
+2020-04-11,12:16:29,youtube.com,Fort Worth,Texas,ccotherillg3
+2020-04-11,17:17:27,MocoSpace.com,Denver,Colorado,nolverg4
+2020-04-11,20:22:37,facebook.com,Louisville,Kentucky,sjudeng5
+2020-04-11,9:48:46,facebook.com,York,Pennsylvania,ctoomeyg6
+2020-04-11,23:49:32,MocoSpace.com,Philadelphia,Pennsylvania,mwilkesg7
+2020-04-11,15:11:11,Ravelry.com,Wichita,Kansas,wgalvang8
+2020-04-11,6:21:15,MocoSpace.com,Richmond,Virginia,idallisong9
+2020-04-11,7:08:38,MocoSpace.com,Charlotte,North Carolina,bblackwoodga
+2020-04-11,9:04:48,MocoSpace.com,Pensacola,Florida,cerswellgb
+2020-04-11,2:55:22,google.com,Tacoma,Washington,mdonnellgc
+2020-04-11,1:16:41,google.com,Detroit,Michigan,zwhittinghamgd
+2020-04-11,5:17:17,facebook.com,Oklahoma City,Oklahoma,cbeavenge
+2020-04-11,3:56:20,twitter.com,Charlotte,North Carolina,cjealousgf
+2020-04-11,4:17:36,MocoSpace.com,Washington,District of Columbia,aantonoyevgg
+2020-04-11,5:36:56,twitter.com,Panama City,Florida,feuplategh
+2020-04-11,8:58:23,twitter.com,Greeley,Colorado,ajurekgi
+2020-04-11,19:04:09,twitter.com,Greensboro,North Carolina,cbickerstaffgj
+2020-04-11,13:59:21,Ravelry.com,Charleston,West Virginia,dmilsomgk
+2020-04-11,1:51:20,google.com,New Bedford,Massachusetts,eemmsgl
+2020-04-11,0:51:14,google.com,Pittsburgh,Pennsylvania,zbasilgm
+2020-04-11,13:08:39,Ravelry.com,Tampa,Florida,mnovakovicgn
+2020-04-11,13:36:43,Ravelry.com,Tucson,Arizona,sdescoffiergo
+2020-04-11,10:38:56,twitter.com,Chicago,Illinois,tlongleygp
+2020-04-11,8:51:54,youtube.com,El Paso,Texas,ftinmouthgq
+2020-04-11,3:51:51,MocoSpace.com,Montpelier,Vermont,sgregergr
+2020-04-11,18:17:26,twitter.com,Orlando,Florida,vredangs
+2020-04-11,19:19:58,MocoSpace.com,Charlotte,North Carolina,tdorneygt
+2020-04-11,2:16:07,facebook.com,Atlanta,Georgia,gbaldacchinogu
+2020-04-11,17:19:29,Ravelry.com,Baton Rouge,Louisiana,gknaggesgv
+2020-04-11,17:52:14,twitter.com,Prescott,Arizona,aaucklandgw
+2020-04-11,10:19:38,google.com,El Paso,Texas,amichallatgx
+2020-04-11,3:56:39,google.com,San Bernardino,California,hhurdgy
+2020-04-11,21:59:23,twitter.com,Rochester,Minnesota,nuffgz
+2020-04-11,10:07:02,twitter.com,Orlando,Florida,sgrimditchh0
+2020-04-11,7:52:05,twitter.com,Birmingham,Alabama,nbahlsh1
+2020-04-11,3:32:12,youtube.com,Terre Haute,Indiana,jhailyh2
+2020-04-11,18:21:04,twitter.com,Irvine,California,wdinesenh3
+2020-04-11,13:55:20,youtube.com,Trenton,New Jersey,gsemberh4
+2020-04-11,10:23:53,google.com,Bakersfield,California,smilleyh5
+2020-04-11,20:18:20,youtube.com,Joliet,Illinois,bkaysh6
+2020-04-11,13:47:35,MocoSpace.com,Decatur,Illinois,atidboldh7
+2020-04-11,21:46:58,youtube.com,Philadelphia,Pennsylvania,mwrideh8
+2020-04-11,2:27:25,Ravelry.com,Naples,Florida,esnelgarh9
+2020-04-11,8:25:24,google.com,Salt Lake City,Utah,anicholha
+2020-04-11,8:35:30,Ravelry.com,Henderson,Nevada,mbraniganhb
+2020-04-11,2:46:05,twitter.com,Suffolk,Virginia,emiddellhc
+2020-04-11,11:48:11,facebook.com,Cambridge,Massachusetts,bbyershd
+2020-04-11,11:10:09,google.com,Houston,Texas,aoriordanhe
+2020-04-11,3:14:33,google.com,Lincoln,Nebraska,jgamesonhf
+2020-04-11,12:15:14,MocoSpace.com,Oakland,California,ascorerhg
+2020-04-11,13:22:18,twitter.com,High Point,North Carolina,awimsetthh
+2020-04-11,5:38:20,google.com,Dallas,Texas,htillmanhi
+2020-04-11,1:55:55,youtube.com,San Diego,California,omansourhj
+2020-04-11,19:17:32,facebook.com,Minneapolis,Minnesota,bpetrenkohk
+2020-04-11,3:26:07,google.com,Milwaukee,Wisconsin,dgladtbachhl
+2020-04-11,12:05:35,Ravelry.com,Lakewood,Washington,dyurinhm
+2020-04-11,14:14:21,Ravelry.com,Seattle,Washington,mmangionhn
+2020-04-11,0:52:32,twitter.com,Jeffersonville,Indiana,nrumseyho
+2020-04-11,19:56:33,MocoSpace.com,Brea,California,ohallwoodhp
+2020-04-11,8:28:42,twitter.com,Littleton,Colorado,cpetruszkahq
+2020-04-11,1:35:49,facebook.com,Minneapolis,Minnesota,gbindenhr
+2020-04-11,20:02:33,facebook.com,Baltimore,Maryland,nbelascohs
+2020-04-11,11:24:05,google.com,Colorado Springs,Colorado,emacilurickht
+2020-04-11,17:17:19,google.com,Port Washington,New York,kdaintryhu
+2020-04-11,13:47:11,twitter.com,Worcester,Massachusetts,doquirkhv
+2020-04-11,14:08:04,facebook.com,Chicago,Illinois,fmatthewmanhw
+2020-04-11,0:03:21,youtube.com,Saint Louis,Missouri,lmclorinanhx
+2020-04-11,21:47:22,youtube.com,Saint Augustine,Florida,dohanlonhy
+2020-04-11,18:34:10,Ravelry.com,Panama City,Florida,gvondryshz
+2020-04-11,16:03:01,facebook.com,Alpharetta,Georgia,rmcgreayi0
+2020-04-11,0:12:46,Ravelry.com,Portland,Oregon,larringtoni1
+2020-04-11,7:35:20,Ravelry.com,Aurora,Colorado,fliveseyi2
+2020-04-11,6:38:59,MocoSpace.com,Norcross,Georgia,dsliddersi3
+2020-04-11,8:16:15,google.com,Sacramento,California,vmerricki4
+2020-04-11,3:20:24,Ravelry.com,New Orleans,Louisiana,jthomi5
+2020-04-11,15:56:34,Ravelry.com,Minneapolis,Minnesota,sminichii6
+2020-04-11,13:02:03,youtube.com,Naples,Florida,wpidgeleyi7
+2020-04-11,18:28:21,MocoSpace.com,Savannah,Georgia,aglasbeyi8
+2020-04-11,13:03:29,MocoSpace.com,Visalia,California,trathmelli9
+2020-04-11,11:56:17,google.com,Greensboro,North Carolina,abarkusia
+2020-04-11,14:08:28,twitter.com,Garland,Texas,mwhistonib
+2020-04-11,17:40:49,MocoSpace.com,Lubbock,Texas,elavelleic
+2020-04-11,20:14:18,twitter.com,Syracuse,New York,gklimkiewichid
+2020-04-11,8:54:13,google.com,Duluth,Minnesota,dmcgorleyie
+2020-04-11,6:44:59,Ravelry.com,Long Beach,California,dgregersenif
+2020-04-11,11:48:11,google.com,Dallas,Texas,mivettig
+2020-04-11,20:04:13,google.com,Clearwater,Florida,dwhitearih
+2020-04-11,3:19:45,facebook.com,Kansas City,Missouri,mbeckmannii
+2020-04-11,1:38:51,twitter.com,Fort Lauderdale,Florida,lvollethij
+2020-04-11,7:02:36,google.com,Redwood City,California,eargileik
+2020-04-11,14:20:26,google.com,Boise,Idaho,mgrimwadil
+2020-04-11,3:57:00,twitter.com,Carson City,Nevada,aresdaleim
+2020-04-11,21:18:57,MocoSpace.com,Austin,Texas,cbengtsenin
+2020-04-11,12:11:47,Ravelry.com,Boca Raton,Florida,gbowndeio
+2020-04-11,6:57:18,Ravelry.com,Atlanta,Georgia,briderip
+2020-04-11,12:57:57,youtube.com,Atlanta,Georgia,varchdeckneiq
+2020-04-11,1:58:21,twitter.com,Kalamazoo,Michigan,jreymersir
+2020-04-11,19:00:33,youtube.com,Birmingham,Alabama,nglendzeris
+2020-04-11,0:18:47,youtube.com,Colorado Springs,Colorado,mkindleyit
+2020-04-11,19:09:05,youtube.com,Orange,California,csawyeriu
+2020-04-11,14:48:43,MocoSpace.com,Atlanta,Georgia,tblinermaniv
+2020-04-11,4:17:39,facebook.com,Pittsburgh,Pennsylvania,bbaddowiw
+2020-04-11,5:04:06,youtube.com,Pittsburgh,Pennsylvania,dlaleveeix
+2020-04-11,9:15:07,Ravelry.com,Greenville,South Carolina,mmargerrisoniy
+2020-04-11,12:49:41,google.com,Sioux Falls,South Dakota,eabramcikiz
+2020-04-11,4:12:19,twitter.com,Santa Barbara,California,qworsfieldj0
+2020-04-11,11:23:57,MocoSpace.com,Knoxville,Tennessee,adungeyj1
+2020-04-11,21:41:34,youtube.com,Kansas City,Missouri,aharuardj2
+2020-04-11,21:33:54,youtube.com,Washington,District of Columbia,zmartiniej3
+2020-04-11,9:30:34,MocoSpace.com,Annapolis,Maryland,btyej4
+2020-04-11,18:06:17,facebook.com,Des Moines,Iowa,tsueroj5
+2020-04-11,2:31:08,Ravelry.com,Charleston,West Virginia,hawtonj6
+2020-04-11,21:57:12,MocoSpace.com,Fort Worth,Texas,rblankhornj7
+2020-04-11,1:08:11,MocoSpace.com,El Paso,Texas,lantonsenj8
+2020-04-11,4:25:27,youtube.com,Evansville,Indiana,rpersentj9
+2020-04-11,6:38:04,youtube.com,Chicago,Illinois,zsundinja
+2020-04-11,1:23:11,twitter.com,Temple,Texas,gvaggjb
+2020-04-11,12:19:42,MocoSpace.com,Dallas,Texas,echesherjc
+2020-04-11,14:54:20,google.com,North Little Rock,Arkansas,astampsjd
+2020-04-11,17:38:21,twitter.com,Buffalo,New York,pcotteeje
+2020-04-11,3:13:33,twitter.com,Danbury,Connecticut,kguarnierjf
+2020-04-11,16:17:03,MocoSpace.com,Las Vegas,Nevada,lwrenjg
+2020-04-11,3:21:28,youtube.com,Orlando,Florida,edurnfordjh
+2020-04-11,3:50:51,google.com,Louisville,Kentucky,nworthyji
+2020-04-11,13:13:13,MocoSpace.com,Los Angeles,California,lreppjj
+2020-04-11,6:06:04,google.com,Fort Wayne,Indiana,kcloonanjk
+2020-04-11,18:44:55,google.com,El Paso,Texas,ragnolojl
+2020-04-11,9:32:22,facebook.com,Pittsburgh,Pennsylvania,pgagiejm
+2020-04-11,10:36:36,Ravelry.com,Pittsburgh,Pennsylvania,shurlljn
+2020-04-11,13:26:01,google.com,Herndon,Virginia,fmclarnonjo
+2020-04-11,4:10:27,facebook.com,Dallas,Texas,ekidsleyjp
+2020-04-11,12:44:54,facebook.com,Dayton,Ohio,gstuttejq
+2020-04-11,14:55:52,MocoSpace.com,Raleigh,North Carolina,tmartinjr
+2020-04-11,8:55:21,google.com,Torrance,California,cmacleodjs
+2020-04-11,8:46:00,youtube.com,Detroit,Michigan,ssydenhamjt
+2020-04-11,10:34:55,google.com,Fullerton,California,smacgeaneyju
+2020-04-11,18:46:20,MocoSpace.com,Amarillo,Texas,gbansaljv
+2020-04-11,10:51:13,facebook.com,Columbus,Ohio,sbokenjw
+2020-04-11,8:25:55,google.com,Detroit,Michigan,gmuzzollojx
+2020-04-11,11:03:44,twitter.com,Corpus Christi,Texas,ncoitjy
+2020-04-11,3:57:59,MocoSpace.com,Baton Rouge,Louisiana,gtreasurejz
+2020-04-11,20:39:13,MocoSpace.com,Milwaukee,Wisconsin,tzavattierik0
+2020-04-11,8:13:23,Ravelry.com,Atlanta,Georgia,gbagottk1
+2020-04-11,16:50:19,youtube.com,Boca Raton,Florida,bjackmank2
+2020-04-11,23:28:44,facebook.com,Panama City,Florida,zstonestreetk3
+2020-04-11,9:00:47,twitter.com,Jamaica,New York,eglassonk4
+2020-04-11,17:25:45,facebook.com,Toledo,Ohio,zdafyddk5
+2020-04-11,3:49:20,youtube.com,Baton Rouge,Louisiana,alandrek6
+2020-04-11,16:09:43,Ravelry.com,Rochester,Minnesota,aleark7
+2020-04-11,0:12:20,Ravelry.com,Grand Rapids,Michigan,dcabralesk8
+2020-04-11,5:12:06,youtube.com,Columbia,South Carolina,mfarfolomeevk9
+2020-04-11,20:40:55,Ravelry.com,Washington,District of Columbia,gminnetteka
+2020-04-11,6:48:20,Ravelry.com,Richmond,Virginia,apentercostkb
+2020-04-11,1:03:47,youtube.com,Tulsa,Oklahoma,oshelbournekc
+2020-04-11,18:22:45,Ravelry.com,Sacramento,California,ritzkovwitchkd
+2020-04-11,20:31:24,youtube.com,Atlanta,Georgia,msandleke
+2020-04-11,19:33:34,facebook.com,Danbury,Connecticut,fbirchillkf
+2020-04-11,14:48:32,twitter.com,Washington,District of Columbia,gogelbekg
+2020-04-11,7:45:03,Ravelry.com,Albany,New York,nradfordkh
+2020-04-11,11:13:33,facebook.com,New York City,New York,tpidginki
+2020-04-11,1:01:52,Ravelry.com,San Diego,California,aaucottkj
+2020-04-11,11:59:13,twitter.com,Young America,Minnesota,mchretienkk
+2020-04-11,13:28:54,google.com,Toledo,Ohio,cgottkl
+2020-04-11,5:19:17,MocoSpace.com,New Orleans,Louisiana,acuzenkm
+2020-04-11,1:24:01,twitter.com,Newport News,Virginia,vcoarekn
+2020-04-11,21:20:02,facebook.com,San Diego,California,lmacadieko
+2020-04-11,10:58:27,google.com,Lancaster,Pennsylvania,lkellochkp
+2020-04-11,7:48:17,google.com,Pasadena,California,shanscombekq
+2020-04-11,9:36:35,Ravelry.com,Louisville,Kentucky,ofyshkr
+2020-04-11,9:16:16,twitter.com,Bismarck,North Dakota,cughiniks
+2020-04-11,5:40:02,Ravelry.com,Sarasota,Florida,mevittskt
+2020-04-11,14:48:51,MocoSpace.com,Orlando,Florida,lthorogoodku
+2020-04-11,6:15:25,twitter.com,Des Moines,Iowa,rbuckleykv
+2020-04-11,6:50:37,facebook.com,Houston,Texas,cjurskw
+2020-04-11,14:28:45,twitter.com,New Orleans,Louisiana,vlucchikx
+2020-04-11,16:17:45,facebook.com,Savannah,Georgia,tenglandky
+2020-04-11,18:58:56,google.com,Norwalk,Connecticut,fyardleykz
+2020-04-11,19:26:05,twitter.com,White Plains,New York,mbixleyl0
+2020-04-11,13:46:36,facebook.com,Columbus,Ohio,rlaingel1
+2020-04-11,16:31:05,youtube.com,Terre Haute,Indiana,amaffil2
+2020-04-11,17:39:44,MocoSpace.com,New York City,New York,bbisikerl3
+2020-04-11,7:59:25,facebook.com,East Saint Louis,Illinois,rdewickel4
+2020-04-11,12:41:59,google.com,Gainesville,Florida,ksabatil5
+2020-04-11,1:38:11,Ravelry.com,Alexandria,Louisiana,cloinesl6
+2020-04-11,0:03:37,twitter.com,Port Saint Lucie,Florida,jhumpherstonl7
+2020-04-11,19:19:58,youtube.com,Cincinnati,Ohio,ncristofanol8
+2020-04-11,5:13:56,MocoSpace.com,Charleston,West Virginia,gfellmanl9
+2020-04-11,4:58:53,facebook.com,San Francisco,California,arowattla
+2020-04-11,5:27:46,facebook.com,San Jose,California,rkinforthlb
+2020-04-11,9:48:25,google.com,New York City,New York,dkinvanlc
+2020-04-11,14:07:33,facebook.com,Washington,District of Columbia,plippingwellld
+2020-04-11,20:33:27,MocoSpace.com,Arlington,Virginia,egabbottle
+2020-04-11,20:51:49,Ravelry.com,Houston,Texas,hwilflingerlf
+2020-04-11,2:12:34,MocoSpace.com,North Port,Florida,tsingyardlg
+2020-04-11,9:00:19,google.com,Huntsville,Texas,eledinghamlh
+2020-04-11,23:53:47,Ravelry.com,Colorado Springs,Colorado,nwheelwrightli
+2020-04-11,8:30:43,Ravelry.com,Washington,District of Columbia,avanderbekenlj
+2020-04-11,6:12:45,twitter.com,Austin,Texas,ahorderlk
+2020-04-11,8:42:00,facebook.com,Oakland,California,rbutteryll
+2020-04-11,11:23:51,facebook.com,Jacksonville,Florida,gpaybodylm
+2020-04-11,0:43:47,Ravelry.com,Orlando,Florida,rlevenskyln
+2020-04-11,12:16:19,google.com,Pasadena,California,taptedlo
+2020-04-11,3:10:16,twitter.com,Green Bay,Wisconsin,bcastrolp
+2020-04-11,0:24:29,google.com,Honolulu,Hawaii,gdeverehuntlq
+2020-04-11,20:30:31,facebook.com,Edmond,Oklahoma,zbelfeltlr
+2020-04-11,12:31:25,Ravelry.com,Las Vegas,Nevada,dmansonls
+2020-04-11,19:39:33,Ravelry.com,Jackson,Tennessee,atinglelt
+2020-04-11,20:31:04,facebook.com,Newport Beach,California,aluetkemeyerslu
+2020-04-11,9:40:35,youtube.com,Austin,Texas,nspyvyelv
+2020-04-11,20:36:00,youtube.com,Jackson,Mississippi,lstanninglw
+2020-04-11,3:11:41,facebook.com,Sioux Falls,South Dakota,sburstowelx
+2020-04-11,6:52:51,facebook.com,Reading,Pennsylvania,kchantillonly
+2020-04-11,1:26:08,twitter.com,Miami,Florida,dbudnklz
+2020-04-11,16:04:04,facebook.com,Berkeley,California,rudalem0
+2020-04-11,21:27:25,Ravelry.com,Kansas City,Missouri,chowism1
+2020-04-11,10:21:38,google.com,Wichita,Kansas,bjouanninm2
+2020-04-11,6:49:56,MocoSpace.com,Fort Lauderdale,Florida,lbardellm3
+2020-04-11,9:28:08,facebook.com,Cleveland,Ohio,rpeermanm4
+2020-04-11,15:49:09,youtube.com,Gatesville,Texas,gmebesm5
+2020-04-11,8:55:57,youtube.com,Indianapolis,Indiana,mnunnsm6
+2020-04-11,14:59:25,google.com,Sacramento,California,dstreetenm7
+2020-04-11,10:47:59,facebook.com,Chicago,Illinois,kpiersonm8
+2020-04-11,20:22:38,MocoSpace.com,Ann Arbor,Michigan,aberzenm9
+2020-04-11,2:43:51,Ravelry.com,Berkeley,California,bolekhovma
+2020-04-11,17:15:47,google.com,Apache Junction,Arizona,crockmb
+2020-04-11,2:27:02,google.com,Milwaukee,Wisconsin,llambertomc
+2020-04-11,19:44:36,MocoSpace.com,Savannah,Georgia,mlivockmd
+2020-04-11,5:32:34,twitter.com,Galveston,Texas,cdumphreyme
+2020-04-11,7:16:49,Ravelry.com,Kansas City,Missouri,myeuletmf
+2020-04-11,12:01:12,facebook.com,Erie,Pennsylvania,pjorymg
+2020-04-11,5:58:29,google.com,New York City,New York,ghurlestonemh
+2020-04-11,14:34:10,twitter.com,Fargo,North Dakota,drulfmi
+2020-04-11,11:39:08,google.com,Nashville,Tennessee,mepinemj
+2020-04-11,9:24:22,google.com,Louisville,Kentucky,gramsellmk
+2020-04-11,14:26:50,google.com,Mobile,Alabama,jdrooganml
+2020-04-11,0:12:51,youtube.com,Milwaukee,Wisconsin,raxworthymm
+2020-04-11,11:17:59,facebook.com,Miami,Florida,karnoldsmn
+2020-04-11,23:23:27,youtube.com,Dallas,Texas,lspreullmo
+2020-04-11,6:43:18,facebook.com,Raleigh,North Carolina,alamondmp
+2020-04-11,18:56:26,twitter.com,Pensacola,Florida,rvaughnmq
+2020-04-11,19:25:02,twitter.com,Lehigh Acres,Florida,ggouchmr
+2020-04-11,18:00:19,youtube.com,Amarillo,Texas,risaacsms
+2020-04-11,12:42:47,twitter.com,Fort Worth,Texas,joleksiakmt
+2020-04-11,20:43:19,twitter.com,Evansville,Indiana,clethammu
+2020-04-11,3:06:38,google.com,New Orleans,Louisiana,oakenheadmv
+2020-04-11,4:30:05,google.com,Pueblo,Colorado,bpassymw
+2020-04-11,19:46:44,Ravelry.com,Washington,District of Columbia,fmerseymx
+2020-04-11,1:29:13,MocoSpace.com,Spokane,Washington,bverdiemy
+2020-04-11,4:37:59,google.com,Boise,Idaho,apriskmz
+2020-04-11,0:24:16,MocoSpace.com,Kansas City,Missouri,npeterkenn0
+2020-04-11,2:16:49,MocoSpace.com,Dayton,Ohio,bmatysn1
+2020-04-11,4:50:19,twitter.com,Cleveland,Ohio,bhulksn2
+2020-04-11,17:17:16,facebook.com,Amarillo,Texas,erankinn3
+2020-04-11,4:31:19,Ravelry.com,Omaha,Nebraska,epetkovn4
+2020-04-11,7:06:48,google.com,Washington,District of Columbia,gdoileyn5
+2020-04-11,9:28:56,facebook.com,New York City,New York,csaxtonn6
+2020-04-11,14:00:18,twitter.com,Austin,Texas,ehumberstonen7
+2020-04-11,2:00:30,MocoSpace.com,Sioux Falls,South Dakota,amatiewen8
+2020-04-11,21:11:57,Ravelry.com,Richmond,Virginia,gknowlern9
+2020-04-11,22:46:01,google.com,Washington,District of Columbia,gmaplethorpena
+2020-04-11,14:08:43,Ravelry.com,Jacksonville,Florida,pmacshirrienb
+2020-04-11,21:04:09,Ravelry.com,Seattle,Washington,klothloriennc
+2020-04-11,2:19:44,youtube.com,Clearwater,Florida,hkruszelnickind
+2020-04-11,0:36:54,MocoSpace.com,Kansas City,Missouri,imenhcine
+2020-04-11,0:05:14,MocoSpace.com,Sacramento,California,mgorglernf
+2020-04-11,18:24:23,Ravelry.com,Carson City,Nevada,bchaudronng
+2020-04-11,9:36:11,facebook.com,Trenton,New Jersey,ihoxeynh
+2020-04-11,16:19:00,Ravelry.com,Kent,Washington,rwarryni
+2020-04-11,7:30:10,twitter.com,Visalia,California,cdavauxnj
+2020-04-11,17:44:22,MocoSpace.com,Colorado Springs,Colorado,tteersnk
+2020-04-11,2:34:31,MocoSpace.com,Salt Lake City,Utah,nambroznl
+2020-04-11,10:25:52,Ravelry.com,Columbus,Mississippi,mgentnm
+2020-04-11,13:43:19,google.com,San Antonio,Texas,cbadernn
+2020-04-11,8:10:26,MocoSpace.com,Anchorage,Alaska,dbentleyno
+2020-04-11,7:49:40,Ravelry.com,San Jose,California,ebornenp
+2020-04-11,18:31:15,facebook.com,Reston,Virginia,cvolettnq
+2020-04-11,6:37:13,youtube.com,Chicago,Illinois,hlambinnr
+2020-04-11,2:15:15,Ravelry.com,Mesa,Arizona,lchivertonns
+2020-04-11,22:59:32,Ravelry.com,Montgomery,Alabama,geckerynt
+2020-04-11,1:01:25,MocoSpace.com,Dayton,Ohio,kalbertnu
+2020-04-11,19:03:25,facebook.com,Houston,Texas,mcackettnv
+2020-04-11,22:55:22,MocoSpace.com,Tampa,Florida,bdartnellnw
+2020-04-11,17:53:04,youtube.com,Honolulu,Hawaii,nbarthelemynx
+2020-04-11,14:02:17,twitter.com,New York City,New York,jstatonny
+2020-04-11,2:17:46,facebook.com,Dallas,Texas,dbrandonnz
+2020-04-11,12:05:06,twitter.com,Jeffersonville,Indiana,gburlo0
+2020-04-11,0:15:23,twitter.com,Fresno,California,wslidderso1
+2020-04-11,1:29:12,youtube.com,Pasadena,California,grossandero2
+2020-04-11,9:29:09,twitter.com,Reno,Nevada,efeavero3
+2020-04-11,14:58:23,facebook.com,Dayton,Ohio,jlejeuneo4
+2020-04-11,22:05:41,Ravelry.com,Bryan,Texas,nliddicoato5
+2020-04-11,9:43:57,google.com,Houston,Texas,emacfallo6
+2020-04-11,13:32:19,MocoSpace.com,Silver Spring,Maryland,kknighto7
+2020-04-11,7:44:39,google.com,Carlsbad,California,ltrottono8
+2020-04-11,0:43:37,youtube.com,Meridian,Mississippi,fpankhursto9
+2020-04-11,13:33:28,twitter.com,Salt Lake City,Utah,nkemmeoa
+2020-04-11,6:40:15,facebook.com,Valdosta,Georgia,dpembridgeob
+2020-04-11,3:41:51,facebook.com,Los Angeles,California,gjendasoc
+2020-04-11,16:12:43,youtube.com,Houston,Texas,dantowskiod
+2020-04-11,20:22:24,google.com,Albany,New York,amathouseoe
+2020-04-11,12:17:17,twitter.com,Odessa,Texas,agulkof
+2020-04-11,14:14:51,facebook.com,Naperville,Illinois,bbogartog
+2020-04-11,6:44:47,youtube.com,Houston,Texas,amckagueoh
+2020-04-11,13:28:18,google.com,Macon,Georgia,afrenscheoi
+2020-04-11,9:32:25,google.com,Albany,New York,iwigglesworthoj
+2020-04-11,0:35:46,youtube.com,Amarillo,Texas,jscutchingsok
+2020-04-11,15:22:21,facebook.com,Pompano Beach,Florida,rmallabonol
+2020-04-11,15:22:28,twitter.com,Washington,District of Columbia,bpeppardom
+2020-04-11,13:53:16,google.com,Houston,Texas,lkeymeon
+2020-04-11,13:43:52,google.com,Lansing,Michigan,jbigleyoo
+2020-04-11,16:05:31,Ravelry.com,Fresno,California,gsarfatop
+2020-04-11,0:15:45,youtube.com,Marietta,Georgia,svizoroq
+2020-04-11,0:26:46,google.com,Dallas,Texas,apatmanor
+2020-04-11,8:02:19,youtube.com,Portland,Oregon,joxenhamos
+2020-04-11,11:00:28,google.com,Lexington,Kentucky,pricardetot
+2020-04-11,19:36:58,twitter.com,Buffalo,New York,bgheerhaertou
+2020-04-11,19:01:36,Ravelry.com,Arlington,Virginia,rkubczakov
+2020-04-11,17:34:58,twitter.com,Minneapolis,Minnesota,edukerow
+2020-04-11,13:28:47,youtube.com,Visalia,California,hberntssonox
+2020-04-11,2:00:41,MocoSpace.com,Boise,Idaho,lfessieroy
+2020-04-11,14:44:10,facebook.com,New York City,New York,mcannelloz
+2020-04-11,4:36:24,youtube.com,Bronx,New York,bchiltonp0
+2020-04-11,5:35:03,youtube.com,Missoula,Montana,kwybronp1
+2020-04-11,22:15:07,MocoSpace.com,Jacksonville,Florida,cdaethp2
+2020-04-11,2:23:33,youtube.com,Columbus,Ohio,shaslehurstp3
+2020-04-11,3:57:04,Ravelry.com,San Jose,California,fclemowp4
+2020-04-11,18:18:39,Ravelry.com,Albuquerque,New Mexico,odelacostep5
+2020-04-11,11:00:48,facebook.com,Carson City,Nevada,scoslettp6
+2020-04-11,11:14:43,youtube.com,Colorado Springs,Colorado,vspacyp7
+2020-04-11,13:08:34,google.com,Chicago,Illinois,ebrambleyp8
+2020-04-11,0:49:35,facebook.com,Lexington,Kentucky,lbharp9
+2020-04-11,11:34:49,youtube.com,San Antonio,Texas,csiemenspa
+2020-04-11,3:32:11,MocoSpace.com,Tampa,Florida,adiespb
+2020-04-11,8:21:08,Ravelry.com,Fort Worth,Texas,fmagranepc
+2020-04-11,3:45:33,google.com,Miami,Florida,riacovaccipd
+2020-04-11,15:46:28,MocoSpace.com,San Jose,California,fwolteringpe
+2020-04-11,15:59:31,MocoSpace.com,Las Vegas,Nevada,aoxburypf
+2020-04-11,1:46:33,MocoSpace.com,Wichita,Kansas,mkirkhousepg
+2020-04-11,10:55:15,youtube.com,Pittsburgh,Pennsylvania,blazarusph
+2020-04-11,23:16:15,google.com,Chicago,Illinois,atwydellpi
+2020-04-11,3:06:29,google.com,West Palm Beach,Florida,tfareypj
+2020-04-11,14:06:42,youtube.com,Detroit,Michigan,jcomopk
+2020-04-11,21:25:36,twitter.com,Gastonia,North Carolina,caddionisiopl
+2020-04-11,9:18:47,Ravelry.com,Fort Worth,Texas,lwrenpm
+2020-04-11,7:02:29,Ravelry.com,Sacramento,California,zwarrpn
+2020-04-11,20:38:58,google.com,Stockton,California,gcagepo
+2020-04-11,22:00:47,facebook.com,Sacramento,California,lcollispp
+2020-04-11,10:46:21,facebook.com,Tuscaloosa,Alabama,ashadfourthpq
+2020-04-11,15:59:39,twitter.com,Evanston,Illinois,leuesdenpr
+2020-04-11,13:58:29,MocoSpace.com,Des Moines,Iowa,gcockshttps
+2020-04-11,17:33:16,youtube.com,Port Charlotte,Florida,cguddpt
+2020-04-11,11:10:32,MocoSpace.com,Honolulu,Hawaii,cbrennenstuhlpu
+2020-04-11,15:26:56,google.com,Winter Haven,Florida,sgedlingpv
+2020-04-11,17:44:43,MocoSpace.com,Young America,Minnesota,gmandalpw
+2020-04-11,11:37:46,MocoSpace.com,Van Nuys,California,jjecockpx
+2020-04-11,9:04:27,MocoSpace.com,Syracuse,New York,bdenerleypy
+2020-04-11,8:02:28,google.com,Houston,Texas,cvaunpz
+2020-04-11,8:58:29,facebook.com,Warren,Ohio,aduberryq0
+2020-04-11,9:11:37,Ravelry.com,Pensacola,Florida,hackwoodq1
+2020-04-11,13:49:10,youtube.com,Lancaster,Pennsylvania,gshellibeerq2
+2020-04-11,0:35:34,MocoSpace.com,Louisville,Kentucky,sgureryq3
+2020-04-11,0:32:44,google.com,Tulsa,Oklahoma,lgallamoreq4
+2020-04-11,7:52:08,twitter.com,Panama City,Florida,kheatleyq5
+2020-04-11,0:43:20,youtube.com,Fort Wayne,Indiana,bshmyrq6
+2020-04-11,20:56:24,Ravelry.com,San Francisco,California,gdeblasioq7
+2020-04-11,9:25:15,MocoSpace.com,Brooklyn,New York,bhawkettq8
+2020-04-11,3:20:37,youtube.com,Joliet,Illinois,fruminq9
+2020-04-11,17:54:22,MocoSpace.com,Philadelphia,Pennsylvania,caggusqa
+2020-04-11,2:19:48,facebook.com,Aiken,South Carolina,knutbrownqb
+2020-04-11,8:29:32,MocoSpace.com,Los Angeles,California,rweaversqc
+2020-04-11,0:04:44,MocoSpace.com,New Bedford,Massachusetts,npendockqd
+2020-04-11,5:45:42,youtube.com,Washington,District of Columbia,wdraiseyqe
+2020-04-11,5:23:21,twitter.com,Waco,Texas,mgyrgorwicxqf
+2020-04-11,5:01:43,youtube.com,Ann Arbor,Michigan,mianittiqg
+2020-04-11,14:41:43,facebook.com,Chicago,Illinois,comearaqh
+2020-04-11,1:30:54,MocoSpace.com,New Orleans,Louisiana,gmccarthyqi
+2020-04-11,15:14:27,Ravelry.com,Philadelphia,Pennsylvania,leddenqj
+2020-04-11,16:23:36,MocoSpace.com,Ann Arbor,Michigan,sbreslandqk
+2020-04-11,15:08:21,Ravelry.com,Miami,Florida,bantoszczykql
+2020-04-11,2:07:20,google.com,Oakland,California,hglitherowqm
+2020-04-11,5:38:37,google.com,Sparks,Nevada,shavertyqn
+2020-04-11,3:43:26,facebook.com,Louisville,Kentucky,sbafordqo
+2020-04-11,5:31:21,MocoSpace.com,Honolulu,Hawaii,dbradtkeqp
+2020-04-11,2:44:55,MocoSpace.com,Chandler,Arizona,bshaudfurthqq
+2020-04-11,2:27:22,twitter.com,Topeka,Kansas,sclawsonqr
+2020-04-11,5:05:38,MocoSpace.com,El Paso,Texas,ldomelawqs
+2020-04-11,9:07:00,google.com,Maple Plain,Minnesota,rwhiterodqt
+2020-04-11,10:10:18,facebook.com,Philadelphia,Pennsylvania,gmagnarqu
+2020-04-11,6:18:38,youtube.com,Roanoke,Virginia,jadelmanqv
+2020-04-11,22:56:07,twitter.com,Trenton,New Jersey,ndowsqw
+2020-04-11,4:59:41,youtube.com,Chula Vista,California,dnindqx
+2020-04-11,7:08:58,google.com,Wichita,Kansas,rglentworthqy
+2020-04-11,0:39:24,twitter.com,San Antonio,Texas,noddqz
+2020-04-11,10:51:19,youtube.com,Seattle,Washington,yskeffingtonr0
+2020-04-11,4:44:55,MocoSpace.com,Charlotte,North Carolina,theartyr1
+2020-04-11,13:35:21,youtube.com,Tucson,Arizona,lsongistr2
+2020-04-11,18:07:51,google.com,Omaha,Nebraska,wverissimor3
+2020-04-11,15:24:12,Ravelry.com,Charleston,West Virginia,wwayonr4
+2020-04-11,7:10:36,twitter.com,Indianapolis,Indiana,ftoothillr5
+2020-04-11,13:32:16,google.com,Roanoke,Virginia,sbinfieldr6
+2020-04-11,8:05:40,MocoSpace.com,New York City,New York,btwopennyr7
+2020-04-11,5:56:08,google.com,Richmond,Virginia,alygor8
+2020-04-11,23:04:48,Ravelry.com,Toledo,Ohio,bkilgallonr9
+2020-04-11,23:47:33,youtube.com,Oklahoma City,Oklahoma,nhaseleyra
+2020-04-11,22:17:02,twitter.com,Springfield,Illinois,cthyingrb
+2020-04-11,15:02:13,MocoSpace.com,Salt Lake City,Utah,mcysonrc
+2020-04-11,11:35:59,google.com,Newport Beach,California,fkiddellrd
+2020-04-11,9:51:13,google.com,Akron,Ohio,ekittre
+2020-04-11,0:36:36,google.com,Bronx,New York,abutrimovichrf
+2020-04-11,22:24:17,twitter.com,Aiken,South Carolina,scluerg
+2020-04-11,7:14:54,Ravelry.com,Indianapolis,Indiana,ehallinrh
+2020-04-11,2:47:42,youtube.com,Tampa,Florida,bwatmoughri
+2020-04-11,8:08:45,google.com,Bethesda,Maryland,scoginrj
+2020-04-11,2:09:13,youtube.com,Glendale,California,cseedsrk
+2020-04-11,22:49:02,Ravelry.com,Minneapolis,Minnesota,dbloorerl
+2020-04-11,5:15:33,Ravelry.com,Carol Stream,Illinois,mfullomrm
+2020-04-11,18:11:50,twitter.com,Anniston,Alabama,dheedrn
+2020-04-11,21:16:29,MocoSpace.com,New York City,New York,dtungatero
+2020-04-11,15:29:47,youtube.com,Buffalo,New York,bstiggersrp
+2020-04-11,1:43:13,youtube.com,Pensacola,Florida,jkinghrq
+2020-04-11,5:50:11,facebook.com,Huntington,West Virginia,cbertomierrr
+2020-04-11,8:55:43,MocoSpace.com,El Paso,Texas,rpechard0
+2020-04-11,15:31:09,MocoSpace.com,Rockford,Illinois,nawin1
+2020-04-11,11:18:20,Ravelry.com,Las Vegas,Nevada,hwelland2
+2020-04-11,3:38:25,facebook.com,Syracuse,New York,balcock3
+2020-04-11,1:48:01,MocoSpace.com,Lexington,Kentucky,fdibden4
+2020-04-11,16:58:25,youtube.com,San Diego,California,ahorbath5
+2020-04-11,16:50:54,google.com,El Paso,Texas,kcamilleri6
+2020-04-11,0:46:38,Ravelry.com,Tampa,Florida,aowlner7
+2020-04-11,9:00:42,twitter.com,New York City,New York,nconichie8
+2020-04-11,22:36:09,twitter.com,Tucson,Arizona,nwithnall9
+2020-04-11,16:33:27,youtube.com,Louisville,Kentucky,jlemarquanda
+2020-04-11,18:25:45,Ravelry.com,Seattle,Washington,kpuffettb
+2020-04-11,2:56:53,twitter.com,Erie,Pennsylvania,efoakesc
+2020-04-11,17:22:52,google.com,Everett,Washington,amackrielld
+2020-04-11,0:10:17,google.com,Fort Worth,Texas,nsollande
+2020-04-11,2:09:39,facebook.com,Nashville,Tennessee,dmccrillisf
+2020-04-11,9:03:35,MocoSpace.com,Birmingham,Alabama,rcappelg
+2020-04-11,5:38:31,Ravelry.com,Olympia,Washington,hapedaileh
+2020-04-11,11:34:22,MocoSpace.com,Utica,New York,jmayersi
+2020-04-11,21:36:41,MocoSpace.com,Huntsville,Alabama,kcattrallj
+2020-04-11,6:48:52,Ravelry.com,Raleigh,North Carolina,vwathank
+2020-04-11,13:24:29,MocoSpace.com,Portsmouth,Virginia,dboffinl
+2020-04-11,20:22:02,youtube.com,Atlanta,Georgia,kpietzkem
+2020-04-11,2:32:17,twitter.com,Merrifield,Virginia,dlunan
+2020-04-11,22:50:16,youtube.com,Nashville,Tennessee,brommeo
+2020-04-11,13:50:06,MocoSpace.com,Corpus Christi,Texas,ilandsburyp
+2020-04-11,23:02:54,facebook.com,Lake Worth,Florida,vdjurkovicq
+2020-04-11,22:10:05,youtube.com,Miami,Florida,imcgerrr
+2020-04-11,2:39:50,facebook.com,Austin,Texas,rdaintiers
+2020-04-11,22:14:39,twitter.com,Mc Keesport,Pennsylvania,arichet
+2020-04-11,19:27:39,Ravelry.com,Waterbury,Connecticut,bfullunu
+2020-04-11,2:45:25,youtube.com,Indianapolis,Indiana,lroblouv
+2020-04-11,22:11:59,MocoSpace.com,White Plains,New York,hhallasw
+2020-04-11,7:40:08,google.com,Juneau,Alaska,rrivettx
+2020-04-11,10:45:49,MocoSpace.com,New York City,New York,bsandony
+2020-04-11,17:48:49,youtube.com,Shreveport,Louisiana,kizhakovz
+2020-04-11,19:29:15,youtube.com,Irvine,California,dfeavers10
+2020-04-11,14:24:23,Ravelry.com,Wilmington,North Carolina,yetock11
+2020-04-11,2:25:50,twitter.com,Dallas,Texas,smechan12
+2020-04-11,8:37:23,facebook.com,Atlanta,Georgia,craithby13
+2020-04-11,6:24:22,Ravelry.com,Santa Rosa,California,nremmers14
+2020-04-11,16:34:32,youtube.com,Shreveport,Louisiana,ataunton15
+2020-04-11,1:01:57,Ravelry.com,Washington,District of Columbia,ccockshtt16
+2020-04-11,23:03:49,MocoSpace.com,Brooklyn,New York,nfromant17
+2020-04-11,16:43:18,Ravelry.com,Lakeland,Florida,afeedham18
+2020-04-11,13:04:26,google.com,Saint Paul,Minnesota,pcaffery19
+2020-04-11,23:30:15,twitter.com,New Orleans,Louisiana,jmccosh1a
+2020-04-11,15:23:52,twitter.com,Elizabeth,New Jersey,jjachimak1b
+2020-04-11,2:05:38,Ravelry.com,Dallas,Texas,ehayselden1c
+2020-04-11,16:41:01,google.com,Duluth,Minnesota,nmcwhinnie1d
+2020-04-11,6:32:25,youtube.com,Miami,Florida,pthoumasson1e
+2020-04-11,8:52:29,google.com,Vero Beach,Florida,mkull1f
+2020-04-11,4:37:14,facebook.com,Carson City,Nevada,dthurlbeck1g
+2020-04-11,1:26:15,google.com,Richmond,Virginia,ubogeys1h
+2020-04-11,19:40:43,youtube.com,Savannah,Georgia,dtwentyman1i
+2020-04-11,19:12:40,MocoSpace.com,Minneapolis,Minnesota,fbalf1j
+2020-04-11,15:32:47,facebook.com,Long Beach,California,cfuncheon1k
+2020-04-11,8:17:39,twitter.com,Woburn,Massachusetts,ccaddens1l
+2020-04-11,16:41:53,youtube.com,Roanoke,Virginia,kguslon1m
+2020-04-11,12:49:49,MocoSpace.com,Ocala,Florida,lpask1n
+2020-04-11,4:17:05,twitter.com,Fort Myers,Florida,ktomasello1o
+2020-04-11,6:54:19,facebook.com,Miami,Florida,qpearton1p
+2020-04-11,6:56:58,Ravelry.com,Provo,Utah,dlewsey1q
+2020-04-11,20:53:09,twitter.com,Tulsa,Oklahoma,dwrankling1r
+2020-04-11,6:30:32,twitter.com,Albuquerque,New Mexico,aspuffard1s
+2020-04-11,13:27:52,youtube.com,Fayetteville,North Carolina,sedland1t
+2020-04-11,21:13:48,youtube.com,Des Moines,Iowa,holwen1u
+2020-04-11,6:38:09,youtube.com,Oklahoma City,Oklahoma,brustidge1v
+2020-04-11,12:15:17,Ravelry.com,Nashville,Tennessee,gmourge1w
+2020-04-11,23:18:15,facebook.com,Fort Wayne,Indiana,ltrusslove1x
+2020-04-11,23:24:20,facebook.com,San Rafael,California,padao1y
+2020-04-11,21:23:25,twitter.com,Appleton,Wisconsin,jjerrand1z
+2020-04-11,9:11:02,twitter.com,Stockton,California,sheifer20
+2020-04-11,15:35:01,twitter.com,Charlotte,North Carolina,bsoda21
+2020-04-11,9:47:11,MocoSpace.com,Falls Church,Virginia,rnucci22
+2020-04-11,13:38:34,youtube.com,Winston Salem,North Carolina,kelgey23
+2020-04-11,23:25:51,youtube.com,Charlotte,North Carolina,watyea24
+2020-04-11,19:52:35,twitter.com,North Port,Florida,kdubock25
+2020-04-11,16:31:30,MocoSpace.com,Oakland,California,aprisley26
+2020-04-11,2:26:25,twitter.com,Jamaica,New York,awands27
+2020-04-11,0:50:34,Ravelry.com,Richmond,Virginia,smcilmorow28
+2020-04-11,20:26:14,google.com,San Diego,California,cirvin29
+2020-04-11,3:53:59,MocoSpace.com,Houston,Texas,dkennaway2a
+2020-04-11,23:49:55,MocoSpace.com,Dallas,Texas,rellerker2b
+2020-04-11,2:47:02,youtube.com,San Antonio,Texas,fmaling2c
+2020-04-11,0:44:31,twitter.com,Orlando,Florida,ibossom2d
+2020-04-11,6:47:38,twitter.com,Augusta,Georgia,kmoehler2e
+2020-04-11,2:52:24,google.com,Los Angeles,California,gkalaher2f
+2020-04-11,10:08:14,facebook.com,Cedar Rapids,Iowa,fsemrad2g
+2020-04-11,11:23:55,MocoSpace.com,Irvine,California,hchaucer2h
+2020-04-11,16:03:51,youtube.com,Dallas,Texas,wleborgne2i
+2020-04-11,0:44:44,google.com,Charleston,South Carolina,smacalaster2j
+2020-04-11,20:02:31,google.com,Tulsa,Oklahoma,dbassilashvili2k
+2020-04-11,1:14:22,facebook.com,Mobile,Alabama,hkhotler2l
+2020-04-11,14:57:20,twitter.com,Raleigh,North Carolina,arowth2m
+2020-04-11,12:24:07,youtube.com,Buffalo,New York,jswinyard2n
+2020-04-11,15:03:56,Ravelry.com,Des Moines,Iowa,cberick2o
+2020-04-11,11:20:18,google.com,Houston,Texas,yciric2p
+2020-04-11,1:38:51,facebook.com,Orlando,Florida,hmuscat2q
+2020-04-11,0:48:14,youtube.com,Winston Salem,North Carolina,lalves2r
+2020-04-11,15:36:00,facebook.com,Albany,New York,mkibard2s
+2020-04-11,19:41:24,youtube.com,Helena,Montana,lgilloran2t
+2020-04-11,16:21:21,facebook.com,Huntington,West Virginia,tpashenkov2u
+2020-04-11,8:30:16,Ravelry.com,South Bend,Indiana,bbonallack2v
+2020-04-11,11:23:36,Ravelry.com,Glendale,Arizona,osibary2w
+2020-04-11,3:07:21,MocoSpace.com,Phoenix,Arizona,ecreffield2x
+2020-04-11,17:33:29,google.com,Seattle,Washington,bgamlen2y
+2020-04-11,17:33:02,MocoSpace.com,El Paso,Texas,tcasey2z
+2020-04-11,16:13:28,youtube.com,Detroit,Michigan,mbeggan30
+2020-04-11,18:32:41,facebook.com,Decatur,Georgia,vmaccrackan31
+2020-04-11,2:33:16,Ravelry.com,Charlotte,North Carolina,cceles32
+2020-04-11,10:45:58,MocoSpace.com,San Bernardino,California,jdaulby33
+2020-04-11,13:19:30,youtube.com,Jefferson City,Missouri,ntumber34
+2020-04-11,18:52:35,facebook.com,Washington,District of Columbia,cgentsch35
+2020-04-11,2:21:03,MocoSpace.com,Roanoke,Virginia,rdudney36
+2020-04-11,14:34:35,youtube.com,Little Rock,Arkansas,ggodain37
+2020-04-11,15:35:28,facebook.com,Topeka,Kansas,gasals38
+2020-04-11,22:43:08,youtube.com,Birmingham,Alabama,graynard39
+2020-04-11,19:28:21,youtube.com,San Jose,California,tpalfrey3a
+2020-04-11,15:42:48,Ravelry.com,Brooklyn,New York,igrundwater3b
+2020-04-11,18:18:22,Ravelry.com,Waco,Texas,atrotman3c
+2020-04-11,13:58:52,twitter.com,Charlotte,North Carolina,acradick3d
+2020-04-11,19:41:19,Ravelry.com,Sacramento,California,bepton3e
+2020-04-11,13:17:09,google.com,Saint Paul,Minnesota,nbernaldo3f
+2020-04-11,12:18:20,youtube.com,Peoria,Illinois,jvannoort3g
+2020-04-11,23:13:29,Ravelry.com,Billings,Montana,dventom3h
+2020-04-11,10:19:57,youtube.com,Louisville,Kentucky,rtaillard3i
+2020-04-11,22:45:08,twitter.com,Frederick,Maryland,jtapin3j
+2020-04-11,10:52:08,youtube.com,Evansville,Indiana,nterrazzo3k
+2020-04-11,13:48:52,facebook.com,Warren,Ohio,hfallowfield3l
+2020-04-11,14:55:29,twitter.com,Brockton,Massachusetts,alucien3m
+2020-04-11,21:26:46,twitter.com,Nashville,Tennessee,tdysart3n
+2020-04-11,13:18:29,google.com,Dayton,Ohio,sarbor3o
+2020-04-11,21:24:10,twitter.com,Saint Louis,Missouri,galejandre3p
+2020-04-11,3:45:42,twitter.com,Baltimore,Maryland,ldebling3q
+2020-04-11,23:12:25,google.com,San Antonio,Texas,hdufour3r
+2020-04-11,11:29:55,youtube.com,Flint,Michigan,kgonin3s
+2020-04-11,10:45:27,google.com,Los Angeles,California,zblakely3t
+2020-04-11,19:37:27,twitter.com,Portland,Maine,ecornely3u
+2020-04-11,4:22:11,Ravelry.com,Fresno,California,jdahle3v
+2020-04-11,18:43:41,twitter.com,Mesquite,Texas,emorbey3w
+2020-04-11,3:48:56,google.com,Hayward,California,cscrancher3x
+2020-04-11,11:46:50,facebook.com,Juneau,Alaska,lnapoli3y
+2020-04-11,13:00:47,MocoSpace.com,Roanoke,Virginia,mberthel3z
+2020-04-11,19:04:01,youtube.com,Birmingham,Alabama,llaurant40
+2020-04-11,6:55:19,facebook.com,New York City,New York,icoryndon41
+2020-04-11,8:35:14,Ravelry.com,Omaha,Nebraska,thinz42
+2020-04-11,2:12:57,Ravelry.com,Shawnee Mission,Kansas,dmoodie43
+2020-04-11,13:40:00,Ravelry.com,Paterson,New Jersey,jfieldhouse44
+2020-04-11,22:39:44,MocoSpace.com,Panama City,Florida,pridhole45
+2020-04-11,14:26:31,MocoSpace.com,Frederick,Maryland,gsiene46
+2020-04-11,7:22:08,facebook.com,Hartford,Connecticut,sgoodhall47
+2020-04-11,7:38:12,google.com,Greensboro,North Carolina,vhuglin48
+2020-04-11,12:11:17,youtube.com,Newport News,Virginia,dwaye49
+2020-04-11,12:24:43,youtube.com,Kansas City,Missouri,khaliday4a
+2020-04-11,9:59:21,facebook.com,Camden,New Jersey,eellar4b
+2020-04-11,4:03:24,facebook.com,Abilene,Texas,rnewland4c
+2020-04-11,1:22:44,youtube.com,New York City,New York,njoffe4d
+2020-04-11,3:43:00,facebook.com,Harrisburg,Pennsylvania,shaggata4e
+2020-04-11,9:13:07,twitter.com,Harrisburg,Pennsylvania,jrobet4f
+2020-04-11,6:11:40,google.com,Wilmington,Delaware,tcollymore4g
+2020-04-11,19:45:35,google.com,Washington,District of Columbia,emcgahy4h
+2020-04-11,17:14:45,google.com,San Francisco,California,kdady4i
+2020-04-11,14:32:50,twitter.com,Dallas,Texas,efellgett4j
+2020-04-11,2:46:38,facebook.com,Fresno,California,sstot4k
+2020-04-11,10:55:17,youtube.com,Fairfax,Virginia,sburlay4l
+2020-04-11,11:09:19,MocoSpace.com,Grand Rapids,Michigan,tmassinger4m
+2020-04-11,2:28:17,youtube.com,Stockton,California,tdeakes4n
+2020-04-11,2:52:09,youtube.com,San Antonio,Texas,mleirmonth4o
+2020-04-11,10:14:34,google.com,Bloomington,Indiana,cgoulbourne4p
+2020-04-11,9:54:36,MocoSpace.com,Albuquerque,New Mexico,rborgnet4q
+2020-04-11,8:23:02,Ravelry.com,Charlotte,North Carolina,bbuttrey4r
+2020-04-11,19:07:24,google.com,Odessa,Texas,ccatmull4s
+2020-04-11,7:27:34,facebook.com,Dallas,Texas,pmoyer4t
+2020-04-11,8:48:34,Ravelry.com,Los Angeles,California,vvallow4u
+2020-04-11,22:02:21,MocoSpace.com,Hampton,Virginia,tcaroll4v
+2020-04-11,2:42:32,google.com,Tucson,Arizona,ahoyt4w
+2020-04-11,14:14:53,youtube.com,Indianapolis,Indiana,fmacgibbon4x
+2020-04-11,22:02:52,MocoSpace.com,Greenville,South Carolina,cwybern4y
+2020-04-11,5:12:03,Ravelry.com,Vancouver,Washington,dbarter4z
+2020-04-11,15:59:08,google.com,New York City,New York,jstranger50
+2020-04-11,7:16:03,twitter.com,San Jose,California,cdoiley51
+2020-04-11,16:24:36,youtube.com,Honolulu,Hawaii,jpopplewell52
+2020-04-11,9:32:14,Ravelry.com,Colorado Springs,Colorado,crabjohn53
+2020-04-11,21:37:27,google.com,Dallas,Texas,hmish54
+2020-04-11,9:55:37,google.com,Migrate,Kentucky,jleheude55
+2020-04-11,12:27:41,youtube.com,Sacramento,California,mbestwerthick56
+2020-04-11,2:23:53,youtube.com,Van Nuys,California,bhendron57
+2020-04-11,12:48:45,youtube.com,Nashville,Tennessee,fphinn58
+2020-04-11,8:30:30,google.com,Dallas,Texas,mgregory59
+2020-04-11,5:33:09,youtube.com,Dallas,Texas,udunrige5a
+2020-04-11,20:36:33,facebook.com,Chicago,Illinois,ltilson5b
+2020-04-11,15:25:21,youtube.com,Carol Stream,Illinois,margo5c
+2020-04-11,16:40:54,Ravelry.com,Cedar Rapids,Iowa,rcaldeiro5d
+2020-04-11,1:31:25,youtube.com,Beaumont,Texas,jsummerbell5e
+2020-04-11,6:24:15,facebook.com,Palatine,Illinois,fduerdin5f
+2020-04-11,10:14:33,google.com,Arlington,Virginia,lhatz5g
+2020-04-11,3:50:45,facebook.com,Fort Worth,Texas,gslowgrove5h
+2020-04-11,9:43:34,youtube.com,Los Angeles,California,vcauser5i
+2020-04-11,19:40:37,Ravelry.com,Richmond,Virginia,ahaverson5j
+2020-04-11,7:13:44,youtube.com,Young America,Minnesota,jsegges5k
+2020-04-11,0:08:22,MocoSpace.com,Pittsburgh,Pennsylvania,jmulloch5l
+2020-04-11,0:52:00,twitter.com,Cleveland,Ohio,awallenger5m
+2020-04-11,20:32:27,Ravelry.com,Richmond,Virginia,btreher5n
+2020-04-11,7:47:47,google.com,Kansas City,Missouri,rspir5o
+2020-04-11,22:37:17,Ravelry.com,Silver Spring,Maryland,gblowers5p
+2020-04-11,6:57:28,youtube.com,Birmingham,Alabama,cgarrood5q
+2020-04-11,21:03:00,Ravelry.com,Pasadena,California,bwelds5r
+2020-04-11,17:27:23,facebook.com,Midland,Texas,mmapam5s
+2020-04-11,12:58:24,google.com,Atlanta,Georgia,abonnett5t
+2020-04-11,15:39:02,youtube.com,Frederick,Maryland,escalia5u
+2020-04-11,16:20:36,MocoSpace.com,Chicago,Illinois,ppurser5v
+2020-04-11,22:46:49,youtube.com,Salt Lake City,Utah,dnollet5w
+2020-04-11,8:59:30,google.com,Houston,Texas,credington5x
+2020-04-11,2:58:07,MocoSpace.com,Lafayette,Louisiana,hmabe5y
+2020-04-11,8:36:51,MocoSpace.com,Little Rock,Arkansas,mpedycan5z
+2020-04-11,3:48:28,youtube.com,Lansing,Michigan,jlivard60
+2020-04-11,23:24:56,facebook.com,Miami,Florida,smohammed61
+2020-04-11,16:25:29,Ravelry.com,Oklahoma City,Oklahoma,thaslehurst62
+2020-04-11,3:15:49,MocoSpace.com,Fresno,California,sdohr63
+2020-04-11,2:58:25,twitter.com,Henderson,Nevada,dcapstick64
+2020-04-11,2:26:52,twitter.com,Columbus,Ohio,aryson65
+2020-04-11,23:07:41,youtube.com,Baltimore,Maryland,hsollis66
+2020-04-11,0:16:51,MocoSpace.com,Houston,Texas,cdegiorgis67
+2020-04-11,22:25:08,facebook.com,San Diego,California,sstuart68
+2020-04-11,16:59:29,Ravelry.com,Fort Lauderdale,Florida,tivamy69
+2020-04-11,8:12:07,facebook.com,New York City,New York,rstallon6a
+2020-04-11,14:17:35,twitter.com,Petaluma,California,jnerney6b
+2020-04-11,14:11:17,facebook.com,Washington,District of Columbia,rmose6c
+2020-04-11,3:34:11,MocoSpace.com,Pompano Beach,Florida,jsprowle6d
+2020-04-11,6:09:32,youtube.com,White Plains,New York,smcall6e
+2020-04-11,1:47:41,MocoSpace.com,Midland,Michigan,rbaudy6f
+2020-04-11,18:22:00,Ravelry.com,Salt Lake City,Utah,ftwinborough6g
+2020-04-11,16:51:07,youtube.com,Hartford,Connecticut,ibozier6h
+2020-04-11,10:29:39,MocoSpace.com,Canton,Ohio,sabrams6i
+2020-04-11,23:51:14,youtube.com,Washington,District of Columbia,lslowley6j
+2020-04-11,18:31:17,Ravelry.com,Milwaukee,Wisconsin,hjohansson6k
+2020-04-11,20:09:31,facebook.com,Hollywood,Florida,enyssen6l
+2020-04-11,22:08:37,twitter.com,Indianapolis,Indiana,cmouncey6m
+2020-04-11,11:07:50,google.com,Anchorage,Alaska,dpennino6n
+2020-04-11,22:15:00,facebook.com,Denver,Colorado,fhemphrey6o
+2020-04-11,0:27:15,facebook.com,San Angelo,Texas,dsallery6p
+2020-04-11,9:15:43,facebook.com,Tyler,Texas,klinnell6q
+2020-04-11,17:25:20,twitter.com,Denver,Colorado,ehampshaw6r
+2020-04-11,7:29:35,MocoSpace.com,Jefferson City,Missouri,gashtonhurst6s
+2020-04-11,4:30:38,google.com,Chula Vista,California,blandreth6t
+2020-04-11,21:03:18,twitter.com,Saint Petersburg,Florida,fklimashevich6u
+2020-04-11,15:20:30,youtube.com,Indianapolis,Indiana,pknath6v
+2020-04-11,14:06:09,Ravelry.com,Saint Paul,Minnesota,tpomphrett6w
+2020-04-11,10:19:15,MocoSpace.com,Dayton,Ohio,mtaffarello6x
+2020-04-11,17:43:02,twitter.com,Cleveland,Ohio,sdunguy6y
+2020-04-11,15:29:06,twitter.com,Saint Petersburg,Florida,rthorald6z
+2020-04-11,21:58:42,youtube.com,Washington,District of Columbia,cdunbleton70
+2020-04-11,3:45:50,Ravelry.com,Saint Paul,Minnesota,edenidge71
+2020-04-11,20:52:28,google.com,Dallas,Texas,ghusthwaite72
+2020-04-11,19:36:34,facebook.com,London,Kentucky,ieilhersen73
+2020-04-11,18:10:22,MocoSpace.com,El Paso,Texas,fbowie74
+2020-04-11,10:48:33,twitter.com,Denver,Colorado,nphettis75
+2020-04-11,20:27:20,Ravelry.com,Columbus,Ohio,ksisse76
+2020-04-11,23:32:28,youtube.com,New York City,New York,dhussey77
+2020-04-11,8:31:28,facebook.com,Seattle,Washington,jdunbobin78
+2020-04-11,12:23:56,facebook.com,Boca Raton,Florida,fchadwell79
+2020-04-11,14:14:28,youtube.com,Dallas,Texas,lboyfield7a
+2020-04-11,20:38:31,facebook.com,New York City,New York,cklishin7b
+2020-04-11,2:45:31,youtube.com,Salt Lake City,Utah,dflowerden7c
+2020-04-11,11:42:19,facebook.com,Lexington,Kentucky,seasterbrook7d
+2020-04-11,4:47:41,facebook.com,Irvine,California,lcottem7e
+2020-04-11,6:19:41,MocoSpace.com,Saint Paul,Minnesota,mwestrey7f
+2020-04-11,19:55:49,twitter.com,Denver,Colorado,iverbeke7g
+2020-04-11,22:25:22,google.com,Arlington,Texas,achennells7h
+2020-04-11,6:02:16,Ravelry.com,New York City,New York,brathjen7i
+2020-04-11,21:19:45,Ravelry.com,Gilbert,Arizona,hbikker7j
+2020-04-11,4:47:43,google.com,Cincinnati,Ohio,aarthars7k
+2020-04-11,4:34:40,google.com,Scottsdale,Arizona,bcrunkhurn7l
+2020-04-11,8:23:54,youtube.com,New York City,New York,gpilkinton7m
+2020-04-11,15:20:08,Ravelry.com,New Orleans,Louisiana,npostlewhite7n
+2020-04-11,3:23:35,Ravelry.com,Sacramento,California,twilcockes7o
+2020-04-11,3:30:34,youtube.com,Evanston,Illinois,khaddy7p
+2020-04-11,6:00:24,Ravelry.com,Des Moines,Iowa,dbrikner7q
+2020-04-11,5:42:11,google.com,Sparks,Nevada,tealam7r
+2020-04-11,17:52:34,MocoSpace.com,Irving,Texas,kmarriot7s
+2020-04-11,9:35:52,MocoSpace.com,Portland,Oregon,hrookledge7t
+2020-04-11,0:31:06,youtube.com,El Paso,Texas,arodman7u
+2020-04-11,11:57:39,Ravelry.com,Nashville,Tennessee,peccleshare7v
+2020-04-11,23:35:19,facebook.com,Las Vegas,Nevada,gcutbush7w
+2020-04-11,7:20:25,google.com,Charlotte,North Carolina,lbartholomieu7x
+2020-04-11,5:20:21,Ravelry.com,Chattanooga,Tennessee,gscotter7y
+2020-04-11,10:24:19,twitter.com,Pomona,California,dquillinane7z
+2020-04-11,21:57:01,facebook.com,Trenton,New Jersey,ashawdforth80
+2020-04-11,14:00:59,youtube.com,Suffolk,Virginia,ctrahair81
+2020-04-11,4:43:26,google.com,Las Vegas,Nevada,cpetrov82
+2020-04-11,9:34:56,MocoSpace.com,Des Moines,Iowa,ewyndham83
+2020-04-11,22:29:38,youtube.com,Helena,Montana,apavlenkov84
+2020-04-11,16:09:47,MocoSpace.com,Tampa,Florida,phuett85
+2020-04-11,3:37:47,facebook.com,Boulder,Colorado,bjeffery86
+2020-04-11,11:16:18,MocoSpace.com,Saint Cloud,Minnesota,jloving87
+2020-04-11,14:39:13,google.com,Indianapolis,Indiana,edickings88
+2020-04-11,8:22:37,youtube.com,Atlanta,Georgia,tmatresse89
+2020-04-11,4:56:45,youtube.com,Minneapolis,Minnesota,dboxall8a
+2020-04-11,0:19:45,youtube.com,Montgomery,Alabama,glinnard8b
+2020-04-11,2:04:57,Ravelry.com,Pasadena,California,vpreskett8c
+2020-04-11,13:06:11,MocoSpace.com,Orlando,Florida,dheynen8d
+2020-04-11,19:59:55,google.com,Grand Rapids,Michigan,scaulliere8e
+2020-04-11,5:50:13,facebook.com,Fort Worth,Texas,jeastope8f
+2020-04-11,0:01:34,Ravelry.com,San Francisco,California,cfellibrand8g
+2020-04-11,18:50:18,youtube.com,Jackson,Tennessee,lfanstone8h
+2020-04-11,18:15:42,facebook.com,Erie,Pennsylvania,jcalvard8i
+2020-04-11,12:56:42,MocoSpace.com,Aurora,Colorado,omacmakin8j
+2020-04-11,19:31:32,google.com,Charleston,South Carolina,ebritland8k
+2020-04-11,19:44:07,Ravelry.com,Des Moines,Iowa,hsolesbury8l
+2020-04-11,2:43:01,MocoSpace.com,Savannah,Georgia,sstringfellow8m
+2020-04-11,23:22:31,Ravelry.com,San Jose,California,fedwardson8n
+2020-04-11,7:44:53,Ravelry.com,Tucson,Arizona,dcaudell8o
+2020-04-11,21:57:38,youtube.com,Philadelphia,Pennsylvania,apossell8p
+2020-04-11,0:23:17,MocoSpace.com,Fort Worth,Texas,dbaskerfield8q
+2020-04-11,9:59:12,MocoSpace.com,Cincinnati,Ohio,lbrindle8r
+2020-04-11,9:15:04,Ravelry.com,Nashville,Tennessee,ptrelevan8s
+2020-04-11,18:40:39,MocoSpace.com,San Diego,California,dshipp8t
+2020-04-11,17:08:23,twitter.com,Detroit,Michigan,dbickersteth8u
+2020-04-11,8:36:55,facebook.com,Fort Myers,Florida,dhenriques8v
+2020-04-11,19:40:01,Ravelry.com,Brooklyn,New York,dsurmanwells8w
+2020-04-11,17:26:27,Ravelry.com,Newark,New Jersey,trapley8x
+2020-04-11,0:14:47,facebook.com,Santa Barbara,California,amckeever8y
+2020-04-11,2:33:07,twitter.com,Phoenix,Arizona,cdevries8z
+2020-04-11,22:17:42,twitter.com,Washington,District of Columbia,rspinas90
+2020-04-11,10:11:15,Ravelry.com,Milwaukee,Wisconsin,hgovey91
+2020-04-11,7:14:11,Ravelry.com,Houston,Texas,zgrocock92
+2020-04-11,22:47:35,google.com,Beaumont,Texas,ltwinterman93
+2020-04-11,2:13:27,google.com,Jackson,Mississippi,cjelf94
+2020-04-11,21:54:12,facebook.com,Washington,District of Columbia,rdurran95
+2020-04-11,9:00:13,facebook.com,Saint Paul,Minnesota,scoytes96
+2020-04-11,22:15:42,facebook.com,Albuquerque,New Mexico,cmanach97
+2020-04-11,5:03:49,Ravelry.com,Oklahoma City,Oklahoma,trichley98
+2020-04-11,21:13:25,twitter.com,Spokane,Washington,dcubbino99
+2020-04-11,14:43:45,facebook.com,Manchester,New Hampshire,jquainton9a
+2020-04-11,18:21:15,youtube.com,Rockford,Illinois,mstickford9b
+2020-04-11,14:47:50,facebook.com,Philadelphia,Pennsylvania,cbodimeade9c
+2020-04-11,12:03:55,MocoSpace.com,Columbus,Ohio,flello9d
+2020-04-11,23:03:33,facebook.com,San Bernardino,California,jbirtwell9e
+2020-04-11,20:53:05,Ravelry.com,Birmingham,Alabama,srodmell9f
+2020-04-11,20:44:03,google.com,Louisville,Kentucky,rbawdon9g
+2020-04-11,17:24:06,Ravelry.com,Savannah,Georgia,mandrusyak9h
+2020-04-11,15:27:52,google.com,Cincinnati,Ohio,zshimwell9i
+2020-04-11,22:31:07,twitter.com,Huntington,West Virginia,hrubertelli9j
+2020-04-11,16:09:05,MocoSpace.com,Raleigh,North Carolina,jhurl9k
+2020-04-11,8:30:46,twitter.com,Beaufort,South Carolina,jhagyard9l
+2020-04-11,3:06:21,twitter.com,Dallas,Texas,ejess9m
+2020-04-11,4:00:55,facebook.com,Tucson,Arizona,efitzmaurice9n
+2020-04-11,15:52:23,twitter.com,Erie,Pennsylvania,jdesport9o
+2020-04-11,12:28:43,youtube.com,Paterson,New Jersey,lgeorg9p
+2020-04-11,20:55:23,MocoSpace.com,Fort Worth,Texas,pbenley9q
+2020-04-11,11:36:16,youtube.com,Saint Louis,Missouri,averralls9r
+2020-04-11,2:32:43,twitter.com,Saint Paul,Minnesota,lromke9s
+2020-04-11,18:33:23,MocoSpace.com,Riverside,California,rjosefsohn9t
+2020-04-11,19:25:12,youtube.com,New Orleans,Louisiana,haldcorn9u
+2020-04-11,16:45:15,twitter.com,Lincoln,Nebraska,tkinnon9v
+2020-04-11,15:16:49,google.com,Richmond,Virginia,isyseland9w
+2020-04-11,3:05:32,youtube.com,Roanoke,Virginia,gcorson9x
+2020-04-11,4:21:45,MocoSpace.com,Des Moines,Iowa,cdansie9y
+2020-04-11,1:31:06,twitter.com,Atlanta,Georgia,vbletcher9z
+2020-04-11,18:04:48,Ravelry.com,College Station,Texas,acrookea0
+2020-04-11,9:32:03,google.com,Richmond,Virginia,cpolinoa1
+2020-04-11,7:22:30,facebook.com,Denver,Colorado,nswanstona2
+2020-04-11,12:40:34,twitter.com,Sacramento,California,mpyforda3
+2020-04-11,14:52:18,google.com,Lincoln,Nebraska,zwhyberda4
+2020-04-11,1:23:12,Ravelry.com,Dallas,Texas,rgiocannonia5
+2020-04-11,2:18:44,MocoSpace.com,New York City,New York,epiateka6
+2020-04-11,1:40:24,MocoSpace.com,Wichita,Kansas,agrundwatera7
+2020-04-11,3:43:41,twitter.com,Oakland,California,lbima8
+2020-04-11,2:07:48,Ravelry.com,Henderson,Nevada,bpitbladoa9
+2020-04-11,7:01:38,youtube.com,Sacramento,California,astronachaa
+2020-04-11,3:58:44,twitter.com,Dallas,Texas,pswetmanab
+2020-04-11,8:40:25,Ravelry.com,Cedar Rapids,Iowa,jsmittonac
+2020-04-11,21:41:34,youtube.com,Harrisburg,Pennsylvania,sspatarulad
+2020-04-11,17:09:53,MocoSpace.com,Pittsburgh,Pennsylvania,sheggadonae
+2020-04-11,21:05:31,facebook.com,New Orleans,Louisiana,dfranzkeaf
+2020-04-11,14:43:29,google.com,Irvine,California,otysallag
+2020-04-11,9:58:54,google.com,Madison,Wisconsin,dsussexah
+2020-04-11,14:20:18,Ravelry.com,Madison,Wisconsin,aalkinai
+2020-04-11,21:50:32,MocoSpace.com,Florence,South Carolina,mlanferaj
+2020-04-11,13:55:10,youtube.com,Waco,Texas,borganerak
+2020-04-11,8:43:51,twitter.com,Tampa,Florida,tdiackal
+2020-04-11,22:32:36,google.com,Columbus,Ohio,imcallesteram
+2020-04-11,17:15:31,facebook.com,Indianapolis,Indiana,yverbruggean
+2020-04-11,16:47:30,twitter.com,Milwaukee,Wisconsin,wmanolovao
+2020-04-11,13:18:33,google.com,Miami,Florida,gwaleap
+2020-04-11,12:38:56,youtube.com,Kansas City,Missouri,adewaq
+2020-04-11,19:26:48,Ravelry.com,South Bend,Indiana,cpauletar
+2020-04-11,6:18:29,Ravelry.com,Las Vegas,Nevada,mtamplinas
+2020-04-11,17:12:07,youtube.com,Salt Lake City,Utah,obarnetat
+2020-04-11,11:35:47,facebook.com,Philadelphia,Pennsylvania,gspenclayau
+2020-04-11,11:18:36,MocoSpace.com,Colorado Springs,Colorado,kcopsav
+2020-04-11,16:37:06,twitter.com,South Bend,Indiana,dfooteaw
+2020-04-11,14:42:29,google.com,Newark,Delaware,thyltonax
+2020-04-11,16:04:58,twitter.com,Shawnee Mission,Kansas,jamirandaay
+2020-04-11,13:26:18,twitter.com,Carlsbad,California,hdymottaz
+2020-04-11,10:11:51,google.com,Green Bay,Wisconsin,jbickerstaffb0
+2020-04-11,20:22:46,google.com,Honolulu,Hawaii,gcarncrossb1
+2020-04-11,2:17:26,twitter.com,Albuquerque,New Mexico,eswancottb2
+2020-04-11,7:56:29,facebook.com,Tucson,Arizona,bmorriartyb3
+2020-04-11,20:57:38,google.com,Waco,Texas,sschaffelb4
+2020-04-11,15:19:38,twitter.com,Raleigh,North Carolina,dsuddardsb5
+2020-04-11,6:17:37,MocoSpace.com,Albuquerque,New Mexico,lwalshawb6
+2020-04-11,8:38:19,google.com,Fairbanks,Alaska,sabadeb7
+2020-04-11,4:11:42,youtube.com,El Paso,Texas,ychadwickb8
+2020-04-11,1:55:04,youtube.com,Canton,Ohio,npottberryb9
+2020-04-11,11:05:15,youtube.com,Atlanta,Georgia,ekristofba
+2020-04-11,4:38:44,google.com,San Francisco,California,ghannabybb
+2020-04-11,9:05:22,MocoSpace.com,Roanoke,Virginia,cmichaelbc
+2020-04-11,8:45:41,google.com,Corpus Christi,Texas,areddinbd
+2020-04-11,11:35:02,Ravelry.com,New York City,New York,fkitcattbe
+2020-04-11,0:56:41,twitter.com,Mesa,Arizona,jcicconettiibf
+2020-04-11,16:34:58,facebook.com,Orlando,Florida,dprobbingsbg
+2020-04-11,12:40:29,youtube.com,Madison,Wisconsin,bgallagerbh
+2020-04-11,22:22:56,MocoSpace.com,New York City,New York,perteltbi
+2020-04-11,11:45:15,twitter.com,Fort Worth,Texas,kdurandbj
+2020-04-11,6:28:45,facebook.com,San Bernardino,California,lmarcambk
+2020-04-11,19:57:47,twitter.com,Anderson,South Carolina,jmquhargbl
+2020-04-11,9:00:29,twitter.com,Eugene,Oregon,myorkstonbm
+2020-04-11,5:22:01,google.com,Saint Petersburg,Florida,ddrachebn
+2020-04-11,4:20:31,Ravelry.com,Montgomery,Alabama,wantoschbo
+2020-04-11,2:58:33,facebook.com,Oklahoma City,Oklahoma,hclouttbp
+2020-04-11,5:17:00,google.com,Houston,Texas,awoodfordbq
+2020-04-11,14:14:26,twitter.com,Cambridge,Massachusetts,eridderbr
+2020-04-11,13:34:23,youtube.com,Gainesville,Florida,qgrumleybs
+2020-04-11,8:44:12,twitter.com,Madison,Wisconsin,plosebiebt
+2020-04-11,8:25:20,facebook.com,Dallas,Texas,jbentickbu
+2020-04-11,0:31:47,Ravelry.com,Aurora,Illinois,gattlebv
+2020-04-11,9:52:56,Ravelry.com,Pittsburgh,Pennsylvania,mlandsmanbw
+2020-04-11,11:21:16,youtube.com,Atlanta,Georgia,kstookbx
+2020-04-11,13:36:36,MocoSpace.com,Richmond,Virginia,lpettiwardby
+2020-04-11,10:21:12,google.com,Vancouver,Washington,rdiffleybz
+2020-04-11,0:45:07,google.com,Fort Worth,Texas,mvillac0
+2020-04-11,2:54:14,google.com,Hollywood,Florida,abirkc1
+2020-04-11,5:52:00,facebook.com,Atlanta,Georgia,jcutajarc2
+2020-04-11,2:10:57,twitter.com,Winston Salem,North Carolina,tcharlesworthc3
+2020-04-11,6:02:00,MocoSpace.com,Waterbury,Connecticut,jjacobovitzc4
+2020-04-11,2:58:51,MocoSpace.com,Bronx,New York,ayanukc5
+2020-04-11,7:01:49,facebook.com,Brooklyn,New York,tastlattc6
+2020-04-11,1:35:06,facebook.com,Buffalo,New York,jbonettc7
+2020-04-11,0:40:53,Ravelry.com,Fort Worth,Texas,dlaurencec8
+2020-04-11,12:46:01,Ravelry.com,Tulsa,Oklahoma,ecalkinc9
+2020-04-11,14:45:02,MocoSpace.com,Kansas City,Missouri,hbristowca
+2020-04-11,13:58:49,facebook.com,Houston,Texas,sdoultoncb
+2020-04-11,21:17:30,google.com,Pittsburgh,Pennsylvania,canthonsencc
+2020-04-11,9:48:09,google.com,Vancouver,Washington,lmeerscd
+2020-04-11,4:01:19,youtube.com,Washington,District of Columbia,maytoce
+2020-04-11,1:55:36,Ravelry.com,Detroit,Michigan,eellardcf
+2020-04-11,14:57:42,facebook.com,Gaithersburg,Maryland,rriemecg
+2020-04-11,3:15:57,Ravelry.com,Arvada,Colorado,aorpynech
+2020-04-11,10:07:22,youtube.com,Dallas,Texas,ayesipovci
+2020-04-11,23:40:55,twitter.com,Hattiesburg,Mississippi,nbardwellcj
+2020-04-11,11:47:40,facebook.com,Clearwater,Florida,pjanseck
+2020-04-11,7:58:43,Ravelry.com,Dallas,Texas,abressoncl
+2020-04-11,8:42:27,twitter.com,Tyler,Texas,swildercm
+2020-04-11,6:36:10,facebook.com,Pensacola,Florida,ewasmercn
+2020-04-11,16:12:13,google.com,Bozeman,Montana,eaudreyco
+2020-04-11,13:53:55,twitter.com,Charlotte,North Carolina,faaronsohncp
+2020-04-11,16:34:50,Ravelry.com,Detroit,Michigan,cromandcq
+2020-04-11,21:18:40,google.com,New Orleans,Louisiana,arusbridgecr
+2020-04-11,12:21:44,facebook.com,Camden,New Jersey,eclutecs
+2020-04-11,20:59:01,twitter.com,Valley Forge,Pennsylvania,ctraisect
+2020-04-11,20:59:20,twitter.com,Honolulu,Hawaii,sgrollecu
+2020-04-11,10:20:33,facebook.com,Baltimore,Maryland,ehainscv
+2020-04-11,19:07:10,MocoSpace.com,Akron,Ohio,lswansburycw
+2020-04-11,2:07:17,facebook.com,Tallahassee,Florida,sewestacecx
+2020-04-11,17:30:53,google.com,Pensacola,Florida,nnorvellcy
+2020-04-11,3:42:47,facebook.com,Ventura,California,bagasscz
+2020-04-11,9:28:53,MocoSpace.com,Oklahoma City,Oklahoma,ksangsterd0
+2020-04-11,5:53:24,facebook.com,Carlsbad,California,jdreherd1
+2020-04-11,3:06:55,google.com,Minneapolis,Minnesota,hbondleyd2
+2020-04-11,4:53:12,google.com,Brockton,Massachusetts,jsammarsd3
+2020-04-11,4:21:24,MocoSpace.com,Billings,Montana,acapled4
+2020-04-11,4:22:55,Ravelry.com,Birmingham,Alabama,vcromed5
+2020-04-11,1:55:44,Ravelry.com,Flint,Michigan,dglackind6
+2020-04-11,17:07:08,Ravelry.com,Helena,Montana,mvakhlovd7
+2020-04-11,7:50:05,Ravelry.com,Huntington,West Virginia,jhudsond8
+2020-04-11,22:58:09,google.com,Philadelphia,Pennsylvania,vgilbartd9
+2020-04-11,3:58:11,MocoSpace.com,Fairbanks,Alaska,amarringtonda
+2020-04-11,0:38:01,Ravelry.com,Indianapolis,Indiana,jmulhalldb
+2020-04-11,22:30:00,google.com,Kansas City,Kansas,mferruccidc
+2020-04-11,12:31:33,Ravelry.com,Henderson,Nevada,jmcgeouchdd
+2020-04-11,17:57:05,twitter.com,Decatur,Georgia,obiaggellide
+2020-04-11,9:16:13,Ravelry.com,Fort Pierce,Florida,tshanndf
+2020-04-11,8:19:20,twitter.com,Oklahoma City,Oklahoma,ccorriedg
+2020-04-11,2:36:43,Ravelry.com,Jacksonville,Florida,breascedh
+2020-04-11,6:28:52,facebook.com,Los Angeles,California,sfettersdi
+2020-04-11,9:57:57,facebook.com,Monroe,Louisiana,dmyalldj
+2020-04-11,2:02:30,facebook.com,Jackson,Mississippi,gmaypowderdk
+2020-04-11,21:47:59,facebook.com,New York City,New York,elechmeredl
+2020-04-11,9:19:12,google.com,Los Angeles,California,naizikovitchdm
+2020-04-11,15:36:08,twitter.com,Lexington,Kentucky,gpetricdn
+2020-04-11,21:44:02,youtube.com,Kansas City,Missouri,bcicconettiido
+2020-04-11,2:49:46,twitter.com,Memphis,Tennessee,spretiousdp
+2020-04-11,22:05:45,google.com,Jamaica,New York,hglasscottdq
+2020-04-11,11:40:54,twitter.com,Denver,Colorado,dboullerdr
+2020-04-11,0:50:08,MocoSpace.com,Washington,District of Columbia,rstrowtherds
+2020-04-11,7:41:33,twitter.com,New York City,New York,dlamprechtdt
+2020-04-11,4:23:05,facebook.com,Saint Petersburg,Florida,dmactrustramdu
+2020-04-11,22:50:56,Ravelry.com,Bozeman,Montana,sbulbrookdv
+2020-04-11,20:40:22,Ravelry.com,Lees Summit,Missouri,akelwaybamberdw
+2020-04-11,3:21:36,twitter.com,El Paso,Texas,acarradicedx
+2020-04-11,7:01:47,Ravelry.com,Jacksonville,Florida,klarrosady
+2020-04-11,22:52:09,facebook.com,Harrisburg,Pennsylvania,egodlipdz
+2020-04-11,1:17:57,google.com,Portland,Oregon,vdawsone0
+2020-04-11,7:57:40,facebook.com,Hartford,Connecticut,ktawe1
+2020-04-11,2:07:31,MocoSpace.com,Indianapolis,Indiana,sstoboe2
+2020-04-11,8:50:47,MocoSpace.com,Anniston,Alabama,ludye3
+2020-04-11,0:10:34,google.com,New York City,New York,kgarraltse4
+2020-04-11,10:27:48,facebook.com,Naples,Florida,enizete5
+2020-04-11,6:22:47,MocoSpace.com,Los Angeles,California,rwrinche6
+2020-04-11,16:44:43,youtube.com,Colorado Springs,Colorado,erichingse7
+2020-04-11,4:39:24,Ravelry.com,New Brunswick,New Jersey,jileye8
+2020-04-11,19:39:39,facebook.com,New York City,New York,oshinnere9
+2020-04-11,2:04:52,twitter.com,Atlanta,Georgia,tbraineea
+2020-04-11,18:11:33,youtube.com,Lansing,Michigan,pbowditcheb
+2020-04-11,17:08:34,google.com,Saint Louis,Missouri,sdunsmoreec
+2020-04-11,14:40:07,Ravelry.com,Albany,New York,dmclevieed
+2020-04-11,12:53:24,facebook.com,Reston,Virginia,adockeree
+2020-04-11,17:34:55,Ravelry.com,Los Angeles,California,bshoreyef
+2020-04-11,12:15:55,twitter.com,Indianapolis,Indiana,nnowelleg
+2020-04-11,20:49:16,twitter.com,Houston,Texas,ddunmoreeh
+2020-04-11,12:57:35,Ravelry.com,Albany,New York,rdorsetei
+2020-04-11,3:37:44,twitter.com,Van Nuys,California,rlongforthej
+2020-04-11,15:45:30,facebook.com,Evansville,Indiana,tcasinek
+2020-04-11,12:40:58,Ravelry.com,Washington,District of Columbia,afreebornel
+2020-04-11,5:58:19,facebook.com,New Orleans,Louisiana,sholliganem
+2020-04-11,18:37:45,MocoSpace.com,Pueblo,Colorado,mpitbladoen
+2020-04-11,17:40:50,youtube.com,Springfield,Massachusetts,tbenallackeo
+2020-04-11,9:01:40,twitter.com,Cape Coral,Florida,chairsineep
+2020-04-11,20:58:53,youtube.com,Salt Lake City,Utah,oableyeq
+2020-04-11,1:23:15,Ravelry.com,Huntington,West Virginia,rcornocker
+2020-04-11,0:27:08,twitter.com,Reno,Nevada,kdecourtneyes
+2020-04-11,23:01:01,Ravelry.com,Charleston,West Virginia,tbrosoliet
+2020-04-11,16:48:00,twitter.com,Wichita,Kansas,telnereu
+2020-04-11,20:08:27,facebook.com,Bronx,New York,hpoulglaisev
+2020-04-11,21:48:47,twitter.com,San Bernardino,California,olowethew
+2020-04-11,14:49:48,Ravelry.com,Norfolk,Virginia,syearnex
+2020-04-11,20:29:14,MocoSpace.com,Tulsa,Oklahoma,fwicksey
+2020-04-11,4:49:56,Ravelry.com,New Orleans,Louisiana,ggilpillanez
+2020-04-11,5:13:09,facebook.com,Louisville,Kentucky,akindellf0
+2020-04-11,22:16:55,twitter.com,Laredo,Texas,cvereganf1
+2020-04-11,8:39:14,youtube.com,Green Bay,Wisconsin,cpiersef2
+2020-04-11,14:57:17,youtube.com,Albuquerque,New Mexico,sfogartyf3
+2020-04-11,9:12:37,facebook.com,Huntington,West Virginia,dturrellf4
+2020-04-11,5:47:18,Ravelry.com,Dallas,Texas,pnurcombef5
+2020-04-11,19:15:23,youtube.com,Houston,Texas,hlafflinf6
+2020-04-11,8:17:06,youtube.com,Cleveland,Ohio,jmacduffief7
+2020-04-11,20:24:13,Ravelry.com,Trenton,New Jersey,abolesf8
+2020-04-11,6:59:54,Ravelry.com,Riverside,California,hscanderetf9
+2020-04-11,20:33:47,youtube.com,Raleigh,North Carolina,msedwickfa
+2020-04-11,4:22:55,youtube.com,Raleigh,North Carolina,dcanelasfb
+2020-04-11,18:36:54,twitter.com,Greenville,South Carolina,fhatjefc
+2020-04-11,4:28:15,google.com,San Mateo,California,hwhifefd
+2020-04-11,8:53:59,facebook.com,Roanoke,Virginia,dstihlfe
+2020-04-11,12:30:48,youtube.com,Houston,Texas,edenzeyff
+2020-04-11,9:53:11,google.com,Tyler,Texas,avanyashinfg
+2020-04-11,4:27:35,youtube.com,Saint Paul,Minnesota,dcanasfh
+2020-04-11,1:16:30,MocoSpace.com,Bakersfield,California,ccattlowfi
+2020-04-11,10:27:35,MocoSpace.com,Fort Lauderdale,Florida,dsculleyfj
+2020-04-11,19:43:16,google.com,Huntington,West Virginia,jdrablefk
+2020-04-11,15:32:54,facebook.com,Orange,California,jgreethamfl
+2020-04-11,14:08:03,google.com,Newark,New Jersey,cleatherlandfm
+2020-04-11,5:14:52,youtube.com,Anderson,Indiana,apeidrofn
+2020-04-11,1:08:32,twitter.com,Shreveport,Louisiana,vhenworthfo
+2020-04-11,15:02:07,facebook.com,Louisville,Kentucky,gburletonfp
+2020-04-11,10:56:42,Ravelry.com,Lansing,Michigan,clowndsboroughfq
+2020-04-11,20:03:40,google.com,Mobile,Alabama,ngiralfr
+2020-04-11,11:13:10,Ravelry.com,Durham,North Carolina,ahauggfs
+2020-04-11,18:54:10,Ravelry.com,Oceanside,California,tjanewayft
+2020-04-11,20:13:57,youtube.com,San Diego,California,lhearleyfu
+2020-04-11,11:04:59,twitter.com,Lincoln,Nebraska,lmcilheranfv
+2020-04-11,22:17:45,google.com,Sacramento,California,bberndsenfw
+2020-04-11,23:19:57,MocoSpace.com,Boston,Massachusetts,bmoakesfx
+2020-04-11,22:14:57,MocoSpace.com,Erie,Pennsylvania,ifeavearyearfy
+2020-04-11,3:19:47,MocoSpace.com,Philadelphia,Pennsylvania,rcrippenfz
+2020-04-11,22:43:32,Ravelry.com,Jersey City,New Jersey,anolderg0
+2020-04-11,7:59:49,Ravelry.com,Palatine,Illinois,ginnsg1
+2020-04-11,19:00:29,google.com,Norfolk,Virginia,hgildersg2
+2020-04-11,12:39:03,google.com,Boulder,Colorado,dridsdaleg3
+2020-04-11,13:06:05,google.com,Austin,Texas,ecoverdillg4
+2020-04-11,17:45:07,youtube.com,San Diego,California,jarletg5
+2020-04-11,23:15:08,google.com,Biloxi,Mississippi,jmakinsong6
+2020-04-11,11:49:51,youtube.com,North Las Vegas,Nevada,bsawyersg7
+2020-04-11,8:19:27,twitter.com,Schenectady,New York,bdorbing8
+2020-04-11,19:49:46,MocoSpace.com,Stockton,California,cduckerg9
+2020-04-11,18:49:23,google.com,Dallas,Texas,fgrenshielsga
+2020-04-11,0:03:26,google.com,Kansas City,Kansas,csteelygb
+2020-04-11,19:05:34,google.com,Washington,District of Columbia,aballinggc
+2020-04-11,23:55:22,facebook.com,Whittier,California,ireedyhoughgd
+2020-04-11,10:04:58,Ravelry.com,Des Moines,Iowa,vglandersge
+2020-04-11,9:29:17,Ravelry.com,Biloxi,Mississippi,bprysgf
+2020-04-11,6:37:29,facebook.com,Grand Rapids,Michigan,cschooleygg
+2020-04-11,15:17:21,twitter.com,Chicago,Illinois,merangygh
+2020-04-11,12:39:07,facebook.com,Akron,Ohio,darboinegi
+2020-04-11,12:54:14,facebook.com,Waco,Texas,ulabrenzgj
+2020-04-11,0:18:43,twitter.com,Sioux Falls,South Dakota,cscrivinergk
+2020-04-11,10:10:56,youtube.com,Atlanta,Georgia,mweildgl
+2020-04-11,18:10:11,google.com,Winston Salem,North Carolina,kglendzagm
+2020-04-11,22:39:31,MocoSpace.com,Vero Beach,Florida,mallibangn
+2020-04-11,8:43:44,Ravelry.com,Tacoma,Washington,gwemesgo
+2020-04-11,9:08:40,Ravelry.com,Harrisburg,Pennsylvania,stroughtongp
+2020-04-11,12:38:36,twitter.com,Evanston,Illinois,acockertongq
+2020-04-11,20:32:09,Ravelry.com,Pensacola,Florida,imanketellgr
+2020-04-11,1:20:13,twitter.com,Dallas,Texas,gvalegs
+2020-04-11,7:24:56,youtube.com,Bryan,Texas,fenderlegt
+2020-04-11,18:24:11,google.com,Herndon,Virginia,hosgargu
+2020-04-11,20:12:09,Ravelry.com,Austin,Texas,chovellgv
+2020-04-11,9:50:34,google.com,Lexington,Kentucky,ndancergw
+2020-04-11,5:27:50,facebook.com,Brea,California,ykindredgx
+2020-04-11,6:07:07,youtube.com,Raleigh,North Carolina,dcowinggy
+2020-04-11,2:19:43,facebook.com,Denver,Colorado,acrankhorngz
+2020-04-11,17:12:23,facebook.com,Washington,District of Columbia,cvasyuninh0
+2020-04-11,18:46:14,Ravelry.com,Orlando,Florida,rremingtonh1
+2020-04-11,0:49:12,MocoSpace.com,Pocatello,Idaho,pbarhemsh2
+2020-04-11,14:35:13,twitter.com,Clearwater,Florida,bskoateh3
+2020-04-11,22:59:05,MocoSpace.com,Phoenix,Arizona,jwicksh4
+2020-04-11,14:00:37,youtube.com,San Luis Obispo,California,bbraderh5
+2020-04-11,11:47:28,youtube.com,Arlington,Virginia,tnilandh6
+2020-04-11,0:13:37,twitter.com,Birmingham,Alabama,aaskieh7
+2020-04-11,19:06:21,Ravelry.com,Sacramento,California,kanthoniesh8
+2020-04-11,9:09:31,youtube.com,Carol Stream,Illinois,jkennadyh9
+2020-04-11,15:38:55,youtube.com,Pasadena,California,jolesenha
+2020-04-11,4:26:13,youtube.com,Reading,Pennsylvania,svalahb
+2020-04-11,23:33:36,Ravelry.com,Fort Lauderdale,Florida,oclemashc
+2020-04-11,2:38:56,google.com,Wilkes Barre,Pennsylvania,kdaultonhd
+2020-04-11,5:50:23,facebook.com,Portland,Oregon,zmilsonhe
+2020-04-11,7:51:08,google.com,Topeka,Kansas,dtrivetthf
+2020-04-11,7:48:19,Ravelry.com,Chicago,Illinois,nvedikhovhg
+2020-04-11,4:02:22,youtube.com,Pensacola,Florida,rdoellehh
+2020-04-11,5:53:24,Ravelry.com,Indianapolis,Indiana,lbardnamhi
+2020-04-11,19:43:56,youtube.com,Anaheim,California,gcunningtonhj
+2020-04-11,0:44:57,youtube.com,Atlanta,Georgia,apetrellihk
+2020-04-11,21:37:53,youtube.com,Springfield,Missouri,ceadyhl
+2020-04-11,7:53:49,Ravelry.com,Johnson City,Tennessee,derskinesandyshm
+2020-04-11,14:13:38,twitter.com,Lynchburg,Virginia,chodgeshn
+2020-04-11,9:03:05,MocoSpace.com,Pasadena,California,cjosefovicho
+2020-04-11,9:06:23,twitter.com,Laurel,Maryland,rpachmannhp
+2020-04-11,11:00:27,Ravelry.com,Miami,Florida,wsyddallhq
+2020-04-11,18:25:16,twitter.com,South Bend,Indiana,hbuzekhr
+2020-04-11,0:26:15,twitter.com,Erie,Pennsylvania,imacgorriehs
+2020-04-11,14:18:04,MocoSpace.com,Dallas,Texas,bmarchelliht
+2020-04-11,7:55:03,Ravelry.com,Mesa,Arizona,mlamkehu
+2020-04-11,4:01:03,youtube.com,Springfield,Illinois,ctatlockhv
+2020-04-11,9:58:55,facebook.com,Phoenix,Arizona,equiddihyhw
+2020-04-11,9:48:52,Ravelry.com,New Brunswick,New Jersey,fmarshamhx
+2020-04-11,8:35:22,Ravelry.com,Erie,Pennsylvania,dflegghy
+2020-04-11,18:15:51,google.com,Detroit,Michigan,tmarlehz
+2020-04-11,17:16:09,twitter.com,North Hollywood,California,lfunnelli0
+2020-04-11,19:59:26,twitter.com,Charleston,West Virginia,jverheijdeni1
+2020-04-11,5:54:11,twitter.com,El Paso,Texas,fpetyanini2
+2020-04-11,4:10:16,facebook.com,Savannah,Georgia,bbackesi3
+2020-04-11,11:37:30,youtube.com,Cedar Rapids,Iowa,bchitsoni4
+2020-04-11,20:50:41,google.com,Huntington,West Virginia,zansteri5
+2020-04-11,10:11:19,facebook.com,Washington,District of Columbia,lcampanellii6
+2020-04-11,15:51:33,MocoSpace.com,San Francisco,California,sjarroldi7
+2020-04-11,20:59:56,facebook.com,Denton,Texas,dyanuki8
+2020-04-11,11:47:57,facebook.com,Boynton Beach,Florida,bduntoni9
+2020-04-11,5:39:10,google.com,Modesto,California,fosuairdia
+2020-04-11,6:22:45,facebook.com,Indianapolis,Indiana,sclunanib
+2020-04-11,10:13:49,google.com,Fort Wayne,Indiana,dheynelic
+2020-04-11,2:31:46,twitter.com,Fresno,California,csillitoid
+2020-04-11,13:28:06,facebook.com,Dearborn,Michigan,mivanchinie
+2020-04-11,16:49:37,MocoSpace.com,Riverside,California,ihoylesif
+2020-04-11,20:36:38,Ravelry.com,Portsmouth,New Hampshire,cwyperig
+2020-04-11,8:09:42,twitter.com,Wilmington,Delaware,dphillotih
+2020-04-11,7:57:28,google.com,Reno,Nevada,elearieii
+2020-04-11,20:51:00,google.com,Baltimore,Maryland,alinckeij
+2020-04-11,21:42:21,youtube.com,San Antonio,Texas,chughesik
+2020-04-11,23:43:17,google.com,Fort Worth,Texas,ogoveil
+2020-04-11,23:33:48,google.com,Athens,Georgia,dcicchinelliim
+2020-04-11,13:50:30,facebook.com,Alhambra,California,vballantynein
+2020-04-11,23:57:34,google.com,New York City,New York,bayreeio
+2020-04-11,14:51:32,facebook.com,Philadelphia,Pennsylvania,cstuchberyip
+2020-04-11,0:52:15,MocoSpace.com,Reston,Virginia,lapthorpeiq
+2020-04-11,13:20:21,facebook.com,Grand Rapids,Michigan,fdrakesir
+2020-04-11,20:20:11,youtube.com,Brooklyn,New York,ssheris
+2020-04-11,14:16:32,Ravelry.com,Pittsburgh,Pennsylvania,gadicotit
+2020-04-11,7:57:53,google.com,Buffalo,New York,bfigliovanniiu
+2020-04-11,3:51:15,google.com,Winston Salem,North Carolina,sroyiv
+2020-04-11,9:43:27,google.com,San Diego,California,dedelmanniw
+2020-04-11,4:43:06,Ravelry.com,Allentown,Pennsylvania,nyearnix
+2020-04-11,3:52:06,Ravelry.com,Saint Paul,Minnesota,ppenrethiy
+2020-04-11,15:56:34,twitter.com,Saint Paul,Minnesota,blaceriz
+2020-04-11,1:12:42,facebook.com,Brockton,Massachusetts,ceamerj0
+2020-04-11,22:36:16,youtube.com,Jacksonville,Florida,snewlandsj1
+2020-04-11,11:44:47,google.com,Dayton,Ohio,bbornj2
+2020-04-11,21:05:00,youtube.com,El Paso,Texas,afouldj3
+2020-04-11,12:23:20,google.com,Boston,Massachusetts,mbutnerj4
+2020-04-11,4:03:33,youtube.com,Minneapolis,Minnesota,mwarnej5
+2020-04-11,5:50:11,youtube.com,Wilmington,North Carolina,abulleyj6
+2020-04-11,1:48:12,Ravelry.com,Dallas,Texas,ktosneyj7
+2020-04-11,14:52:28,google.com,Glendale,California,emettrickj8
+2020-04-11,7:07:35,twitter.com,Jefferson City,Missouri,skeijserj9
+2020-04-11,15:28:27,google.com,Delray Beach,Florida,jpericoja
+2020-04-11,23:22:44,youtube.com,Charlotte,North Carolina,gveaseyjb
+2020-04-11,10:36:19,google.com,Dallas,Texas,pvedikhovjc
+2020-04-11,10:40:46,youtube.com,Dallas,Texas,hchaplinjd
+2020-04-11,2:34:57,youtube.com,Austin,Texas,wbassfordje
+2020-04-11,15:38:48,MocoSpace.com,Philadelphia,Pennsylvania,aclayjf
+2020-04-11,15:35:22,google.com,Denver,Colorado,asturzakerjg
+2020-04-11,14:32:45,facebook.com,Charlotte,North Carolina,alarimerjh
+2020-04-11,20:19:13,google.com,Denver,Colorado,mmcauslandji
+2020-04-11,18:48:56,facebook.com,Brooklyn,New York,cpingstonejj
+2020-04-11,22:38:53,google.com,Fresno,California,jlaughlanjk
+2020-04-11,2:56:34,twitter.com,Tallahassee,Florida,vpaybodyjl
+2020-04-11,8:54:29,facebook.com,Colorado Springs,Colorado,ejedrzejewskyjm
+2020-04-11,0:04:40,Ravelry.com,Arlington,Virginia,hcoatenjn
+2020-04-11,6:49:38,twitter.com,Washington,District of Columbia,sfernleyjo
+2020-04-11,10:00:39,google.com,Topeka,Kansas,odawejp
+2020-04-11,17:16:56,youtube.com,Helena,Montana,arobeyjq
+2020-04-11,1:47:36,google.com,El Paso,Texas,pwillmettjr
+2020-04-11,1:32:26,MocoSpace.com,Santa Monica,California,chindhaughjs
+2020-04-11,14:55:19,google.com,Philadelphia,Pennsylvania,salebrookejt
+2020-04-11,20:59:02,MocoSpace.com,Atlanta,Georgia,oburnsydeju
+2020-04-11,8:11:31,google.com,Dallas,Texas,clepoidevinjv
+2020-04-11,6:51:50,youtube.com,Milwaukee,Wisconsin,tyorkstonjw
+2020-04-11,22:57:34,facebook.com,Pittsburgh,Pennsylvania,lcreedjx
+2020-04-11,23:32:04,facebook.com,Atlanta,Georgia,jricardojy
+2020-04-11,1:31:17,twitter.com,Fort Lauderdale,Florida,cbyresjz
+2020-04-11,15:17:51,facebook.com,Largo,Florida,bcurreyk0
+2020-04-11,19:51:08,twitter.com,Vienna,Virginia,wordk1
+2020-04-11,1:36:39,youtube.com,Duluth,Georgia,wroadk2
+2020-04-11,5:09:18,google.com,Birmingham,Alabama,ctawk3
+2020-04-11,7:03:07,google.com,Washington,District of Columbia,cbrenstonk4
+2020-04-11,4:17:39,MocoSpace.com,Wichita,Kansas,nhearonsk5
+2020-04-11,8:17:37,Ravelry.com,Memphis,Tennessee,tparffreyk6
+2020-04-11,22:01:31,MocoSpace.com,Chicago,Illinois,tswadonk7
+2020-04-11,21:28:03,Ravelry.com,Nashville,Tennessee,opetrassok8
+2020-04-11,20:28:40,twitter.com,Durham,North Carolina,ndollek9
+2020-04-11,23:09:50,MocoSpace.com,Sacramento,California,dsilliska
+2020-04-11,16:06:42,twitter.com,Longview,Texas,cadnettkb
+2020-04-11,20:57:19,youtube.com,Reading,Pennsylvania,mmckerrowkc
+2020-04-11,3:16:43,facebook.com,Sioux Falls,South Dakota,scruickshankkd
+2020-04-11,11:27:46,twitter.com,Washington,District of Columbia,maguirreke
+2020-04-11,22:10:06,facebook.com,Washington,District of Columbia,sillistonkf
+2020-04-11,19:56:48,google.com,Erie,Pennsylvania,hussherkg
+2020-04-11,9:04:56,twitter.com,Bridgeport,Connecticut,dfarrowkh
+2020-04-11,17:11:29,twitter.com,Houston,Texas,jpeizerki
+2020-04-11,7:50:17,youtube.com,Arlington,Texas,amarklewkj
+2020-04-11,21:28:06,twitter.com,Boise,Idaho,ejellicokk
+2020-04-11,18:17:23,Ravelry.com,Beaumont,Texas,lendrizzikl
+2020-04-11,5:48:33,google.com,Tulsa,Oklahoma,jlandiskm
+2020-04-11,20:50:46,youtube.com,Oakland,California,lmcgeaghkn
+2020-04-11,17:41:23,MocoSpace.com,Sarasota,Florida,kdursleyko
+2020-04-11,3:03:12,MocoSpace.com,Bloomington,Indiana,tpoynerkp
+2020-04-11,18:11:18,facebook.com,Savannah,Georgia,ldurradkq
+2020-04-11,2:38:35,facebook.com,Shawnee Mission,Kansas,mhaszardkr
+2020-04-11,2:16:19,MocoSpace.com,Worcester,Massachusetts,clarcombeks
+2020-04-11,15:04:13,MocoSpace.com,Des Moines,Iowa,hlivezleykt
+2020-04-11,19:12:46,Ravelry.com,San Antonio,Texas,lfitzalanku
+2020-04-11,22:42:30,Ravelry.com,Louisville,Kentucky,cferrantkv
+2020-04-11,7:41:11,twitter.com,Phoenix,Arizona,wdemangelkw
+2020-04-11,11:06:34,google.com,Chicago,Illinois,msprasonkx
+2020-04-11,21:56:54,facebook.com,Houston,Texas,tlettsky
+2020-04-11,5:43:32,google.com,Cincinnati,Ohio,etribblekz
+2020-04-11,19:49:40,google.com,Decatur,Georgia,eyeol0
+2020-04-11,22:01:20,Ravelry.com,Las Vegas,Nevada,hcianellil1
+2020-04-11,12:11:17,facebook.com,Washington,District of Columbia,llibrerosl2
+2020-04-11,3:33:23,facebook.com,Jackson,Tennessee,ctremlettl3
+2020-04-11,11:39:03,MocoSpace.com,Helena,Montana,blambertol4
+2020-04-11,22:00:58,google.com,Houston,Texas,trigollel5
+2020-04-11,21:57:41,Ravelry.com,Huntsville,Alabama,vmesshaml6
+2020-04-11,6:49:20,google.com,Kansas City,Missouri,kratnagel7
+2020-04-11,7:52:09,youtube.com,Rochester,New York,mburdonl8
+2020-04-11,3:26:56,twitter.com,Orlando,Florida,cduprel9
+2020-04-11,17:12:02,MocoSpace.com,Birmingham,Alabama,cmurfettla
+2020-04-11,17:51:51,facebook.com,New York City,New York,slenneylb
+2020-04-11,16:25:06,youtube.com,Midland,Michigan,ascrinelc
+2020-04-11,17:21:16,twitter.com,Saint Paul,Minnesota,gonoulaneld
+2020-04-11,4:31:39,google.com,Merrifield,Virginia,mrittmeierle
+2020-04-11,20:42:20,youtube.com,Lansing,Michigan,mcowlardlf
+2020-04-11,6:15:41,facebook.com,Reading,Pennsylvania,tveyseylg
+2020-04-11,0:31:35,youtube.com,Pittsburgh,Pennsylvania,cfortmanlh
+2020-04-11,16:14:54,youtube.com,Oakland,California,cpeyesli
+2020-04-11,0:56:56,google.com,Cleveland,Ohio,aaltreelj
+2020-04-11,22:56:49,MocoSpace.com,Tempe,Arizona,ebairstowlk
+2020-04-11,6:13:24,facebook.com,Irvine,California,eelesll
+2020-04-11,3:47:43,Ravelry.com,Pittsburgh,Pennsylvania,tstollwerklm
+2020-04-11,11:55:33,MocoSpace.com,Fresno,California,stongln
+2020-04-11,20:36:59,Ravelry.com,Boulder,Colorado,lsawfordlo
+2020-04-11,13:52:54,google.com,Spartanburg,South Carolina,smatveichevlp
+2020-04-11,9:36:28,facebook.com,Houston,Texas,gtodeolq
+2020-04-11,10:28:08,facebook.com,Sioux Falls,South Dakota,sspatarullr
+2020-04-11,20:57:00,MocoSpace.com,Columbus,Ohio,tfearnyoughls
+2020-04-11,4:27:31,twitter.com,Salem,Oregon,tthurnerlt
+2020-04-11,6:20:05,youtube.com,Tampa,Florida,bdmiterkolu
+2020-04-11,12:00:31,twitter.com,West Palm Beach,Florida,nclawleylv
+2020-04-11,12:15:52,Ravelry.com,Jackson,Mississippi,rpetrushkalw
+2020-04-11,13:03:03,facebook.com,Columbia,South Carolina,oklinklx
+2020-04-11,4:36:50,MocoSpace.com,Rochester,New York,kclappisonly
+2020-04-11,11:47:00,Ravelry.com,Melbourne,Florida,nleathleylz
+2020-04-11,12:29:44,google.com,Savannah,Georgia,ependrickm0
+2020-04-11,14:08:57,google.com,Los Angeles,California,mmcgaviganm1
+2020-04-11,23:31:13,facebook.com,Fort Lauderdale,Florida,mgiacobiliom2
+2020-04-11,15:04:54,twitter.com,Staten Island,New York,jblackbornm3
+2020-04-11,16:54:03,facebook.com,Stockton,California,cbeckenm4
+2020-04-11,17:43:31,facebook.com,Denver,Colorado,bsomerscalesm5
+2020-04-11,13:03:31,MocoSpace.com,Portland,Oregon,zrathkem6
+2020-04-11,17:47:18,google.com,Paterson,New Jersey,ndenisckem7
+2020-04-11,18:32:40,twitter.com,Saint Louis,Missouri,atripletm8
+2020-04-11,21:36:01,google.com,Saint Cloud,Minnesota,fbowdlerm9
+2020-04-11,23:48:16,twitter.com,Santa Ana,California,etewkesberriema
+2020-04-11,13:32:59,Ravelry.com,Jersey City,New Jersey,wdeeringmb
+2020-04-11,5:21:46,youtube.com,Austin,Texas,hseligsonmc
+2020-04-11,16:05:30,youtube.com,Ridgely,Maryland,brosevearmd
+2020-04-11,18:39:17,MocoSpace.com,Tulsa,Oklahoma,rmitskevichme
+2020-04-11,22:03:23,twitter.com,Dayton,Ohio,ibrandesmf
+2020-04-11,4:28:39,MocoSpace.com,Albany,New York,ceastburymg
+2020-04-11,20:39:42,Ravelry.com,North Port,Florida,tjoffemh
+2020-04-11,5:05:35,Ravelry.com,Santa Ana,California,dwyemi
+2020-04-11,4:41:50,twitter.com,Albuquerque,New Mexico,lshuttellmj
+2020-04-11,10:21:40,twitter.com,Sacramento,California,lenosmk
+2020-04-11,3:08:04,Ravelry.com,Topeka,Kansas,spockeml
+2020-04-11,4:22:23,facebook.com,Spring Hill,Florida,crosemm
+2020-04-11,2:34:51,MocoSpace.com,Washington,District of Columbia,mclilverdmn
+2020-04-11,5:02:11,google.com,Young America,Minnesota,zshervillemo
+2020-04-11,12:13:15,Ravelry.com,San Jose,California,mcrichleymp
+2020-04-11,12:02:15,youtube.com,Albany,New York,mmoffmq
+2020-04-11,7:09:01,facebook.com,Young America,Minnesota,tpetricmr
+2020-04-11,3:37:56,twitter.com,Los Angeles,California,bbrayfieldms
+2020-04-11,1:09:36,twitter.com,Atlanta,Georgia,cbilstonmt
+2020-04-11,21:43:45,Ravelry.com,San Francisco,California,lsteffensmu
+2020-04-11,19:38:22,facebook.com,Baton Rouge,Louisiana,cheaneymv
+2020-04-11,1:20:17,facebook.com,Saint Paul,Minnesota,slandismw
+2020-04-11,23:52:10,youtube.com,Dallas,Texas,kdowleymx
+2020-04-11,5:37:15,facebook.com,Jackson,Tennessee,bjaanmy
+2020-04-11,3:49:41,youtube.com,Madison,Wisconsin,hdittsonmz
+2020-04-11,14:55:38,MocoSpace.com,Baton Rouge,Louisiana,aousleyn0
+2020-04-11,7:51:25,Ravelry.com,Warren,Michigan,fderln1
+2020-04-11,3:45:44,youtube.com,Tulsa,Oklahoma,cfeyern2
+2020-04-11,4:08:49,MocoSpace.com,Lake Worth,Florida,cscuttn3
+2020-04-11,23:37:57,youtube.com,Atlanta,Georgia,ggepsonn4
+2020-04-11,19:53:25,Ravelry.com,Los Angeles,California,mlapwoodn5
+2020-04-11,16:52:54,facebook.com,Erie,Pennsylvania,fcowdroyn6
+2020-04-11,2:57:46,MocoSpace.com,Shreveport,Louisiana,tpannettn7
+2020-04-11,18:48:35,google.com,Boise,Idaho,ccampanan8
+2020-04-11,6:18:37,facebook.com,Albuquerque,New Mexico,bdaethn9
+2020-04-11,13:54:59,google.com,Omaha,Nebraska,ejimenona
+2020-04-11,11:54:59,google.com,Milwaukee,Wisconsin,avadernb
+2020-04-11,8:41:58,facebook.com,Metairie,Louisiana,aphebync
+2020-04-11,0:41:51,youtube.com,Rochester,New York,mjeffesnd
+2020-04-11,15:14:37,Ravelry.com,Louisville,Kentucky,wblumne
+2020-04-11,7:27:01,MocoSpace.com,Austin,Texas,dsimaonf
+2020-04-11,12:53:05,facebook.com,Saint Paul,Minnesota,lbroadleyng
+2020-04-11,22:19:16,MocoSpace.com,New York City,New York,cburganenh
+2020-04-11,0:25:13,google.com,Louisville,Kentucky,tjuarezni
+2020-04-11,8:05:35,youtube.com,Dallas,Texas,bcamillerinj
+2020-04-11,13:58:32,Ravelry.com,Pittsburgh,Pennsylvania,byourellnk
+2020-04-11,1:09:51,youtube.com,Southfield,Michigan,wstarrsnl
+2020-04-11,23:37:48,Ravelry.com,Mount Vernon,New York,tswadonnm
+2020-04-11,14:15:03,facebook.com,Sunnyvale,California,tchiversnn
+2020-04-11,3:22:50,twitter.com,Toledo,Ohio,dzinckeno
+2020-04-11,0:23:21,Ravelry.com,Topeka,Kansas,lvalentellinp
+2020-04-11,8:08:54,twitter.com,Ventura,California,ograundissonnq
+2020-04-11,20:27:03,facebook.com,Las Vegas,Nevada,jgozzettnr
+2020-04-11,20:43:23,youtube.com,Dallas,Texas,kleens
+2020-04-11,23:53:34,youtube.com,Jackson,Mississippi,marchibaldnt
+2020-04-11,16:58:14,facebook.com,Charlotte,North Carolina,otregonanu
+2020-04-11,15:32:23,youtube.com,Gary,Indiana,pahernnv
+2020-04-11,16:59:38,facebook.com,Peoria,Illinois,kbinfordnw
+2020-04-11,21:06:12,youtube.com,Fresno,California,sperrellenx
+2020-04-11,10:23:53,youtube.com,Vienna,Virginia,ltremblayny
+2020-04-11,16:57:10,Ravelry.com,Birmingham,Alabama,cmaginotnz
+2020-04-11,23:07:26,Ravelry.com,Maple Plain,Minnesota,krodrigueso0
+2020-04-11,12:41:07,twitter.com,Springfield,Massachusetts,mmountcastleo1
+2020-04-11,12:47:48,google.com,Cleveland,Ohio,dwildoro2
+2020-04-11,11:54:40,facebook.com,Richmond,Virginia,sharlowo3
+2020-04-11,22:12:54,twitter.com,Sioux Falls,South Dakota,jaketto4
+2020-04-11,18:48:31,twitter.com,Birmingham,Alabama,ahueto5
+2020-04-11,13:36:56,MocoSpace.com,Washington,District of Columbia,afromonto6
+2020-04-11,6:11:01,twitter.com,Green Bay,Wisconsin,cgromleyo7
+2020-04-11,20:57:48,twitter.com,Pasadena,California,dsmurfito8
+2020-04-11,20:02:01,MocoSpace.com,East Saint Louis,Illinois,sbysakero9
+2020-04-11,3:41:02,twitter.com,Oceanside,California,klamploughoa
+2020-04-11,3:29:22,Ravelry.com,Anaheim,California,plentschob
+2020-04-11,16:43:58,google.com,Lansing,Michigan,dkingslyoc
+2020-04-11,3:12:54,twitter.com,San Diego,California,lslackod
+2020-04-11,3:58:27,google.com,New Orleans,Louisiana,vspareyoe
+2020-04-11,15:58:10,Ravelry.com,Washington,District of Columbia,gwickliffeof
+2020-04-11,3:23:33,google.com,San Francisco,California,cureog
+2020-04-11,8:18:43,Ravelry.com,North Las Vegas,Nevada,alevettoh
+2020-04-11,0:27:12,google.com,Fort Wayne,Indiana,gupchurchoi
+2020-04-11,7:12:37,youtube.com,Saint Louis,Missouri,lgrabbamoj
+2020-04-11,23:01:30,Ravelry.com,Bakersfield,California,zcrabok
+2020-04-11,16:12:20,youtube.com,Houston,Texas,hmillsapol
+2020-04-11,9:10:52,google.com,Arlington,Virginia,snowlandom
+2020-04-11,16:40:55,facebook.com,Santa Fe,New Mexico,tentreison
+2020-04-11,2:16:00,facebook.com,Shreveport,Louisiana,ecatletteoo
+2020-04-11,23:35:12,twitter.com,Dallas,Texas,ajedrzejkiewiczop
+2020-04-11,2:24:37,twitter.com,Manassas,Virginia,mloinesoq
+2020-04-11,15:59:01,Ravelry.com,San Francisco,California,imckeighenor
+2020-04-11,22:52:54,twitter.com,New York City,New York,cscotchfordos
+2020-04-11,19:21:56,MocoSpace.com,Las Vegas,Nevada,csponerot
+2020-04-11,4:30:18,facebook.com,Tulsa,Oklahoma,plilburnou
+2020-04-11,16:58:54,facebook.com,Laurel,Maryland,cklesseov
+2020-04-11,1:19:48,youtube.com,Detroit,Michigan,bcamiliow
+2020-04-11,15:45:37,Ravelry.com,Knoxville,Tennessee,lcharpinox
+2020-04-11,18:40:31,youtube.com,Abilene,Texas,dbeauvaisoy
+2020-04-11,8:53:13,youtube.com,Troy,Michigan,podgaardoz
+2020-04-11,16:34:33,youtube.com,Lubbock,Texas,dbrandlep0
+2020-04-11,1:25:49,twitter.com,Rockford,Illinois,mmaxwalep1
+2020-04-11,8:08:08,MocoSpace.com,Syracuse,New York,nclemenzap2
+2020-04-11,17:01:42,facebook.com,Trenton,New Jersey,bwedgbrowp3
+2020-04-11,19:05:24,MocoSpace.com,Atlanta,Georgia,spatientp4
+2020-04-11,23:53:29,twitter.com,Austin,Texas,dlabap5
+2020-04-11,22:22:54,Ravelry.com,Stockton,California,lfirpip6
+2020-04-11,21:30:01,twitter.com,Naples,Florida,hnicollsp7
+2020-04-11,1:45:06,twitter.com,West Hartford,Connecticut,gmustonp8
+2020-04-11,2:40:15,facebook.com,Cleveland,Ohio,okemp9
+2020-04-11,2:29:41,twitter.com,Naples,Florida,haspallpa
+2020-04-11,0:32:35,youtube.com,Fresno,California,cdinseypb
+2020-04-11,13:59:23,Ravelry.com,Pittsburgh,Pennsylvania,lmablypc
+2020-04-11,20:01:38,facebook.com,West Hartford,Connecticut,dchildespd
+2020-04-11,2:08:21,google.com,Young America,Minnesota,dkettspe
+2020-04-11,22:12:47,Ravelry.com,Monticello,Minnesota,mmerrissonpf
+2020-04-11,12:34:17,google.com,Oklahoma City,Oklahoma,bdarycottpg
+2020-04-11,20:21:25,youtube.com,Austin,Texas,hspenceph
+2020-04-11,21:39:33,twitter.com,Birmingham,Alabama,apysonpi
+2020-04-11,10:04:46,twitter.com,Saint Paul,Minnesota,jarnalpj
+2020-04-11,10:08:29,MocoSpace.com,Salt Lake City,Utah,alichtfothpk
+2020-04-11,6:01:46,Ravelry.com,Stamford,Connecticut,dmitrovicpl
+2020-04-11,19:45:10,MocoSpace.com,Memphis,Tennessee,hlinfordpm
+2020-04-11,10:40:44,google.com,Minneapolis,Minnesota,egynnpn
+2020-04-11,0:03:46,facebook.com,New Orleans,Louisiana,achimentipo
+2020-04-11,4:28:02,google.com,Pittsburgh,Pennsylvania,bpomphrettpp
+2020-04-11,0:37:36,MocoSpace.com,Houston,Texas,tdahlpq
+2020-04-11,0:36:46,google.com,Flint,Michigan,sstudderspr
+2020-04-11,15:21:02,MocoSpace.com,Cleveland,Ohio,edillewayps
+2020-04-11,23:49:27,google.com,Denver,Colorado,mburtonpt
+2020-04-11,12:13:35,google.com,Charleston,South Carolina,hmansbridgepu
+2020-04-11,10:12:09,youtube.com,Peoria,Illinois,lheathcottpv
+2020-04-11,20:18:07,twitter.com,Metairie,Louisiana,fhelliwellpw
+2020-04-11,6:30:05,MocoSpace.com,Philadelphia,Pennsylvania,cjorrypx
+2020-04-11,18:14:25,facebook.com,Sacramento,California,gmatignonpy
+2020-04-11,21:01:12,facebook.com,Los Angeles,California,hdyettpz
+2020-04-11,0:50:56,google.com,Syracuse,New York,bnovisq0
+2020-04-11,13:22:03,twitter.com,Wichita,Kansas,kschlagtmansq1
+2020-04-11,0:09:37,youtube.com,Kansas City,Missouri,elanegranq2
+2020-04-11,6:45:28,facebook.com,Wichita,Kansas,mblackleyq3
+2020-04-11,11:19:50,Ravelry.com,Lakewood,Washington,eshelperq4
+2020-04-11,4:05:12,Ravelry.com,New York City,New York,bbontoftq5
+2020-04-11,12:17:35,google.com,New Orleans,Louisiana,dhalkyardq6
+2020-04-11,21:26:08,youtube.com,Manassas,Virginia,cdythamq7
+2020-04-11,15:18:09,youtube.com,Corpus Christi,Texas,kdesquesnesq8
+2020-04-11,8:29:51,facebook.com,Pensacola,Florida,hghilksq9
+2020-04-11,12:58:54,facebook.com,Saint Paul,Minnesota,bpossaqa
+2020-04-11,15:43:31,MocoSpace.com,Fairfax,Virginia,lspringtorpqb
+2020-04-11,2:07:22,Ravelry.com,Arlington,Virginia,cbartunekqc
+2020-04-11,19:37:29,google.com,Saint Paul,Minnesota,cfechnieqd
+2020-04-11,10:12:42,google.com,Kingsport,Tennessee,wchamberlenqe
+2020-04-11,12:17:55,google.com,Peoria,Illinois,lboutwellqf
+2020-04-11,18:10:54,MocoSpace.com,Houston,Texas,bmcgonigleqg
+2020-04-11,21:39:42,facebook.com,Charleston,South Carolina,acaswallqh
+2020-04-11,22:42:48,MocoSpace.com,Chicago,Illinois,ctelegaqi
+2020-04-11,17:36:29,youtube.com,Charlotte,North Carolina,whallgarthqj
+2020-04-11,9:47:09,Ravelry.com,Greenville,South Carolina,clindenfeldqk
+2020-04-11,2:36:17,facebook.com,Boston,Massachusetts,asappsonql
+2020-04-11,11:16:43,Ravelry.com,Tampa,Florida,kaishqm
+2020-04-11,13:00:34,facebook.com,Minneapolis,Minnesota,dfigguresqn
+2020-04-11,18:15:22,MocoSpace.com,Ogden,Utah,msturtonqo
+2020-04-11,3:54:38,facebook.com,Roanoke,Virginia,tfullqp
+2020-04-11,12:40:41,google.com,Houston,Texas,lflaundersqq
+2020-04-11,5:10:57,facebook.com,Shreveport,Louisiana,wpaynesqr
+2020-04-11,7:28:48,youtube.com,Las Vegas,Nevada,zlutzqs
+2020-04-11,9:54:58,Ravelry.com,Washington,District of Columbia,gbilstonqt
+2020-04-11,7:19:07,google.com,Fort Worth,Texas,gralestonqu
+2020-04-11,2:25:52,MocoSpace.com,Brooklyn,New York,rlambertzqv
+2020-04-11,1:05:52,MocoSpace.com,San Jose,California,lgabeqw
+2020-04-11,6:35:07,facebook.com,Sacramento,California,vvasyukhnovqx
+2020-04-11,17:33:42,google.com,San Antonio,Texas,gfairlieqy
+2020-04-11,17:53:22,facebook.com,Washington,District of Columbia,cdwerryhouseqz
+2020-04-11,7:49:41,twitter.com,Las Vegas,Nevada,esommerlyr0
+2020-04-11,15:32:43,MocoSpace.com,Cincinnati,Ohio,theyballr1
+2020-04-11,1:43:44,google.com,West Palm Beach,Florida,eheartr2
+2020-04-11,2:16:45,twitter.com,Lynchburg,Virginia,dcoutthartr3
+2020-04-11,3:23:37,twitter.com,Flint,Michigan,bantonichr4
+2020-04-11,3:07:37,facebook.com,Grand Rapids,Michigan,bleanr5
+2020-04-11,14:50:15,MocoSpace.com,Richmond,Virginia,dsinnier6
+2020-04-11,2:06:58,Ravelry.com,Baton Rouge,Louisiana,esillisr7
+2020-04-11,14:43:55,twitter.com,Oklahoma City,Oklahoma,wscotsonr8
+2020-04-11,23:12:01,MocoSpace.com,Denver,Colorado,tgascarr9
+2020-04-11,1:00:50,twitter.com,Albuquerque,New Mexico,trathbornera
+2020-04-11,16:34:02,facebook.com,Macon,Georgia,cdobbinsrb
+2020-04-11,11:14:36,facebook.com,Fresno,California,ipalingrc
+2020-04-11,21:39:08,google.com,Anderson,South Carolina,relsburyrd
+2020-04-11,16:34:20,twitter.com,El Paso,Texas,jrohfsenre
+2020-04-11,7:08:48,youtube.com,Houston,Texas,nlemmonrf
+2020-04-11,0:26:11,facebook.com,Reno,Nevada,jheppenspallrg
+2020-04-11,1:27:10,MocoSpace.com,Cincinnati,Ohio,cgyorffyrh
+2020-04-11,1:09:51,MocoSpace.com,Lexington,Kentucky,kstoppri
+2020-04-11,17:14:35,Ravelry.com,Trenton,New Jersey,mdickinsrj
+2020-04-11,22:35:06,twitter.com,Washington,District of Columbia,oshrimptonrk
+2020-04-11,22:49:42,Ravelry.com,New York City,New York,umcshirierl
+2020-04-11,9:43:44,youtube.com,Petaluma,California,ecorteneyrm
+2020-04-11,15:32:09,twitter.com,Dallas,Texas,ccatfordrn
+2020-04-11,11:42:07,google.com,Detroit,Michigan,hcouragero
+2020-04-11,0:14:11,google.com,San Jose,California,sjackerp
+2020-04-11,17:57:40,twitter.com,Houston,Texas,ebrittrq
+2020-04-11,10:40:02,Ravelry.com,New Orleans,Louisiana,cschachterrr

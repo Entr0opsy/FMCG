@@ -1,0 +1,36 @@
+SQL / HIVE / SPARK [BATCH]
+
+Generate ER Specific sample data from https://mockaroo.com/
+====================
+*)List of most trusted region wise brand according to the demand or orders of customer
+*)Most frequeantly shop category according to the customer age range
+*)Cities or Locality of store where demand of unbranded product is maximum
+*)City wise,which zones have the maximmum number of orders (Covid 19 situation)
+*)Category of products most likely bought by red zone customers (Covid 19 situation)
+*)Deliveries rejection prone locality/customers/delivery partners
+*)Fequently ordering consumers 
+*)Find top most purchased products
+
+[STREAM]
+
+Based on SampleData1.csv 
+====================
+^)Assume that every successful order is routed through some ESB like Kafka into the system and spark stream is a sink
+^)Modify OrderId,ProductId as per DB conventions
+^)Add customerid to this data as per DB conventions 
+====================
+*)Create a stateless batch to calculate stock consumption percentage for perishable items,business needs to ensure that the rate remains high
+*)In a defined window,based on customer address,find out which areas max demand is,to priortize & effectively manage order delivery
+====================
+
+Based on SampleData2.csv 
+====================
+^)Ignore data content...the model is related to url referrers.
+^)Using targeted advertising on different platforms,users are redirected to the website.
+====================
+*)maintain stateful info about which top 5 traffic Sources are generating the maximum leads
+====================
+
+====================
+^)Batch,Window should be customizable
+^)Generate more relevant data if required for runtime visualization
